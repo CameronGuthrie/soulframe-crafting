@@ -1203,6 +1203,123 @@
     "localize_tag": "/SF/Language/Armour/MendicantKingBodyName"
   },
   {
+    "name": "MendicantWazzardHelmBlueprint",
+    "path": "/SF/StoreItems/Types/Recipes/Armor/MendicantWazzardHelmBlueprint",
+    "parent": "/SF/Types/Game/StoreItemSpecializations/RecipeStoreItem",
+    "category": "Armor",
+    "rarity": "RARE",
+    "result_item": "/SF/StoreItems/Upgrades/Skins/Helmets/WazzardHelmet",
+    "result_item_name": "WazzardHelmet",
+    "ingredients": [
+      {
+        "item": "DendritWeaveResource",
+        "item_path": "/SF/Types/PickUps/Resources/Textiles/DendritWeaveResource",
+        "count": 40,
+        "alternatives": null
+      },
+      {
+        "item": "WornLeatherResource",
+        "item_path": "/SF/Types/PickUps/Resources/Textiles/WornLeatherResource",
+        "count": 40,
+        "alternatives": null
+      },
+      {
+        "item": "CorruptOnyxResource",
+        "item_path": "/SF/Types/PickUps/Resources/Inorganics/CorruptOnyxResource",
+        "count": 25,
+        "alternatives": null
+      }
+    ],
+    "build_time_seconds": 72000,
+    "build_time_human": "20h 0m",
+    "build_cost": 3500,
+    "rush_cost_premium": 15,
+    "blueprint_price": 20000,
+    "selling_price": 2500,
+    "num_required": 2,
+    "consume_on_use": null,
+    "icon": "/SF/Interface/Graphics/StoreItems/Helmets/WazzardHelmet.png",
+    "localize_tag": "/SF/Language/Armour/WazzardHelmetName"
+  },
+  {
+    "name": "MendicantWazzardLegsBlueprint",
+    "path": "/SF/StoreItems/Types/Recipes/Armor/MendicantWazzardLegsBlueprint",
+    "parent": "/SF/Types/Game/StoreItemSpecializations/RecipeStoreItem",
+    "category": "Armor",
+    "rarity": "RARE",
+    "result_item": "/SF/StoreItems/Upgrades/Skins/Legs/WazzardLegs",
+    "result_item_name": "WazzardLegs",
+    "ingredients": [
+      {
+        "item": "WornLeatherResource",
+        "item_path": "/SF/Types/PickUps/Resources/Textiles/WornLeatherResource",
+        "count": 40,
+        "alternatives": null
+      },
+      {
+        "item": "DendritWeaveResource",
+        "item_path": "/SF/Types/PickUps/Resources/Textiles/DendritWeaveResource",
+        "count": 40,
+        "alternatives": null
+      },
+      {
+        "item": "CorruptOnyxResource",
+        "item_path": "/SF/Types/PickUps/Resources/Inorganics/CorruptOnyxResource",
+        "count": 25,
+        "alternatives": null
+      }
+    ],
+    "build_time_seconds": 72000,
+    "build_time_human": "20h 0m",
+    "build_cost": 3500,
+    "rush_cost_premium": 15,
+    "blueprint_price": 20000,
+    "selling_price": 2500,
+    "num_required": 3,
+    "consume_on_use": null,
+    "icon": "/SF/Interface/Graphics/StoreItems/Leggings/WazzardLeggings.png",
+    "localize_tag": "/SF/Language/Armour/WazzardLegsName"
+  },
+  {
+    "name": "MendicantWazzardTorsoBlueprint",
+    "path": "/SF/StoreItems/Types/Recipes/Armor/MendicantWazzardTorsoBlueprint",
+    "parent": "/SF/Types/Game/StoreItemSpecializations/RecipeStoreItem",
+    "category": "Armor",
+    "rarity": "RARE",
+    "result_item": "/SF/StoreItems/Upgrades/Skins/Body/WazzardBody",
+    "result_item_name": "WazzardBody",
+    "ingredients": [
+      {
+        "item": "ScrapIronResource",
+        "item_path": "/SF/Types/PickUps/Resources/ScrapMetals/ScrapIronResource",
+        "count": 45,
+        "alternatives": null
+      },
+      {
+        "item": "DendritWeaveResource",
+        "item_path": "/SF/Types/PickUps/Resources/Textiles/DendritWeaveResource",
+        "count": 40,
+        "alternatives": null
+      },
+      {
+        "item": "CorruptOnyxResource",
+        "item_path": "/SF/Types/PickUps/Resources/Inorganics/CorruptOnyxResource",
+        "count": 25,
+        "alternatives": null
+      }
+    ],
+    "build_time_seconds": 72000,
+    "build_time_human": "20h 0m",
+    "build_cost": 3500,
+    "rush_cost_premium": 15,
+    "blueprint_price": 20000,
+    "selling_price": 2500,
+    "num_required": 4,
+    "consume_on_use": null,
+    "icon": "/SF/Interface/Graphics/StoreItems/Cuirass/WazzardCuirass.png",
+    "localize_tag": "/SF/Language/Armour/WazzardBodyName"
+  },
+  {
     "name": "MockeryHelmBlueprint",
     "path": "/SF/StoreItems/Types/Recipes/Armor/MockeryHelmBlueprint",
     "parent": "/SF/Types/Game/StoreItemSpecializations/RecipeStoreItem",
@@ -4548,7 +4665,7 @@
     "path": "/SF/StoreItems/Types/Recipes/Pacts/BromiusPactBlueprint",
     "parent": "/SF/Types/Game/StoreItemSpecializations/RecipeStoreItem",
     "category": "Other",
-    "rarity": "RARE",
+    "rarity": "UNCOMMON",
     "result_item": "/SF/StoreItems/Souls/Bromius/BromiusSoul",
     "result_item_name": "BromiusSoul",
     "ingredients": [
@@ -4710,7 +4827,7 @@
     "path": "/SF/StoreItems/Types/Recipes/Pacts/GarrenPactBlueprint",
     "parent": "/SF/Types/Game/StoreItemSpecializations/RecipeStoreItem",
     "category": "Other",
-    "rarity": "RARE",
+    "rarity": "UNCOMMON",
     "result_item": "/SF/StoreItems/Souls/Stag/StagSoul",
     "result_item_name": "StagSoul",
     "ingredients": [
@@ -4749,7 +4866,7 @@
     "path": "/SF/StoreItems/Types/Recipes/Pacts/OrengalPactBlueprint",
     "parent": "/SF/Types/Game/StoreItemSpecializations/RecipeStoreItem",
     "category": "Other",
-    "rarity": "RARE",
+    "rarity": "UNCOMMON",
     "result_item": "/SF/StoreItems/Souls/Wolf/WolfSoul",
     "result_item_name": "WolfSoul",
     "ingredients": [
@@ -5782,6 +5899,98 @@
     "localize_tag": "/SF/Language/Weapons/DendritBowRangedMeleeWeaponName"
   },
   {
+    "name": "DendritStaffCasterRangedMeleeWeaponBlueprint",
+    "path": "/SF/StoreItems/Types/Recipes/Weapons/DendritStaffCasterRangedMeleeWeaponBlueprint",
+    "parent": "/SF/Types/Game/StoreItemSpecializations/RecipeStoreItem",
+    "category": "Weapons",
+    "rarity": "UNCOMMON",
+    "result_item": "/SF/StoreItems/Weapons/Ranged/OneHand/DendritStaffCaster/DendritStaffCasterRangedMeleeWeapon",
+    "result_item_name": "DendritStaffCasterRangedMeleeWeapon",
+    "ingredients": [
+      {
+        "item": "ScrapIronResource",
+        "item_path": "/SF/Types/PickUps/Resources/ScrapMetals/ScrapIronResource",
+        "count": 15,
+        "alternatives": null
+      },
+      {
+        "item": "KnotwoodPlanksResource",
+        "item_path": "/SF/Types/PickUps/Resources/Organics/KnotwoodPlanksResource",
+        "count": 20,
+        "alternatives": null
+      },
+      {
+        "item": "MoraniteResource",
+        "item_path": "/SF/Types/PickUps/Resources/Organics/MoraniteResource",
+        "count": 6,
+        "alternatives": null
+      }
+    ],
+    "build_time_seconds": 72000,
+    "build_time_human": "20h 0m",
+    "build_cost": 3500,
+    "rush_cost_premium": 15,
+    "blueprint_price": 20000,
+    "selling_price": 75,
+    "num_required": 3,
+    "consume_on_use": null,
+    "icon": "/SF/Interface/Graphics/StoreItems/Weapons/DendritStaff.png",
+    "localize_tag": "/SF/Language/Weapons/DendritStaffCasterRangedMeleeWeaponName"
+  },
+  {
+    "name": "DendritStaffCasterRangedMeleeWeaponReforgeBlueprint",
+    "path": "/SF/StoreItems/Types/Recipes/Weapons/DendritStaffCasterRangedMeleeWeaponReforgeBlueprint",
+    "parent": "/SF/Types/Game/StoreItemSpecializations/RecipeStoreItem",
+    "category": "Weapons",
+    "rarity": "UNCOMMON",
+    "result_item": "/SF/StoreItems/Weapons/Ranged/OneHand/DendritStaffCaster/DendritStaffCasterRangedMeleeWeapon",
+    "result_item_name": "DendritStaffCasterRangedMeleeWeapon",
+    "ingredients": [
+      {
+        "item": "ScrapIronResource",
+        "item_path": "/SF/Types/PickUps/Resources/ScrapMetals/ScrapIronResource",
+        "count": 15,
+        "alternatives": null
+      },
+      {
+        "item": "KnotwoodPlanksResource",
+        "item_path": "/SF/Types/PickUps/Resources/Organics/KnotwoodPlanksResource",
+        "count": 20,
+        "alternatives": null
+      },
+      {
+        "item": "MoraniteResource",
+        "item_path": "/SF/Types/PickUps/Resources/Organics/MoraniteResource",
+        "count": 6,
+        "alternatives": null
+      },
+      {
+        "item": "BaseKintsugiWeaponUpgradeCaster",
+        "item_path": "/SF/Types/Items/Kintsugi/BaseKintsugiWeaponUpgradeCaster",
+        "count": 1,
+        "alternatives": [
+          "/SF/Types/Items/Kintsugi/BaseKintsugiUniversalUpgrade"
+        ]
+      },
+      {
+        "item": "DendritStaffCasterRangedMeleeWeapon",
+        "item_path": "/SF/Weapons/Ranged/OneHand/DendritStaffCaster/DendritStaffCasterRangedMeleeWeapon",
+        "count": 1,
+        "alternatives": null
+      }
+    ],
+    "build_time_seconds": 0,
+    "build_time_human": null,
+    "build_cost": 3500,
+    "rush_cost_premium": 0,
+    "blueprint_price": 20000,
+    "selling_price": 2500,
+    "num_required": null,
+    "consume_on_use": false,
+    "icon": "/SF/Interface/Graphics/StoreItems/Weapons/DendritStaff.png",
+    "localize_tag": "/SF/Language/Weapons/DendritStaffCasterRangedMeleeWeaponName"
+  },
+  {
     "name": "DendritSwordAndBoardMeleeWeaponBlueprint",
     "path": "/SF/StoreItems/Types/Recipes/Weapons/DendritSwordAndBoardMeleeWeaponBlueprint",
     "parent": "/SF/Types/Game/StoreItemSpecializations/RecipeStoreItem",
@@ -6058,6 +6267,98 @@
     "localize_tag": "/SF/Language/Weapons/DeoraPolearmMeleeWeaponName"
   },
   {
+    "name": "FennCastingDeviceRangedMeleeWeaponBlueprint",
+    "path": "/SF/StoreItems/Types/Recipes/Weapons/FennCastingDeviceRangedMeleeWeaponBlueprint",
+    "parent": "/SF/Types/Game/StoreItemSpecializations/RecipeStoreItem",
+    "category": "Weapons",
+    "rarity": "UNCOMMON",
+    "result_item": "/SF/StoreItems/Weapons/Ranged/OneHand/FennCastingDevice/FennCastingDeviceRangedMeleeWeapon",
+    "result_item_name": "FennCastingDeviceRangedMeleeWeapon",
+    "ingredients": [
+      {
+        "item": "ScrapBrassResource",
+        "item_path": "/SF/Types/PickUps/Resources/ScrapMetals/ScrapBrassResource",
+        "count": 25,
+        "alternatives": null
+      },
+      {
+        "item": "ScrapSteelResource",
+        "item_path": "/SF/Types/PickUps/Resources/ScrapMetals/ScrapSteelResource",
+        "count": 25,
+        "alternatives": null
+      },
+      {
+        "item": "QuenchingAcidResource",
+        "item_path": "/SF/Types/PickUps/Resources/Organics/QuenchingAcidResource",
+        "count": 20,
+        "alternatives": null
+      }
+    ],
+    "build_time_seconds": 36000,
+    "build_time_human": "10h 0m",
+    "build_cost": 2500,
+    "rush_cost_premium": 10,
+    "blueprint_price": 20000,
+    "selling_price": 75,
+    "num_required": 2,
+    "consume_on_use": null,
+    "icon": "/SF/Interface/Graphics/StoreItems/Weapons/FennCastingDevice.png",
+    "localize_tag": "/SF/Language/Weapons/FennCastingDeviceRangedMeleeWeaponName"
+  },
+  {
+    "name": "FennCastingDeviceRangedMeleeWeaponReforgeBlueprint",
+    "path": "/SF/StoreItems/Types/Recipes/Weapons/FennCastingDeviceRangedMeleeWeaponReforgeBlueprint",
+    "parent": "/SF/Types/Game/StoreItemSpecializations/RecipeStoreItem",
+    "category": "Weapons",
+    "rarity": "UNCOMMON",
+    "result_item": "/SF/StoreItems/Weapons/Ranged/OneHand/FennCastingDevice/FennCastingDeviceRangedMeleeWeapon",
+    "result_item_name": "FennCastingDeviceRangedMeleeWeapon",
+    "ingredients": [
+      {
+        "item": "ScrapBrassResource",
+        "item_path": "/SF/Types/PickUps/Resources/ScrapMetals/ScrapBrassResource",
+        "count": 25,
+        "alternatives": null
+      },
+      {
+        "item": "ScrapSteelResource",
+        "item_path": "/SF/Types/PickUps/Resources/ScrapMetals/ScrapSteelResource",
+        "count": 25,
+        "alternatives": null
+      },
+      {
+        "item": "QuenchingAcidResource",
+        "item_path": "/SF/Types/PickUps/Resources/Organics/QuenchingAcidResource",
+        "count": 20,
+        "alternatives": null
+      },
+      {
+        "item": "BaseKintsugiWeaponUpgradeCaster",
+        "item_path": "/SF/Types/Items/Kintsugi/BaseKintsugiWeaponUpgradeCaster",
+        "count": 1,
+        "alternatives": [
+          "/SF/Types/Items/Kintsugi/BaseKintsugiUniversalUpgrade"
+        ]
+      },
+      {
+        "item": "FennCastingDeviceRangedMeleeWeapon",
+        "item_path": "/SF/Weapons/Ranged/OneHand/FennCastingDevice/FennCastingDeviceRangedMeleeWeapon",
+        "count": 1,
+        "alternatives": null
+      }
+    ],
+    "build_time_seconds": 0,
+    "build_time_human": null,
+    "build_cost": 2500,
+    "rush_cost_premium": 0,
+    "blueprint_price": 20000,
+    "selling_price": 2500,
+    "num_required": null,
+    "consume_on_use": false,
+    "icon": "/SF/Interface/Graphics/StoreItems/Weapons/FennCastingDevice.png",
+    "localize_tag": "/SF/Language/Weapons/FennCastingDeviceRangedMeleeWeaponName"
+  },
+  {
     "name": "FennJotarSwordBlueprint",
     "path": "/SF/StoreItems/Types/Recipes/Weapons/FennJotarSwordBlueprint",
     "parent": "/SF/Types/Game/StoreItemSpecializations/RecipeStoreItem",
@@ -6253,7 +6554,7 @@
       {
         "item": "ScrapBrassResource",
         "item_path": "/SF/Types/PickUps/Resources/ScrapMetals/ScrapBrassResource",
-        "count": 20,
+        "count": 25,
         "alternatives": null
       },
       {
@@ -6306,7 +6607,7 @@
       {
         "item": "ScrapBrassResource",
         "item_path": "/SF/Types/PickUps/Resources/ScrapMetals/ScrapBrassResource",
-        "count": 20,
+        "count": 25,
         "alternatives": null
       },
       {
@@ -8635,6 +8936,98 @@
     "consume_on_use": false,
     "icon": "/SF/Interface/Graphics/StoreItems/Weapons/StarterBow.png",
     "localize_tag": "/SF/Language/Weapons/StarterBowRangedMeleeWeaponName"
+  },
+  {
+    "name": "StarterSplitSwordsMeleeWeaponBlueprint",
+    "path": "/SF/StoreItems/Types/Recipes/Weapons/StarterSplitSwordsMeleeWeaponBlueprint",
+    "parent": "/SF/Types/Game/StoreItemSpecializations/RecipeStoreItem",
+    "category": "Weapons",
+    "rarity": "UNCOMMON",
+    "result_item": "/SF/StoreItems/Weapons/Melee/OneHand/StarterSplitSwords/StarterSplitSwordsMeleeWeapon",
+    "result_item_name": "StarterSplitSwordsMeleeWeapon",
+    "ingredients": [
+      {
+        "item": "ScrapSteelResource",
+        "item_path": "/SF/Types/PickUps/Resources/ScrapMetals/ScrapSteelResource",
+        "count": 20,
+        "alternatives": null
+      },
+      {
+        "item": "KnotwoodPlanksResource",
+        "item_path": "/SF/Types/PickUps/Resources/Organics/KnotwoodPlanksResource",
+        "count": 25,
+        "alternatives": null
+      },
+      {
+        "item": "SproutFolkFondResource",
+        "item_path": "/SF/Types/PickUps/Resources/Textiles/SproutFolkFondResource",
+        "count": 25,
+        "alternatives": null
+      }
+    ],
+    "build_time_seconds": 36000,
+    "build_time_human": "10h 0m",
+    "build_cost": 2500,
+    "rush_cost_premium": 10,
+    "blueprint_price": 20000,
+    "selling_price": 75,
+    "num_required": 2,
+    "consume_on_use": null,
+    "icon": "/SF/Interface/Graphics/StoreItems/Weapons/StarterSplitSword.png",
+    "localize_tag": "/SF/Language/Weapons/StarterSplitSwordMeleeWeaponName"
+  },
+  {
+    "name": "StarterSplitSwordsMeleeWeaponReforgeBlueprint",
+    "path": "/SF/StoreItems/Types/Recipes/Weapons/StarterSplitSwordsMeleeWeaponReforgeBlueprint",
+    "parent": "/SF/Types/Game/StoreItemSpecializations/RecipeStoreItem",
+    "category": "Weapons",
+    "rarity": null,
+    "result_item": "/SF/StoreItems/Weapons/Melee/OneHand/StarterSplitSwords/StarterSplitSwordsMeleeWeapon",
+    "result_item_name": "StarterSplitSwordsMeleeWeapon",
+    "ingredients": [
+      {
+        "item": "StarterSplitSwordsMeleeWeapon",
+        "item_path": "/SF/Weapons/Melee/OneHand/StarterSplitSwords/StarterSplitSwordsMeleeWeapon",
+        "count": 1,
+        "alternatives": null
+      },
+      {
+        "item": "ScrapSteelResource",
+        "item_path": "/SF/Types/PickUps/Resources/ScrapMetals/ScrapSteelResource",
+        "count": 20,
+        "alternatives": null
+      },
+      {
+        "item": "KnotwoodPlanksResource",
+        "item_path": "/SF/Types/PickUps/Resources/Organics/KnotwoodPlanksResource",
+        "count": 25,
+        "alternatives": null
+      },
+      {
+        "item": "SproutFolkFondResource",
+        "item_path": "/SF/Types/PickUps/Resources/Textiles/SproutFolkFondResource",
+        "count": 25,
+        "alternatives": null
+      },
+      {
+        "item": "BaseKintsugiWeaponUpgrade",
+        "item_path": "/SF/Types/Items/Kintsugi/BaseKintsugiWeaponUpgrade",
+        "count": 1,
+        "alternatives": [
+          "/SF/Types/Items/Kintsugi/BaseKintsugiUniversalUpgrade"
+        ]
+      }
+    ],
+    "build_time_seconds": 0,
+    "build_time_human": null,
+    "build_cost": 2500,
+    "rush_cost_premium": 0,
+    "blueprint_price": 20000,
+    "selling_price": 2500,
+    "num_required": null,
+    "consume_on_use": false,
+    "icon": "/SF/Interface/Graphics/StoreItems/Weapons/StarterSplitSword.png",
+    "localize_tag": "/SF/Language/Weapons/StarterSplitSwordMeleeWeaponName"
   },
   {
     "name": "StarterStaffCasterRangedMeleeWeaponBlueprint",
@@ -13911,6 +14304,98 @@
     "localize_tag": null
   },
   {
+    "name": "DendritStaffCasterRangedMeleeWeaponBlueprint",
+    "path": "/SF/Types/Recipes/Weapons/DendritStaffCasterRangedMeleeWeaponBlueprint",
+    "parent": "/SF/Types/Recipes/Weapons/TierBBaseBlueprint",
+    "category": "Weapons",
+    "rarity": null,
+    "result_item": "/SF/StoreItems/Weapons/Ranged/OneHand/DendritStaffCaster/DendritStaffCasterRangedMeleeWeapon",
+    "result_item_name": "DendritStaffCasterRangedMeleeWeapon",
+    "ingredients": [
+      {
+        "item": "ScrapIronResource",
+        "item_path": "/SF/Types/PickUps/Resources/ScrapMetals/ScrapIronResource",
+        "count": 15,
+        "alternatives": null
+      },
+      {
+        "item": "KnotwoodPlanksResource",
+        "item_path": "/SF/Types/PickUps/Resources/Organics/KnotwoodPlanksResource",
+        "count": 20,
+        "alternatives": null
+      },
+      {
+        "item": "MoraniteResource",
+        "item_path": "/SF/Types/PickUps/Resources/Organics/MoraniteResource",
+        "count": 6,
+        "alternatives": null
+      }
+    ],
+    "build_time_seconds": 72000,
+    "build_time_human": "20h 0m",
+    "build_cost": 3500,
+    "rush_cost_premium": 15,
+    "blueprint_price": null,
+    "selling_price": null,
+    "num_required": 3,
+    "consume_on_use": null,
+    "icon": null,
+    "localize_tag": null
+  },
+  {
+    "name": "DendritStaffCasterRangedMeleeWeaponReforgeBlueprint",
+    "path": "/SF/Types/Recipes/Weapons/DendritStaffCasterRangedMeleeWeaponReforgeBlueprint",
+    "parent": "/SF/Types/Game/RecipeItem",
+    "category": "Weapons",
+    "rarity": "UNCOMMON",
+    "result_item": "/SF/StoreItems/Weapons/Ranged/OneHand/DendritStaffCaster/DendritStaffCasterRangedMeleeWeapon",
+    "result_item_name": "DendritStaffCasterRangedMeleeWeapon",
+    "ingredients": [
+      {
+        "item": "ScrapIronResource",
+        "item_path": "/SF/Types/PickUps/Resources/ScrapMetals/ScrapIronResource",
+        "count": 15,
+        "alternatives": null
+      },
+      {
+        "item": "KnotwoodPlanksResource",
+        "item_path": "/SF/Types/PickUps/Resources/Organics/KnotwoodPlanksResource",
+        "count": 20,
+        "alternatives": null
+      },
+      {
+        "item": "MoraniteResource",
+        "item_path": "/SF/Types/PickUps/Resources/Organics/MoraniteResource",
+        "count": 6,
+        "alternatives": null
+      },
+      {
+        "item": "BaseKintsugiWeaponUpgradeCaster",
+        "item_path": "/SF/Types/Items/Kintsugi/BaseKintsugiWeaponUpgradeCaster",
+        "count": 1,
+        "alternatives": [
+          "/SF/Types/Items/Kintsugi/BaseKintsugiUniversalUpgrade"
+        ]
+      },
+      {
+        "item": "DendritStaffCasterRangedMeleeWeapon",
+        "item_path": "/SF/Weapons/Ranged/OneHand/DendritStaffCaster/DendritStaffCasterRangedMeleeWeapon",
+        "count": 1,
+        "alternatives": null
+      }
+    ],
+    "build_time_seconds": 0,
+    "build_time_human": null,
+    "build_cost": 3500,
+    "rush_cost_premium": 0,
+    "blueprint_price": 20000,
+    "selling_price": null,
+    "num_required": null,
+    "consume_on_use": false,
+    "icon": "/SF/Interface/Graphics/StoreItems/Fragments/WeaponFragment.png",
+    "localize_tag": null
+  },
+  {
     "name": "DendritSwordAndBoardMeleeWeaponBlueprint",
     "path": "/SF/Types/Recipes/Weapons/DendritSwordAndBoardMeleeWeaponBlueprint",
     "parent": "/SF/Types/Recipes/Weapons/TierBBaseBlueprint",
@@ -14187,6 +14672,98 @@
     "localize_tag": null
   },
   {
+    "name": "FennCastingDeviceRangedMeleeWeaponBlueprint",
+    "path": "/SF/Types/Recipes/Weapons/FennCastingDeviceRangedMeleeWeaponBlueprint",
+    "parent": "/SF/Types/Recipes/Weapons/TierBBaseBlueprint",
+    "category": "Weapons",
+    "rarity": null,
+    "result_item": "/SF/StoreItems/Weapons/Ranged/OneHand/FennCastingDevice/FennCastingDeviceRangedMeleeWeapon",
+    "result_item_name": "FennCastingDeviceRangedMeleeWeapon",
+    "ingredients": [
+      {
+        "item": "ScrapBrassResource",
+        "item_path": "/SF/Types/PickUps/Resources/ScrapMetals/ScrapBrassResource",
+        "count": 25,
+        "alternatives": null
+      },
+      {
+        "item": "ScrapSteelResource",
+        "item_path": "/SF/Types/PickUps/Resources/ScrapMetals/ScrapSteelResource",
+        "count": 25,
+        "alternatives": null
+      },
+      {
+        "item": "QuenchingAcidResource",
+        "item_path": "/SF/Types/PickUps/Resources/Organics/QuenchingAcidResource",
+        "count": 20,
+        "alternatives": null
+      }
+    ],
+    "build_time_seconds": 36000,
+    "build_time_human": "10h 0m",
+    "build_cost": 2500,
+    "rush_cost_premium": 10,
+    "blueprint_price": null,
+    "selling_price": null,
+    "num_required": 2,
+    "consume_on_use": null,
+    "icon": null,
+    "localize_tag": null
+  },
+  {
+    "name": "FennCastingDeviceRangedMeleeWeaponReforgeBlueprint",
+    "path": "/SF/Types/Recipes/Weapons/FennCastingDeviceRangedMeleeWeaponReforgeBlueprint",
+    "parent": "/SF/Types/Game/RecipeItem",
+    "category": "Weapons",
+    "rarity": "UNCOMMON",
+    "result_item": "/SF/StoreItems/Weapons/Ranged/OneHand/FennCastingDevice/FennCastingDeviceRangedMeleeWeapon",
+    "result_item_name": "FennCastingDeviceRangedMeleeWeapon",
+    "ingredients": [
+      {
+        "item": "ScrapBrassResource",
+        "item_path": "/SF/Types/PickUps/Resources/ScrapMetals/ScrapBrassResource",
+        "count": 25,
+        "alternatives": null
+      },
+      {
+        "item": "ScrapSteelResource",
+        "item_path": "/SF/Types/PickUps/Resources/ScrapMetals/ScrapSteelResource",
+        "count": 25,
+        "alternatives": null
+      },
+      {
+        "item": "QuenchingAcidResource",
+        "item_path": "/SF/Types/PickUps/Resources/Organics/QuenchingAcidResource",
+        "count": 20,
+        "alternatives": null
+      },
+      {
+        "item": "BaseKintsugiWeaponUpgradeCaster",
+        "item_path": "/SF/Types/Items/Kintsugi/BaseKintsugiWeaponUpgradeCaster",
+        "count": 1,
+        "alternatives": [
+          "/SF/Types/Items/Kintsugi/BaseKintsugiUniversalUpgrade"
+        ]
+      },
+      {
+        "item": "FennCastingDeviceRangedMeleeWeapon",
+        "item_path": "/SF/Weapons/Ranged/OneHand/FennCastingDevice/FennCastingDeviceRangedMeleeWeapon",
+        "count": 1,
+        "alternatives": null
+      }
+    ],
+    "build_time_seconds": 0,
+    "build_time_human": null,
+    "build_cost": 2500,
+    "rush_cost_premium": 0,
+    "blueprint_price": 20000,
+    "selling_price": null,
+    "num_required": null,
+    "consume_on_use": false,
+    "icon": "/SF/Interface/Graphics/StoreItems/Fragments/WeaponFragment.png",
+    "localize_tag": null
+  },
+  {
     "name": "FennJotarSwordBlueprint",
     "path": "/SF/Types/Recipes/Weapons/FennJotarSwordBlueprint",
     "parent": "/SF/Types/Recipes/Weapons/TierBBaseBlueprint",
@@ -14382,7 +14959,7 @@
       {
         "item": "ScrapBrassResource",
         "item_path": "/SF/Types/PickUps/Resources/ScrapMetals/ScrapBrassResource",
-        "count": 20,
+        "count": 25,
         "alternatives": null
       },
       {
@@ -14435,7 +15012,7 @@
       {
         "item": "ScrapBrassResource",
         "item_path": "/SF/Types/PickUps/Resources/ScrapMetals/ScrapBrassResource",
-        "count": 20,
+        "count": 25,
         "alternatives": null
       },
       {
