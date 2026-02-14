@@ -1,0 +1,2419 @@
+{
+  "metadata": {
+    "generated_at": "2026-02-14T00:15:28Z",
+    "source": "Packages.bin (H.Misc cache)",
+    "total_pieces": 97,
+    "slots": {
+      "body": 19,
+      "helmet": 24,
+      "legs": 19,
+      "sleeve": 12,
+      "totem": 23
+    },
+    "stat_fields": {
+      "armour.physical": "Physical damage reduction. Higher = less physical damage taken.",
+      "armour.magick": "Magick damage reduction. Higher = less elemental/magick damage taken.",
+      "armour.stability": "Stability armour. Higher = harder to stagger/break guard.",
+      "armour.attunement_scaling": "Per-armour-type stat scaling. Shows which attributes (AT_COURAGE, AT_SPIRIT, AT_GRACE) increase each armour type and by how much.",
+      "requirements": "Minimum attribute levels needed to equip the piece.",
+      "set_name": "Armour set this piece belongs to (e.g. 'Bromius', 'Garren').",
+      "totem_size_restriction": "Companion size required (CS_SMALL, CS_MEDIUM, CS_LARGE).",
+      "upgrades (totems)": "Stat bonuses provided by the totem. Types include AVATAR_ATTRIBUTE_PRIMARY_{COURAGE,SPIRIT,GRACE}, AVATAR_ARMOUR, AVATAR_STABILITY_ARMOUR, WEAPON_MELEE_DAMAGE, WEAPON_STABILITY_DAMAGE."
+    }
+  },
+  "armour": [
+    {
+      "path": "/SF/Upgrades/Skins/Body/BromiusBody",
+      "name": "Bromius Body",
+      "slot": "body",
+      "rarity": "RARE",
+      "localize_tag": "/SF/Language/Armour/BromiusBodyName",
+      "localize_desc_tag": "/SF/Language/Armour/BromiusBodyDesc",
+      "set_tag": "/SF/Language/StoreTags/BromiusSet",
+      "icon": "/SF/Interface/Graphics/StoreItems/Cuirass/BromiusCuirass.png",
+      "premium_price": 100,
+      "market_mode": "MM_HIDDEN",
+      "exclude_from_codex": true,
+      "totem_size_restriction": "CS_LARGE",
+      "set_name": "Bromius",
+      "armour": {
+        "physical": 7,
+        "magick": 2,
+        "stability": 4,
+        "attunement_scaling": {
+          "physical": {
+            "AT_COURAGE": 3
+          },
+          "magick": {
+            "AT_COURAGE": 1
+          },
+          "stability": {
+            "AT_COURAGE": 2
+          }
+        }
+      },
+      "requirements": {
+        "AT_COURAGE": 22
+      }
+    },
+    {
+      "path": "/SF/Upgrades/Skins/Body/CircadeBody",
+      "name": "Circade Body",
+      "slot": "body",
+      "rarity": "RARE",
+      "localize_tag": "/SF/Language/Armour/CircadeBodyName",
+      "localize_desc_tag": "/SF/Language/Armour/CircadeBodyDesc",
+      "icon": "/SF/Interface/Graphics/StoreItems/Cuirass/CircadeCuirass.png",
+      "market_mode": "MM_HIDDEN",
+      "totem_size_restriction": "CS_LARGE",
+      "set_name": "Circade",
+      "armour": {
+        "physical": 6,
+        "stability": 4,
+        "attunement_scaling": {
+          "physical": {
+            "AT_COURAGE": 3
+          },
+          "stability": {
+            "AT_COURAGE": 2
+          }
+        }
+      },
+      "requirements": {
+        "AT_COURAGE": 14
+      }
+    },
+    {
+      "path": "/SF/Upgrades/Skins/Body/DeoraBody",
+      "name": "Deora Body",
+      "slot": "body",
+      "rarity": "UNCOMMON",
+      "localize_tag": "/SF/Language/Armour/DeoraBodyName",
+      "localize_desc_tag": "/SF/Language/Armour/DeoraBodyDesc",
+      "icon": "/SF/Interface/Graphics/StoreItems/Cuirass/DeoraCuirass.png",
+      "premium_price": 85,
+      "market_mode": "MM_HIDDEN",
+      "totem_size_restriction": "CS_MEDIUM",
+      "set_name": "Deora",
+      "armour": {
+        "physical": 6,
+        "magick": 3,
+        "stability": 2,
+        "attunement_scaling": {
+          "physical": {
+            "AT_COURAGE": 2,
+            "AT_SPIRIT": 2
+          },
+          "magick": {
+            "AT_COURAGE": 1,
+            "AT_SPIRIT": 2
+          },
+          "stability": {
+            "AT_COURAGE": 2
+          }
+        }
+      },
+      "requirements": {
+        "AT_COURAGE": 15
+      }
+    },
+    {
+      "path": "/SF/Upgrades/Skins/Body/FarmerBody",
+      "name": "Farmer Body",
+      "slot": "body",
+      "rarity": "UNCOMMON",
+      "localize_tag": "/SF/Language/Armour/FarmerBodyName",
+      "localize_desc_tag": "/SF/Language/Armour/FarmerBodyDesc",
+      "set_tag": "/SF/Language/StoreTags/SproutFarmerSet",
+      "icon": "/SF/Interface/Graphics/StoreItems/Cuirass/SproutFarmerCuirass.png",
+      "premium_price": 80,
+      "market_mode": "MM_HIDDEN",
+      "exclude_from_codex": true,
+      "totem_size_restriction": "CS_MEDIUM",
+      "set_name": "Sprout Farmer",
+      "armour": {
+        "physical": 5,
+        "stability": 4,
+        "attunement_scaling": {
+          "physical": {
+            "AT_COURAGE": 2,
+            "AT_GRACE": 2
+          },
+          "stability": {
+            "AT_COURAGE": 2,
+            "AT_GRACE": 2
+          }
+        }
+      },
+      "requirements": {
+        "AT_GRACE": 17
+      }
+    },
+    {
+      "path": "/SF/Upgrades/Skins/Body/FennJotarBody",
+      "name": "Fenn Jotar Body",
+      "slot": "body",
+      "rarity": "UNCOMMON",
+      "localize_tag": "/SF/Language/Armour/FennJotarBodyName",
+      "localize_desc_tag": "/SF/Language/Armour/FennJotarBodyDesc",
+      "set_tag": "/SF/Language/StoreTags/FennJotarSet",
+      "icon": "/SF/Interface/Graphics/StoreItems/Cuirass/FennJotarCuirass.png",
+      "premium_price": 95,
+      "market_mode": "MM_HIDDEN",
+      "totem_size_restriction": "CS_MEDIUM",
+      "set_name": "Fenn Jotar",
+      "armour": {
+        "physical": 5,
+        "magick": 2,
+        "stability": 3,
+        "attunement_scaling": {
+          "physical": {
+            "AT_COURAGE": 2,
+            "AT_GRACE": 2
+          },
+          "magick": {
+            "AT_COURAGE": 1
+          },
+          "stability": {
+            "AT_COURAGE": 1,
+            "AT_GRACE": 2
+          }
+        }
+      },
+      "requirements": {
+        "AT_COURAGE": 15
+      }
+    },
+    {
+      "path": "/SF/Upgrades/Skins/Body/ForgetFireAltBody",
+      "name": "Forget Fire Alt Body",
+      "slot": "body",
+      "localize_tag": "/SF/Language/Armour/ForgetFireBodyAltName",
+      "localize_desc_tag": "/SF/Language/Armour/ForgetFireBodyAltDesc",
+      "set_tag": "/SF/Language/StoreTags/TempestSet",
+      "icon": "/SF/Interface/Graphics/StoreItems/Cuirass/ForgetFireAltCuirass.png",
+      "premium_price": 70,
+      "market_mode": "MM_HIDDEN",
+      "totem_size_restriction": "CS_LARGE",
+      "set_name": "Tempest",
+      "armour": {
+        "physical": 3,
+        "stability": 4,
+        "attunement_scaling": {
+          "physical": {
+            "AT_GRACE": 2
+          },
+          "stability": {
+            "AT_GRACE": 2
+          }
+        }
+      },
+      "requirements": {
+        "AT_GRACE": 10
+      }
+    },
+    {
+      "path": "/SF/Upgrades/Skins/Body/ForgetFireBody",
+      "name": "Forget Fire Body",
+      "slot": "body",
+      "localize_tag": "/SF/Language/Armour/ForgetFireBodyName",
+      "localize_desc_tag": "/SF/Language/Armour/ForgetFireBodyDesc",
+      "set_tag": "/SF/Language/StoreTags/ForgetFireSet",
+      "icon": "/SF/Interface/Graphics/StoreItems/Cuirass/ForgetFireCuirass.png",
+      "premium_price": 65,
+      "market_mode": "MM_HIDDEN",
+      "totem_size_restriction": "CS_LARGE",
+      "set_name": "Forget Fire",
+      "armour": {
+        "physical": 4,
+        "stability": 3,
+        "attunement_scaling": {
+          "physical": {
+            "AT_COURAGE": 2
+          },
+          "stability": {
+            "AT_COURAGE": 2
+          }
+        }
+      },
+      "requirements": {
+        "AT_COURAGE": 12
+      }
+    },
+    {
+      "path": "/SF/Upgrades/Skins/Body/GaleneBody",
+      "name": "Galene Body",
+      "slot": "body",
+      "rarity": "UNCOMMON",
+      "localize_tag": "/SF/Language/Armour/GaleneBodyName",
+      "localize_desc_tag": "/SF/Language/Armour/GaleneBodyDesc",
+      "icon": "/SF/Interface/Graphics/StoreItems/Cuirass/OsceldaCuirass.png",
+      "market_mode": "MM_HIDDEN",
+      "exclude_from_codex": true,
+      "totem_size_restriction": "CS_MEDIUM",
+      "set_name": "Galene",
+      "armour": {
+        "physical": 3,
+        "magick": 5,
+        "attunement_scaling": {
+          "physical": {
+            "AT_SPIRIT": 2
+          },
+          "magick": {
+            "AT_SPIRIT": 1
+          }
+        }
+      }
+    },
+    {
+      "path": "/SF/Upgrades/Skins/Body/GarrenBody",
+      "name": "Garren Body",
+      "slot": "body",
+      "rarity": "UNCOMMON",
+      "localize_tag": "/SF/Language/Armour/GarrenBodyName",
+      "localize_desc_tag": "/SF/Language/Armour/GarrenBodyDesc",
+      "set_tag": "/SF/Language/StoreTags/GarrenSet",
+      "icon": "/SF/Interface/Graphics/StoreItems/Cuirass/GarrenCuirass.png",
+      "premium_price": 90,
+      "market_mode": "MM_HIDDEN",
+      "totem_size_restriction": "CS_MEDIUM",
+      "set_name": "Garren",
+      "armour": {
+        "physical": 3,
+        "magick": 3,
+        "stability": 3,
+        "attunement_scaling": {
+          "physical": {
+            "AT_SPIRIT": 1,
+            "AT_GRACE": 2
+          },
+          "magick": {
+            "AT_SPIRIT": 2,
+            "AT_GRACE": 1
+          },
+          "stability": {
+            "AT_SPIRIT": 1,
+            "AT_GRACE": 2
+          }
+        }
+      },
+      "requirements": {
+        "AT_GRACE": 15
+      }
+    },
+    {
+      "path": "/SF/Upgrades/Skins/Body/JosalfarBody",
+      "name": "Josalfar Body",
+      "slot": "body",
+      "rarity": "UNCOMMON",
+      "localize_tag": "/SF/Language/Armour/JosalfarBodyName",
+      "localize_desc_tag": "/SF/Language/Armour/JosalfarBodyDesc",
+      "icon": "/SF/Interface/Graphics/StoreItems/Cuirass/SirinCuirass.png",
+      "market_mode": "MM_HIDDEN",
+      "exclude_from_codex": true,
+      "totem_size_restriction": "CS_MEDIUM",
+      "set_name": "Josalfar",
+      "armour": {
+        "physical": 4,
+        "stability": 4,
+        "attunement_scaling": {
+          "physical": {
+            "AT_GRACE": 2
+          },
+          "stability": {
+            "AT_GRACE": 1
+          }
+        }
+      }
+    },
+    {
+      "path": "/SF/Upgrades/Skins/Body/MendicantKingBody",
+      "name": "Mendicant King Body",
+      "slot": "body",
+      "rarity": "RARE",
+      "localize_tag": "/SF/Language/Armour/MendicantKingBodyName",
+      "localize_desc_tag": "/SF/Language/Armour/MendicantKingBodyDesc",
+      "set_tag": "/SF/Language/StoreTags/MendicantKingArmourSet",
+      "icon": "/SF/Interface/Graphics/StoreItems/Cuirass/MendicantKingCuirass.png",
+      "premium_price": 95,
+      "market_mode": "MM_HIDDEN",
+      "totem_size_restriction": "CS_MEDIUM",
+      "set_name": "Mendicant King",
+      "armour": {
+        "physical": 6,
+        "magick": 3,
+        "stability": 4,
+        "attunement_scaling": {
+          "physical": {
+            "AT_COURAGE": 3,
+            "AT_SPIRIT": 1
+          },
+          "magick": {
+            "AT_COURAGE": 1,
+            "AT_SPIRIT": 2
+          },
+          "stability": {
+            "AT_COURAGE": 1,
+            "AT_SPIRIT": 1
+          }
+        }
+      },
+      "requirements": {
+        "AT_COURAGE": 20
+      }
+    },
+    {
+      "path": "/SF/Upgrades/Skins/Body/MockeryBody",
+      "name": "Mockery Body",
+      "slot": "body",
+      "rarity": "RARE",
+      "localize_tag": "/SF/Language/Armour/MockeryBodyName",
+      "localize_desc_tag": "/SF/Language/Armour/MockeryBodyDesc",
+      "set_tag": "/SF/Language/StoreTags/MockeryArmourSet",
+      "icon": "/SF/Interface/Graphics/StoreItems/Cuirass/TwirrienCuirass.png",
+      "premium_price": 90,
+      "market_mode": "MM_HIDDEN",
+      "exclude_from_codex": true,
+      "totem_size_restriction": "CS_MEDIUM",
+      "set_name": "Mockery",
+      "armour": {
+        "physical": 4,
+        "magick": 4,
+        "stability": 4,
+        "attunement_scaling": {
+          "physical": {
+            "AT_SPIRIT": 2,
+            "AT_GRACE": 1
+          },
+          "magick": {
+            "AT_SPIRIT": 2,
+            "AT_GRACE": 1
+          },
+          "stability": {
+            "AT_SPIRIT": 1,
+            "AT_GRACE": 2
+          }
+        }
+      },
+      "requirements": {
+        "AT_GRACE": 20
+      }
+    },
+    {
+      "path": "/SF/Upgrades/Skins/Body/OrengalBody",
+      "name": "Orengal Body",
+      "slot": "body",
+      "rarity": "RARE",
+      "localize_tag": "/SF/Language/Armour/OrengalBodyName",
+      "localize_desc_tag": "/SF/Language/Armour/OrengalBodyDesc",
+      "set_tag": "/SF/Language/StoreTags/OrengallSet",
+      "icon": "/SF/Interface/Graphics/StoreItems/Cuirass/OrengalCuirass.png",
+      "premium_price": 95,
+      "market_mode": "MM_HIDDEN",
+      "totem_size_restriction": "CS_LARGE",
+      "set_name": "Orengall",
+      "armour": {
+        "physical": 5,
+        "magick": 3,
+        "stability": 4,
+        "attunement_scaling": {
+          "physical": {
+            "AT_COURAGE": 1,
+            "AT_GRACE": 3
+          },
+          "magick": {
+            "AT_COURAGE": 1,
+            "AT_GRACE": 1
+          },
+          "stability": {
+            "AT_GRACE": 3
+          }
+        }
+      },
+      "requirements": {
+        "AT_GRACE": 20
+      }
+    },
+    {
+      "path": "/SF/Upgrades/Skins/Body/PothiaBody",
+      "name": "Pothia Body",
+      "slot": "body",
+      "rarity": "UNCOMMON",
+      "localize_tag": "/SF/Language/Armour/PothiaBodyName",
+      "localize_desc_tag": "/SF/Language/Armour/PothiaBodyDesc",
+      "icon": "/SF/Interface/Graphics/StoreItems/Cuirass/TethrenCuirass.png",
+      "market_mode": "MM_HIDDEN",
+      "exclude_from_codex": true,
+      "totem_size_restriction": "CS_LARGE",
+      "set_name": "Pothia",
+      "armour": {
+        "physical": 5,
+        "stability": 3,
+        "attunement_scaling": {
+          "physical": {
+            "AT_COURAGE": 2
+          },
+          "stability": {
+            "AT_COURAGE": 1
+          }
+        }
+      }
+    },
+    {
+      "path": "/SF/Upgrades/Skins/Body/StarterCourageBody",
+      "name": "Starter Courage Body",
+      "slot": "body",
+      "localize_tag": "/SF/Language/Armour/StarterCourageBodyName",
+      "localize_desc_tag": "/SF/Language/Armour/StarterCourageBodyDesc",
+      "icon": "/SF/Interface/Graphics/StoreItems/Cuirass/WarriorCuirass.png",
+      "market_mode": "MM_HIDDEN",
+      "totem_size_restriction": "CS_MEDIUM",
+      "set_name": "Starter Courage",
+      "armour": {
+        "physical": 5,
+        "stability": 3,
+        "attunement_scaling": {
+          "physical": {
+            "AT_COURAGE": 1
+          },
+          "stability": {
+            "AT_COURAGE": 1
+          }
+        }
+      }
+    },
+    {
+      "path": "/SF/Upgrades/Skins/Body/StarterGraceBody",
+      "name": "Starter Grace Body",
+      "slot": "body",
+      "localize_tag": "/SF/Language/Armour/StarterGraceBodyName",
+      "localize_desc_tag": "/SF/Language/Armour/StarterGraceBodyDesc",
+      "icon": "/SF/Interface/Graphics/StoreItems/Cuirass/StarterGraceCuirass.png",
+      "market_mode": "MM_HIDDEN",
+      "totem_size_restriction": "CS_MEDIUM",
+      "set_name": "Starter Grace",
+      "armour": {
+        "physical": 4,
+        "stability": 4,
+        "attunement_scaling": {
+          "physical": {
+            "AT_GRACE": 1
+          },
+          "stability": {
+            "AT_GRACE": 1
+          }
+        }
+      }
+    },
+    {
+      "path": "/SF/Upgrades/Skins/Body/StarterSpiritBody",
+      "name": "Starter Spirit Body",
+      "slot": "body",
+      "localize_tag": "/SF/Language/Armour/StarterSpiritBodyName",
+      "localize_desc_tag": "/SF/Language/Armour/StarterSpiritBodyDesc",
+      "icon": "/SF/Interface/Graphics/StoreItems/Cuirass/StarterSpiritCuirass.png",
+      "market_mode": "MM_HIDDEN",
+      "totem_size_restriction": "CS_MEDIUM",
+      "set_name": "Starter Spirit",
+      "armour": {
+        "physical": 3,
+        "magick": 5,
+        "attunement_scaling": {
+          "physical": {
+            "AT_SPIRIT": 1
+          },
+          "magick": {
+            "AT_SPIRIT": 1
+          }
+        }
+      }
+    },
+    {
+      "path": "/SF/Upgrades/Skins/Body/TuvalkaneBody",
+      "name": "Tuvalkane Body",
+      "slot": "body",
+      "rarity": "UNCOMMON",
+      "localize_tag": "/SF/Language/Armour/TuvalkanetBodyName",
+      "localize_desc_tag": "/SF/Language/Armour/TuvalkaneBodyDesc",
+      "set_tag": "/SF/Language/StoreTags/TuvalkaneArmourSet",
+      "icon": "/SF/Interface/Graphics/StoreItems/Cuirass/TuvalkaneCuirass.png",
+      "premium_price": 85,
+      "market_mode": "MM_HIDDEN",
+      "totem_size_restriction": "CS_MEDIUM",
+      "set_name": "Tuvalkane",
+      "armour": {
+        "physical": 3,
+        "magick": 5,
+        "stability": 3,
+        "attunement_scaling": {
+          "physical": {
+            "AT_SPIRIT": 2
+          },
+          "magick": {
+            "AT_SPIRIT": 2
+          },
+          "stability": {
+            "AT_SPIRIT": 2
+          }
+        }
+      },
+      "requirements": {
+        "AT_SPIRIT": 14
+      }
+    },
+    {
+      "path": "/SF/Upgrades/Skins/Body/WazzardBody",
+      "name": "Wazzard Body",
+      "slot": "body",
+      "rarity": "UNCOMMON",
+      "localize_tag": "/SF/Language/Armour/WazzardBodyName",
+      "localize_desc_tag": "/SF/Language/Armour/WazzardBodyDesc",
+      "icon": "/SF/Interface/Graphics/StoreItems/Cuirass/WazzardCuirass.png",
+      "premium_price": 85,
+      "market_mode": "MM_HIDDEN",
+      "exclude_from_codex": true,
+      "totem_size_restriction": "CS_LARGE",
+      "set_name": "Wazzard",
+      "armour": {
+        "physical": 3,
+        "magick": 5,
+        "stability": 4,
+        "attunement_scaling": {
+          "physical": {
+            "AT_SPIRIT": 2
+          },
+          "magick": {
+            "AT_SPIRIT": 3
+          },
+          "stability": {
+            "AT_SPIRIT": 1
+          }
+        }
+      },
+      "requirements": {
+        "AT_SPIRIT": 22
+      }
+    },
+    {
+      "path": "/SF/Upgrades/Skins/Helmets/AvarotMaskHelmet",
+      "name": "Avarot Mask Helmet",
+      "slot": "helmet",
+      "localize_tag": "/SF/Language/Armour/AvarotMaskHelmetName",
+      "localize_desc_tag": "/SF/Language/Armour/AvarotMaskHelmetDesc",
+      "icon": "/SF/Interface/Graphics/StoreItems/Helmets/AvarotMask.png",
+      "market_mode": "MM_HIDDEN",
+      "set_name": "Avarot Mask",
+      "armour": {
+        "physical": 4,
+        "magick": 1,
+        "stability": 2,
+        "attunement_scaling": {
+          "physical": {
+            "AT_COURAGE": 2,
+            "AT_SPIRIT": 2
+          },
+          "magick": {
+            "AT_COURAGE": 1,
+            "AT_SPIRIT": 2
+          },
+          "stability": {
+            "AT_COURAGE": 2
+          }
+        }
+      },
+      "requirements": {
+        "AT_COURAGE": 12
+      }
+    },
+    {
+      "path": "/SF/Upgrades/Skins/Helmets/BromiusClosedHelmet",
+      "name": "Bromius Closed Helmet",
+      "slot": "helmet",
+      "rarity": "RARE",
+      "localize_tag": "/SF/Language/Armour/BromiusHelmetName",
+      "localize_desc_tag": "/SF/Language/Armour/BromiusHelmetDesc",
+      "set_tag": "/SF/Language/StoreTags/BromiusSet",
+      "icon": "/SF/Interface/Graphics/StoreItems/Helmets/BromiusHelmetClosed.png",
+      "premium_price": 95,
+      "market_mode": "MM_HIDDEN",
+      "exclude_from_codex": true,
+      "set_name": "Bromius",
+      "armour": {
+        "physical": 4,
+        "magick": 1,
+        "stability": 2,
+        "attunement_scaling": {
+          "physical": {
+            "AT_COURAGE": 3
+          },
+          "magick": {
+            "AT_COURAGE": 1
+          },
+          "stability": {
+            "AT_COURAGE": 2
+          }
+        }
+      },
+      "requirements": {
+        "AT_COURAGE": 22
+      }
+    },
+    {
+      "path": "/SF/Upgrades/Skins/Helmets/CircadeHelmet",
+      "name": "Circade Helmet",
+      "slot": "helmet",
+      "rarity": "RARE",
+      "localize_tag": "/SF/Language/Armour/CircadeHelmName",
+      "localize_desc_tag": "/SF/Language/Armour/CircadeHelmDesc",
+      "icon": "/SF/Interface/Graphics/StoreItems/Helmets/CircadeHelmetClosed.png",
+      "market_mode": "MM_HIDDEN",
+      "set_name": "Circade",
+      "armour": {
+        "physical": 4,
+        "stability": 2,
+        "attunement_scaling": {
+          "physical": {
+            "AT_COURAGE": 3
+          },
+          "stability": {
+            "AT_COURAGE": 2
+          }
+        }
+      },
+      "requirements": {
+        "AT_COURAGE": 14
+      }
+    },
+    {
+      "path": "/SF/Upgrades/Skins/Helmets/DeoraHelmet",
+      "name": "Deora Helmet",
+      "slot": "helmet",
+      "rarity": "UNCOMMON",
+      "localize_tag": "/SF/Language/Armour/DeoraHelmetName",
+      "localize_desc_tag": "/SF/Language/Armour/DeoraHelmetDesc",
+      "icon": "/SF/Interface/Graphics/StoreItems/Helmets/DeoraHelmet.png",
+      "premium_price": 70,
+      "market_mode": "MM_HIDDEN",
+      "set_name": "Deora",
+      "armour": {
+        "physical": 3,
+        "magick": 1,
+        "stability": 1,
+        "attunement_scaling": {
+          "physical": {
+            "AT_COURAGE": 2,
+            "AT_SPIRIT": 2
+          },
+          "magick": {
+            "AT_COURAGE": 1,
+            "AT_SPIRIT": 2
+          },
+          "stability": {
+            "AT_COURAGE": 2
+          }
+        }
+      },
+      "requirements": {
+        "AT_COURAGE": 15
+      }
+    },
+    {
+      "path": "/SF/Upgrades/Skins/Helmets/FarmerHelmet",
+      "name": "Farmer Helmet",
+      "slot": "helmet",
+      "rarity": "UNCOMMON",
+      "localize_tag": "/SF/Language/Armour/FarmerHelmetName",
+      "localize_desc_tag": "/SF/Language/Armour/FarmerHelmetDesc",
+      "set_tag": "/SF/Language/StoreTags/SproutFarmerSet",
+      "icon": "/SF/Interface/Graphics/StoreItems/Helmets/SproutFarmerHelmet.png",
+      "premium_price": 70,
+      "market_mode": "MM_HIDDEN",
+      "exclude_from_codex": true,
+      "set_name": "Sprout Farmer",
+      "armour": {
+        "physical": 3,
+        "stability": 2,
+        "attunement_scaling": {
+          "physical": {
+            "AT_COURAGE": 2,
+            "AT_GRACE": 2
+          },
+          "stability": {
+            "AT_COURAGE": 2,
+            "AT_GRACE": 2
+          }
+        }
+      },
+      "requirements": {
+        "AT_GRACE": 17
+      }
+    },
+    {
+      "path": "/SF/Upgrades/Skins/Helmets/FennJotarHelmet",
+      "name": "Fenn Jotar Helmet",
+      "slot": "helmet",
+      "rarity": "UNCOMMON",
+      "localize_tag": "/SF/Language/Armour/FennJotarHelmetName",
+      "localize_desc_tag": "/SF/Language/Armour/FennJotarHelmetDesc",
+      "set_tag": "/SF/Language/StoreTags/FennJotarSet",
+      "icon": "/SF/Interface/Graphics/StoreItems/Helmets/FennJotarHelmet.png",
+      "premium_price": 85,
+      "market_mode": "MM_HIDDEN",
+      "set_name": "Fenn Jotar",
+      "armour": {
+        "physical": 3,
+        "magick": 2,
+        "stability": 2,
+        "attunement_scaling": {
+          "physical": {
+            "AT_COURAGE": 2,
+            "AT_GRACE": 2
+          },
+          "magick": {
+            "AT_COURAGE": 1
+          },
+          "stability": {
+            "AT_COURAGE": 1,
+            "AT_GRACE": 2
+          }
+        }
+      },
+      "requirements": {
+        "AT_COURAGE": 15
+      }
+    },
+    {
+      "path": "/SF/Upgrades/Skins/Helmets/ForgetFireAltHelmet",
+      "name": "Forget Fire Alt Helmet",
+      "slot": "helmet",
+      "localize_tag": "/SF/Language/Armour/ForgetFireHelmetAltName",
+      "localize_desc_tag": "/SF/Language/Armour/ForgetFireHelmetAltDesc",
+      "set_tag": "/SF/Language/StoreTags/TempestSet",
+      "icon": "/SF/Interface/Graphics/StoreItems/Helmets/ForgetFireAltHelmet.png",
+      "premium_price": 55,
+      "market_mode": "MM_HIDDEN",
+      "set_name": "Tempest",
+      "armour": {
+        "physical": 3,
+        "stability": 3,
+        "attunement_scaling": {
+          "physical": {
+            "AT_GRACE": 2
+          },
+          "stability": {
+            "AT_GRACE": 2
+          }
+        }
+      },
+      "requirements": {
+        "AT_GRACE": 10
+      }
+    },
+    {
+      "path": "/SF/Upgrades/Skins/Helmets/ForgetFireHelmet",
+      "name": "Forget Fire Helmet",
+      "slot": "helmet",
+      "localize_tag": "/SF/Language/Armour/ForgetFireHelmetName",
+      "localize_desc_tag": "/SF/Language/Armour/ForgetFireHelmetDesc",
+      "set_tag": "/SF/Language/StoreTags/ForgetFireSet",
+      "icon": "/SF/Interface/Graphics/StoreItems/Helmets/ForgetFireHelmet.png",
+      "premium_price": 65,
+      "market_mode": "MM_HIDDEN",
+      "set_name": "Forget Fire",
+      "armour": {
+        "physical": 3,
+        "stability": 3,
+        "attunement_scaling": {
+          "physical": {
+            "AT_COURAGE": 2
+          },
+          "stability": {
+            "AT_COURAGE": 2
+          }
+        }
+      },
+      "requirements": {
+        "AT_COURAGE": 12
+      }
+    },
+    {
+      "path": "/SF/Upgrades/Skins/Helmets/ForgetFireNeckMask",
+      "name": "Forget Fire Neck Mask",
+      "slot": "helmet",
+      "localize_tag": "/SF/Language/Armour/ForgetFireNeckMaskName",
+      "localize_desc_tag": "/SF/Language/Armour/ForgetFireNeckMaskDesc",
+      "icon": "/SF/Interface/Graphics/StoreItems/Helmets/ForgetFireAltMask.png",
+      "market_mode": "MM_HIDDEN",
+      "always_available": true,
+      "armour": {
+        "physical": 2,
+        "magick": 4,
+        "attunement_scaling": {
+          "physical": {
+            "AT_SPIRIT": 1
+          },
+          "magick": {
+            "AT_SPIRIT": 2
+          }
+        }
+      }
+    },
+    {
+      "path": "/SF/Upgrades/Skins/Helmets/GaleneHelmet",
+      "name": "Galene Helmet",
+      "slot": "helmet",
+      "rarity": "UNCOMMON",
+      "localize_tag": "/SF/Language/Armour/GaleneHelmetName",
+      "localize_desc_tag": "/SF/Language/Armour/GaleneHelmetDesc",
+      "icon": "/SF/Interface/Graphics/StoreItems/Helmets/OsceldaHelmet.png",
+      "market_mode": "MM_HIDDEN",
+      "exclude_from_codex": true,
+      "set_name": "Galene",
+      "armour": {
+        "physical": 1,
+        "magick": 3,
+        "attunement_scaling": {
+          "physical": {
+            "AT_SPIRIT": 2
+          },
+          "magick": {
+            "AT_SPIRIT": 1
+          }
+        }
+      }
+    },
+    {
+      "path": "/SF/Upgrades/Skins/Helmets/GarrenHelmet",
+      "name": "Garren Helmet",
+      "slot": "helmet",
+      "rarity": "UNCOMMON",
+      "localize_tag": "/SF/Language/Armour/GarrenHelmetName",
+      "localize_desc_tag": "/SF/Language/Armour/GarrenHelmetDesc",
+      "set_tag": "/SF/Language/StoreTags/GarrenSet",
+      "icon": "/SF/Interface/Graphics/StoreItems/Helmets/GarrenHelmet.png",
+      "premium_price": 85,
+      "market_mode": "MM_HIDDEN",
+      "set_name": "Garren",
+      "armour": {
+        "physical": 2,
+        "magick": 2,
+        "stability": 3,
+        "attunement_scaling": {
+          "physical": {
+            "AT_SPIRIT": 1,
+            "AT_GRACE": 2
+          },
+          "magick": {
+            "AT_SPIRIT": 2,
+            "AT_GRACE": 1
+          },
+          "stability": {
+            "AT_SPIRIT": 1,
+            "AT_GRACE": 2
+          }
+        }
+      },
+      "requirements": {
+        "AT_GRACE": 15
+      }
+    },
+    {
+      "path": "/SF/Upgrades/Skins/Helmets/JosalfarHelmet",
+      "name": "Josalfar Helmet",
+      "slot": "helmet",
+      "rarity": "UNCOMMON",
+      "localize_tag": "/SF/Language/Armour/JosalfarHelmetName",
+      "localize_desc_tag": "/SF/Language/Armour/JosalfarHelmetDesc",
+      "icon": "/SF/Interface/Graphics/StoreItems/Helmets/SirinHelmet.png",
+      "market_mode": "MM_HIDDEN",
+      "exclude_from_codex": true,
+      "set_name": "Josalfar",
+      "armour": {
+        "physical": 2,
+        "stability": 3,
+        "attunement_scaling": {
+          "physical": {
+            "AT_GRACE": 2
+          },
+          "stability": {
+            "AT_GRACE": 1
+          }
+        }
+      }
+    },
+    {
+      "path": "/SF/Upgrades/Skins/Helmets/MendicantKingHelmet",
+      "name": "Mendicant King Helmet",
+      "slot": "helmet",
+      "rarity": "RARE",
+      "localize_tag": "/SF/Language/Armour/MendicantKingHelmetName",
+      "localize_desc_tag": "/SF/Language/Armour/MendicantKingHelmetDesc",
+      "set_tag": "/SF/Language/StoreTags/MendicantKingArmourSet",
+      "icon": "/SF/Interface/Graphics/StoreItems/Helmets/MendicantKingHelmet.png",
+      "premium_price": 85,
+      "market_mode": "MM_HIDDEN",
+      "set_name": "Mendicant King",
+      "armour": {
+        "physical": 3,
+        "magick": 1,
+        "stability": 3,
+        "attunement_scaling": {
+          "physical": {
+            "AT_COURAGE": 3,
+            "AT_SPIRIT": 1
+          },
+          "magick": {
+            "AT_COURAGE": 1,
+            "AT_SPIRIT": 2
+          },
+          "stability": {
+            "AT_COURAGE": 1,
+            "AT_SPIRIT": 1
+          }
+        }
+      },
+      "requirements": {
+        "AT_COURAGE": 20
+      }
+    },
+    {
+      "path": "/SF/Upgrades/Skins/Helmets/MockeryHelmet",
+      "name": "Mockery Helmet",
+      "slot": "helmet",
+      "rarity": "RARE",
+      "localize_tag": "/SF/Language/Armour/MockeryHelmetName",
+      "localize_desc_tag": "/SF/Language/Armour/MockeryHelmetDesc",
+      "set_tag": "/SF/Language/StoreTags/MockeryArmourSet",
+      "icon": "/SF/Interface/Graphics/StoreItems/Helmets/TwirrienHelmetClosed.png",
+      "premium_price": 75,
+      "market_mode": "MM_HIDDEN",
+      "exclude_from_codex": true,
+      "set_name": "Mockery",
+      "armour": {
+        "physical": 3,
+        "magick": 3,
+        "stability": 2,
+        "attunement_scaling": {
+          "physical": {
+            "AT_SPIRIT": 2,
+            "AT_GRACE": 1
+          },
+          "magick": {
+            "AT_SPIRIT": 2,
+            "AT_GRACE": 1
+          },
+          "stability": {
+            "AT_SPIRIT": 1,
+            "AT_GRACE": 2
+          }
+        }
+      },
+      "requirements": {
+        "AT_GRACE": 20
+      }
+    },
+    {
+      "path": "/SF/Upgrades/Skins/Helmets/OrengalClosedHelmet",
+      "name": "Orengal Closed Helmet",
+      "slot": "helmet",
+      "rarity": "RARE",
+      "localize_tag": "/SF/Language/Armour/OrengalClosedHelmetName",
+      "localize_desc_tag": "/SF/Language/Armour/OrengalClosedHelmetDesc",
+      "set_tag": "/SF/Language/StoreTags/OrengallSet",
+      "icon": "/SF/Interface/Graphics/StoreItems/Helmets/OrengalHelmetClosed.png",
+      "premium_price": 85,
+      "market_mode": "MM_HIDDEN",
+      "set_name": "Orengall",
+      "armour": {
+        "physical": 3,
+        "magick": 2,
+        "stability": 3,
+        "attunement_scaling": {
+          "physical": {
+            "AT_COURAGE": 1,
+            "AT_GRACE": 3
+          },
+          "magick": {
+            "AT_COURAGE": 1,
+            "AT_GRACE": 1
+          },
+          "stability": {
+            "AT_GRACE": 3
+          }
+        }
+      },
+      "requirements": {
+        "AT_GRACE": 20
+      }
+    },
+    {
+      "path": "/SF/Upgrades/Skins/Helmets/PothiaHelmet",
+      "name": "Pothia Helmet",
+      "slot": "helmet",
+      "rarity": "UNCOMMON",
+      "localize_tag": "/SF/Language/Armour/PothiaHelmetName",
+      "localize_desc_tag": "/SF/Language/Armour/PothiaHelmetDesc",
+      "icon": "/SF/Interface/Graphics/StoreItems/Helmets/TethrenHelmet.png",
+      "market_mode": "MM_HIDDEN",
+      "exclude_from_codex": true,
+      "set_name": "Pothia",
+      "armour": {
+        "physical": 3,
+        "stability": 2,
+        "attunement_scaling": {
+          "physical": {
+            "AT_COURAGE": 2
+          },
+          "stability": {
+            "AT_COURAGE": 1
+          }
+        }
+      }
+    },
+    {
+      "path": "/SF/Upgrades/Skins/Helmets/SproutMaskHelmet",
+      "name": "Sprout Mask Helmet",
+      "slot": "helmet",
+      "localize_tag": "/SF/Language/Armour/SproutMaskHelmetName",
+      "localize_desc_tag": "/SF/Language/Armour/SproutMaskHelmetDesc",
+      "icon": "/SF/Interface/Graphics/StoreItems/Helmets/SproutSinSoilerMask.png",
+      "market_mode": "MM_HIDDEN",
+      "set_name": "Sprout Mask",
+      "armour": {
+        "physical": 3,
+        "magick": 3,
+        "stability": 1,
+        "attunement_scaling": {
+          "physical": {
+            "AT_COURAGE": 2,
+            "AT_SPIRIT": 2
+          },
+          "magick": {
+            "AT_COURAGE": 2,
+            "AT_SPIRIT": 2
+          },
+          "stability": {
+            "AT_GRACE": 1
+          }
+        }
+      },
+      "requirements": {
+        "AT_SPIRIT": 12
+      }
+    },
+    {
+      "path": "/SF/Upgrades/Skins/Helmets/StarterCourageHelmet",
+      "name": "Starter Courage Helmet",
+      "slot": "helmet",
+      "localize_tag": "/SF/Language/Armour/StarterCourageHelmetName",
+      "localize_desc_tag": "/SF/Language/Armour/StarterCourageHelmetDesc",
+      "icon": "/SF/Interface/Graphics/StoreItems/Helmets/WarriorHelmetClosed.png",
+      "market_mode": "MM_HIDDEN",
+      "set_name": "Starter Courage",
+      "armour": {
+        "physical": 3,
+        "stability": 2,
+        "attunement_scaling": {
+          "physical": {
+            "AT_COURAGE": 1
+          }
+        }
+      }
+    },
+    {
+      "path": "/SF/Upgrades/Skins/Helmets/StarterGraceHelmet",
+      "name": "Starter Grace Helmet",
+      "slot": "helmet",
+      "localize_tag": "/SF/Language/Armour/StarterGraceHelmetName",
+      "localize_desc_tag": "/SF/Language/Armour/StarterGraceHelmetDesc",
+      "icon": "/SF/Interface/Graphics/StoreItems/Helmets/StarterGraceHelmet.png",
+      "market_mode": "MM_HIDDEN",
+      "set_name": "Starter Grace",
+      "armour": {
+        "physical": 2,
+        "stability": 3,
+        "attunement_scaling": {
+          "stability": {
+            "AT_GRACE": 1
+          }
+        }
+      }
+    },
+    {
+      "path": "/SF/Upgrades/Skins/Helmets/StarterSpiritHelmet",
+      "name": "Starter Spirit Helmet",
+      "slot": "helmet",
+      "localize_tag": "/SF/Language/Armour/StarterSpiritHelmetName",
+      "localize_desc_tag": "/SF/Language/Armour/StarterSpiritHelmetDesc",
+      "icon": "/SF/Interface/Graphics/StoreItems/Helmets/StarterSpiritHelmet.png",
+      "market_mode": "MM_HIDDEN",
+      "set_name": "Starter Spirit",
+      "armour": {
+        "physical": 1,
+        "magick": 3,
+        "attunement_scaling": {
+          "magick": {
+            "AT_SPIRIT": 1
+          }
+        }
+      }
+    },
+    {
+      "path": "/SF/Upgrades/Skins/Helmets/TalMaskHelmet",
+      "name": "Tal Mask Helmet",
+      "slot": "helmet",
+      "localize_tag": "/SF/Language/Armour/TalMaskHelmetName",
+      "localize_desc_tag": "/SF/Language/Armour/TalMaskHelmetDesc",
+      "icon": "/SF/Interface/Graphics/StoreItems/Helmets/TalMask.png",
+      "market_mode": "MM_HIDDEN",
+      "exclude_from_codex": true,
+      "set_name": "Tal Mask",
+      "armour": {
+        "physical": 2,
+        "magick": 2,
+        "stability": 3,
+        "attunement_scaling": {
+          "physical": {
+            "AT_GRACE": 1
+          },
+          "magick": {
+            "AT_SPIRIT": 2,
+            "AT_GRACE": 2
+          },
+          "stability": {
+            "AT_SPIRIT": 2,
+            "AT_GRACE": 2
+          }
+        }
+      },
+      "requirements": {
+        "AT_GRACE": 12
+      }
+    },
+    {
+      "path": "/SF/Upgrades/Skins/Helmets/ThawtideHelmet",
+      "name": "Thawtide Helmet",
+      "slot": "helmet",
+      "localize_tag": "/SF/Language/Armour/ThawTideSinecureHelmetName",
+      "localize_desc_tag": "/SF/Language/Armour/ThawTideSinecureHelmetDesc",
+      "set_tag": "/SF/Language/StoreTags/ThawTideEvent",
+      "icon": "/SF/Interface/Graphics/StoreItems/Helmets/SinecureSproutFarmerHelmet.png",
+      "premium_price": 65,
+      "market_mode": "MM_HIDDEN",
+      "exclude_from_codex": true,
+      "set_name": "Thaw Tide Event",
+      "armour": {
+        "physical": 4,
+        "magick": 2,
+        "stability": 1,
+        "attunement_scaling": {
+          "physical": {
+            "AT_COURAGE": 2
+          },
+          "magick": {
+            "AT_COURAGE": 2
+          },
+          "stability": {
+            "AT_COURAGE": 2
+          }
+        }
+      },
+      "requirements": {
+        "AT_COURAGE": 16
+      }
+    },
+    {
+      "path": "/SF/Upgrades/Skins/Helmets/TuvalkaneHelmet",
+      "name": "Tuvalkane Helmet",
+      "slot": "helmet",
+      "rarity": "UNCOMMON",
+      "localize_tag": "/SF/Language/Armour/TuvalkaneHelmetName",
+      "localize_desc_tag": "/SF/Language/Armour/TuvalkaneHelmetDesc",
+      "set_tag": "/SF/Language/StoreTags/TuvalkaneArmourSet",
+      "icon": "/SF/Interface/Graphics/StoreItems/Helmets/TuvalkaneHelmet.png",
+      "premium_price": 75,
+      "market_mode": "MM_HIDDEN",
+      "set_name": "Tuvalkane",
+      "armour": {
+        "physical": 2,
+        "magick": 2,
+        "stability": 1,
+        "attunement_scaling": {
+          "physical": {
+            "AT_SPIRIT": 2
+          },
+          "magick": {
+            "AT_SPIRIT": 2
+          },
+          "stability": {
+            "AT_SPIRIT": 2
+          }
+        }
+      },
+      "requirements": {
+        "AT_SPIRIT": 14
+      }
+    },
+    {
+      "path": "/SF/Upgrades/Skins/Helmets/WazzardHelmet",
+      "name": "Wazzard Helmet",
+      "slot": "helmet",
+      "rarity": "UNCOMMON",
+      "localize_tag": "/SF/Language/Armour/WazzardHelmetName",
+      "localize_desc_tag": "/SF/Language/Armour/WazzardHelmetDesc",
+      "icon": "/SF/Interface/Graphics/StoreItems/Helmets/WazzardHelmet.png",
+      "premium_price": 75,
+      "market_mode": "MM_HIDDEN",
+      "exclude_from_codex": true,
+      "set_name": "Wazzard",
+      "armour": {
+        "physical": 2,
+        "magick": 3,
+        "stability": 2,
+        "attunement_scaling": {
+          "physical": {
+            "AT_SPIRIT": 2
+          },
+          "magick": {
+            "AT_SPIRIT": 3
+          },
+          "stability": {
+            "AT_SPIRIT": 1
+          }
+        }
+      },
+      "requirements": {
+        "AT_SPIRIT": 22
+      }
+    },
+    {
+      "path": "/SF/Upgrades/Skins/Legs/BromiusLegs",
+      "name": "Bromius Legs",
+      "slot": "legs",
+      "rarity": "RARE",
+      "localize_tag": "/SF/Language/Armour/BromiusLegsName",
+      "localize_desc_tag": "/SF/Language/Armour/BromiusLegsDesc",
+      "set_tag": "/SF/Language/StoreTags/BromiusSet",
+      "icon": "/SF/Interface/Graphics/StoreItems/Leggings/BromiusLeggings.png",
+      "premium_price": 85,
+      "market_mode": "MM_HIDDEN",
+      "exclude_from_codex": true,
+      "set_name": "Bromius",
+      "armour": {
+        "physical": 5,
+        "magick": 1,
+        "stability": 4,
+        "attunement_scaling": {
+          "physical": {
+            "AT_COURAGE": 3
+          },
+          "magick": {
+            "AT_COURAGE": 1
+          },
+          "stability": {
+            "AT_COURAGE": 2
+          }
+        }
+      },
+      "requirements": {
+        "AT_COURAGE": 22
+      }
+    },
+    {
+      "path": "/SF/Upgrades/Skins/Legs/CircadeLegs",
+      "name": "Circade Legs",
+      "slot": "legs",
+      "rarity": "RARE",
+      "localize_tag": "/SF/Language/Armour/CircadeLegsName",
+      "localize_desc_tag": "/SF/Language/Armour/CircadeLegsDesc",
+      "icon": "/SF/Interface/Graphics/StoreItems/Leggings/CircadeLeggings.png",
+      "market_mode": "MM_HIDDEN",
+      "set_name": "Circade",
+      "armour": {
+        "physical": 5,
+        "stability": 3,
+        "attunement_scaling": {
+          "physical": {
+            "AT_COURAGE": 3
+          },
+          "stability": {
+            "AT_COURAGE": 2
+          }
+        }
+      },
+      "requirements": {
+        "AT_COURAGE": 14
+      }
+    },
+    {
+      "path": "/SF/Upgrades/Skins/Legs/DeoraLegs",
+      "name": "Deora Legs",
+      "slot": "legs",
+      "rarity": "UNCOMMON",
+      "localize_tag": "/SF/Language/Armour/DeoraLegsName",
+      "localize_desc_tag": "/SF/Language/Armour/DeoraLegsDesc",
+      "icon": "/SF/Interface/Graphics/StoreItems/Leggings/DeoraLeggings.png",
+      "premium_price": 80,
+      "market_mode": "MM_HIDDEN",
+      "set_name": "Deora",
+      "armour": {
+        "physical": 4,
+        "magick": 2,
+        "stability": 2,
+        "attunement_scaling": {
+          "physical": {
+            "AT_COURAGE": 2,
+            "AT_SPIRIT": 2
+          },
+          "magick": {
+            "AT_COURAGE": 1,
+            "AT_SPIRIT": 2
+          },
+          "stability": {
+            "AT_COURAGE": 2
+          }
+        }
+      },
+      "requirements": {
+        "AT_COURAGE": 15
+      }
+    },
+    {
+      "path": "/SF/Upgrades/Skins/Legs/FarmerLegs",
+      "name": "Farmer Legs",
+      "slot": "legs",
+      "rarity": "UNCOMMON",
+      "localize_tag": "/SF/Language/Armour/FarmerLegsName",
+      "localize_desc_tag": "/SF/Language/Armour/FarmerLegsDesc",
+      "set_tag": "/SF/Language/StoreTags/SproutFarmerSet",
+      "icon": "/SF/Interface/Graphics/StoreItems/Leggings/SproutFarmerLeggings.png",
+      "premium_price": 75,
+      "market_mode": "MM_HIDDEN",
+      "exclude_from_codex": true,
+      "set_name": "Sprout Farmer",
+      "armour": {
+        "physical": 4,
+        "stability": 3,
+        "attunement_scaling": {
+          "physical": {
+            "AT_COURAGE": 2,
+            "AT_GRACE": 2
+          },
+          "stability": {
+            "AT_COURAGE": 2,
+            "AT_GRACE": 2
+          }
+        }
+      },
+      "requirements": {
+        "AT_GRACE": 17
+      }
+    },
+    {
+      "path": "/SF/Upgrades/Skins/Legs/FennJotarLegs",
+      "name": "Fenn Jotar Legs",
+      "slot": "legs",
+      "rarity": "UNCOMMON",
+      "localize_tag": "/SF/Language/Armour/FennJotarLegsName",
+      "localize_desc_tag": "/SF/Language/Armour/FennJotarLegsDesc",
+      "set_tag": "/SF/Language/StoreTags/FennJotarSet",
+      "icon": "/SF/Interface/Graphics/StoreItems/Leggings/FennJotarLeggings.png",
+      "premium_price": 90,
+      "market_mode": "MM_HIDDEN",
+      "set_name": "Fenn Jotar",
+      "armour": {
+        "physical": 3,
+        "magick": 2,
+        "stability": 2,
+        "attunement_scaling": {
+          "physical": {
+            "AT_COURAGE": 2,
+            "AT_GRACE": 2
+          },
+          "magick": {
+            "AT_COURAGE": 1
+          },
+          "stability": {
+            "AT_COURAGE": 1,
+            "AT_GRACE": 2
+          }
+        }
+      },
+      "requirements": {
+        "AT_COURAGE": 15
+      }
+    },
+    {
+      "path": "/SF/Upgrades/Skins/Legs/ForgetFireAltLegs",
+      "name": "Forget Fire Alt Legs",
+      "slot": "legs",
+      "localize_tag": "/SF/Language/Armour/ForgetFireLegsAltName",
+      "localize_desc_tag": "/SF/Language/Armour/ForgetFireLegsAltDesc",
+      "set_tag": "/SF/Language/StoreTags/TempestSet",
+      "icon": "/SF/Interface/Graphics/StoreItems/Leggings/ForgetFireAltLeggings.png",
+      "premium_price": 60,
+      "market_mode": "MM_HIDDEN",
+      "set_name": "Tempest",
+      "armour": {
+        "physical": 3,
+        "stability": 3,
+        "attunement_scaling": {
+          "physical": {
+            "AT_GRACE": 2
+          },
+          "stability": {
+            "AT_GRACE": 2
+          }
+        }
+      },
+      "requirements": {
+        "AT_GRACE": 10
+      }
+    },
+    {
+      "path": "/SF/Upgrades/Skins/Legs/ForgetFireLegs",
+      "name": "Forget Fire Legs",
+      "slot": "legs",
+      "localize_tag": "/SF/Language/Armour/ForgetFireLegsName",
+      "localize_desc_tag": "/SF/Language/Armour/ForgetFireLegsDesc",
+      "set_tag": "/SF/Language/StoreTags/ForgetFireSet",
+      "icon": "/SF/Interface/Graphics/StoreItems/Leggings/ForgetFireLeggings.png",
+      "premium_price": 65,
+      "market_mode": "MM_HIDDEN",
+      "set_name": "Forget Fire",
+      "armour": {
+        "physical": 3,
+        "stability": 3,
+        "attunement_scaling": {
+          "physical": {
+            "AT_COURAGE": 2
+          },
+          "stability": {
+            "AT_COURAGE": 2
+          }
+        }
+      },
+      "requirements": {
+        "AT_COURAGE": 12
+      }
+    },
+    {
+      "path": "/SF/Upgrades/Skins/Legs/GaleneLegs",
+      "name": "Galene Legs",
+      "slot": "legs",
+      "rarity": "UNCOMMON",
+      "localize_tag": "/SF/Language/Armour/GaleneLegsName",
+      "localize_desc_tag": "/SF/Language/Armour/GaleneLegsDesc",
+      "icon": "/SF/Interface/Graphics/StoreItems/Leggings/OsceldaLeggings.png",
+      "market_mode": "MM_HIDDEN",
+      "exclude_from_codex": true,
+      "set_name": "Galene",
+      "armour": {
+        "physical": 2,
+        "magick": 4,
+        "attunement_scaling": {
+          "physical": {
+            "AT_SPIRIT": 2
+          },
+          "magick": {
+            "AT_SPIRIT": 1
+          }
+        }
+      }
+    },
+    {
+      "path": "/SF/Upgrades/Skins/Legs/GarrenLegs",
+      "name": "Garren Legs",
+      "slot": "legs",
+      "rarity": "UNCOMMON",
+      "localize_tag": "/SF/Language/Armour/GarrenLegsName",
+      "localize_desc_tag": "/SF/Language/Armour/GarrenBodyLegs",
+      "set_tag": "/SF/Language/StoreTags/GarrenSet",
+      "icon": "/SF/Interface/Graphics/StoreItems/Leggings/GarrenLeggings.png",
+      "premium_price": 90,
+      "market_mode": "MM_HIDDEN",
+      "set_name": "Garren",
+      "armour": {
+        "physical": 3,
+        "magick": 2,
+        "stability": 3,
+        "attunement_scaling": {
+          "physical": {
+            "AT_SPIRIT": 1,
+            "AT_GRACE": 2
+          },
+          "magick": {
+            "AT_SPIRIT": 2,
+            "AT_GRACE": 1
+          },
+          "stability": {
+            "AT_SPIRIT": 1,
+            "AT_GRACE": 2
+          }
+        }
+      },
+      "requirements": {
+        "AT_GRACE": 15
+      }
+    },
+    {
+      "path": "/SF/Upgrades/Skins/Legs/JosalfarLegs",
+      "name": "Josalfar Legs",
+      "slot": "legs",
+      "rarity": "UNCOMMON",
+      "localize_tag": "/SF/Language/Armour/JosalfarLegsName",
+      "localize_desc_tag": "/SF/Language/Armour/JosalfarLegsDesc",
+      "icon": "/SF/Interface/Graphics/StoreItems/Leggings/SirinLeggings.png",
+      "market_mode": "MM_HIDDEN",
+      "exclude_from_codex": true,
+      "set_name": "Josalfar",
+      "armour": {
+        "physical": 3,
+        "stability": 2,
+        "attunement_scaling": {
+          "physical": {
+            "AT_GRACE": 2
+          },
+          "stability": {
+            "AT_GRACE": 1
+          }
+        }
+      }
+    },
+    {
+      "path": "/SF/Upgrades/Skins/Legs/MendicantKingLegs",
+      "name": "Mendicant King Legs",
+      "slot": "legs",
+      "rarity": "RARE",
+      "localize_tag": "/SF/Language/Armour/MendicantKingLegsName",
+      "localize_desc_tag": "/SF/Language/Armour/MendicantKingLegsDesc",
+      "set_tag": "/SF/Language/StoreTags/MendicantKingArmourSet",
+      "icon": "/SF/Interface/Graphics/StoreItems/Leggings/MendicantKingLeggings.png",
+      "premium_price": 85,
+      "market_mode": "MM_HIDDEN",
+      "set_name": "Mendicant King",
+      "armour": {
+        "physical": 4,
+        "magick": 2,
+        "stability": 4,
+        "attunement_scaling": {
+          "physical": {
+            "AT_COURAGE": 3,
+            "AT_SPIRIT": 1
+          },
+          "magick": {
+            "AT_COURAGE": 1,
+            "AT_SPIRIT": 2
+          },
+          "stability": {
+            "AT_COURAGE": 1,
+            "AT_SPIRIT": 1
+          }
+        }
+      },
+      "requirements": {
+        "AT_COURAGE": 20
+      }
+    },
+    {
+      "path": "/SF/Upgrades/Skins/Legs/MockeryLegs",
+      "name": "Mockery Legs",
+      "slot": "legs",
+      "rarity": "RARE",
+      "localize_tag": "/SF/Language/Armour/MockeryLegsName",
+      "localize_desc_tag": "/SF/Language/Armour/MockeryLegsDesc",
+      "set_tag": "/SF/Language/StoreTags/MockeryArmourSet",
+      "icon": "/SF/Interface/Graphics/StoreItems/Leggings/TwirrienLeggings.png",
+      "premium_price": 85,
+      "market_mode": "MM_HIDDEN",
+      "exclude_from_codex": true,
+      "set_name": "Mockery",
+      "armour": {
+        "physical": 4,
+        "magick": 4,
+        "stability": 2,
+        "attunement_scaling": {
+          "physical": {
+            "AT_SPIRIT": 2,
+            "AT_GRACE": 1
+          },
+          "magick": {
+            "AT_SPIRIT": 2,
+            "AT_GRACE": 1
+          },
+          "stability": {
+            "AT_SPIRIT": 1,
+            "AT_GRACE": 2
+          }
+        }
+      },
+      "requirements": {
+        "AT_GRACE": 20
+      }
+    },
+    {
+      "path": "/SF/Upgrades/Skins/Legs/OrengalLegs",
+      "name": "Orengal Legs",
+      "slot": "legs",
+      "rarity": "RARE",
+      "localize_tag": "/SF/Language/Armour/OrengalLegsName",
+      "localize_desc_tag": "/SF/Language/Armour/OrengalLegsDesc",
+      "set_tag": "/SF/Language/StoreTags/OrengallSet",
+      "icon": "/SF/Interface/Graphics/StoreItems/Leggings/OrengalLeggings.png",
+      "premium_price": 90,
+      "market_mode": "MM_HIDDEN",
+      "set_name": "Orengall",
+      "armour": {
+        "physical": 4,
+        "magick": 3,
+        "stability": 3,
+        "attunement_scaling": {
+          "physical": {
+            "AT_COURAGE": 1,
+            "AT_GRACE": 3
+          },
+          "magick": {
+            "AT_COURAGE": 1,
+            "AT_GRACE": 1
+          },
+          "stability": {
+            "AT_GRACE": 3
+          }
+        }
+      },
+      "requirements": {
+        "AT_GRACE": 20
+      }
+    },
+    {
+      "path": "/SF/Upgrades/Skins/Legs/PothiaLegs",
+      "name": "Pothia Legs",
+      "slot": "legs",
+      "rarity": "UNCOMMON",
+      "localize_tag": "/SF/Language/Armour/PothiaLegsName",
+      "localize_desc_tag": "/SF/Language/Armour/PothiaLegsDesc",
+      "icon": "/SF/Interface/Graphics/StoreItems/Leggings/TethrenLeggings.png",
+      "market_mode": "MM_HIDDEN",
+      "exclude_from_codex": true,
+      "set_name": "Pothia",
+      "armour": {
+        "physical": 4,
+        "stability": 1,
+        "attunement_scaling": {
+          "physical": {
+            "AT_COURAGE": 2
+          },
+          "stability": {
+            "AT_COURAGE": 1
+          }
+        }
+      }
+    },
+    {
+      "path": "/SF/Upgrades/Skins/Legs/StarterCourageLegs",
+      "name": "Starter Courage Legs",
+      "slot": "legs",
+      "localize_tag": "/SF/Language/Armour/StarterCourageLegsName",
+      "localize_desc_tag": "/SF/Language/Armour/StarterCourageLegsDesc",
+      "icon": "/SF/Interface/Graphics/StoreItems/Leggings/WarriorLeggings.png",
+      "market_mode": "MM_HIDDEN",
+      "set_name": "Starter Courage",
+      "armour": {
+        "physical": 4,
+        "stability": 1,
+        "attunement_scaling": {
+          "physical": {
+            "AT_COURAGE": 1
+          },
+          "stability": {
+            "AT_COURAGE": 1
+          }
+        }
+      }
+    },
+    {
+      "path": "/SF/Upgrades/Skins/Legs/StarterGraceLegs",
+      "name": "Starter Grace Legs",
+      "slot": "legs",
+      "localize_tag": "/SF/Language/Armour/StarterGraceLegsName",
+      "localize_desc_tag": "/SF/Language/Armour/StarterGraceLegsDesc",
+      "icon": "/SF/Interface/Graphics/StoreItems/Leggings/StarterGraceLeggings.png",
+      "market_mode": "MM_HIDDEN",
+      "set_name": "Starter Grace",
+      "armour": {
+        "physical": 3,
+        "stability": 2,
+        "attunement_scaling": {
+          "physical": {
+            "AT_GRACE": 1
+          },
+          "stability": {
+            "AT_GRACE": 1
+          }
+        }
+      }
+    },
+    {
+      "path": "/SF/Upgrades/Skins/Legs/StarterSpiritLegs",
+      "name": "Starter Spirit Legs",
+      "slot": "legs",
+      "localize_tag": "/SF/Language/Armour/StarterSpiritLegsName",
+      "localize_desc_tag": "/SF/Language/Armour/StarterSpiritLegsDesc",
+      "icon": "/SF/Interface/Graphics/StoreItems/Leggings/StarterSpiritLeggings.png",
+      "market_mode": "MM_HIDDEN",
+      "set_name": "Starter Spirit",
+      "armour": {
+        "physical": 2,
+        "magick": 4,
+        "attunement_scaling": {
+          "physical": {
+            "AT_SPIRIT": 1
+          },
+          "magick": {
+            "AT_SPIRIT": 1
+          }
+        }
+      }
+    },
+    {
+      "path": "/SF/Upgrades/Skins/Legs/TuvalkanelLegs",
+      "name": "Tuvalkanel Legs",
+      "slot": "legs",
+      "rarity": "UNCOMMON",
+      "localize_tag": "/SF/Language/Armour/TuvalkaneLegsName",
+      "localize_desc_tag": "/SF/Language/Armour/TuvalkaneLegsDesc",
+      "set_tag": "/SF/Language/StoreTags/TuvalkaneArmourSet",
+      "icon": "/SF/Interface/Graphics/StoreItems/Leggings/TuvalkaneLeggings.png",
+      "premium_price": 80,
+      "market_mode": "MM_HIDDEN",
+      "set_name": "Tuvalkane",
+      "armour": {
+        "physical": 3,
+        "magick": 3,
+        "stability": 2,
+        "attunement_scaling": {
+          "physical": {
+            "AT_SPIRIT": 2
+          },
+          "magick": {
+            "AT_SPIRIT": 2
+          },
+          "stability": {
+            "AT_SPIRIT": 2
+          }
+        }
+      },
+      "requirements": {
+        "AT_SPIRIT": 14
+      }
+    },
+    {
+      "path": "/SF/Upgrades/Skins/Legs/WazzardLegs",
+      "name": "Wazzard Legs",
+      "slot": "legs",
+      "rarity": "UNCOMMON",
+      "localize_tag": "/SF/Language/Armour/WazzardLegsName",
+      "localize_desc_tag": "/SF/Language/Armour/WazzardLegsDesc",
+      "icon": "/SF/Interface/Graphics/StoreItems/Leggings/WazzardLeggings.png",
+      "premium_price": 80,
+      "market_mode": "MM_HIDDEN",
+      "exclude_from_codex": true,
+      "set_name": "Wazzard",
+      "armour": {
+        "physical": 3,
+        "magick": 4,
+        "stability": 4,
+        "attunement_scaling": {
+          "physical": {
+            "AT_SPIRIT": 2
+          },
+          "magick": {
+            "AT_SPIRIT": 2
+          },
+          "stability": {
+            "AT_SPIRIT": 2
+          }
+        }
+      },
+      "requirements": {
+        "AT_SPIRIT": 22
+      }
+    },
+    {
+      "path": "/SF/Upgrades/Skins/Sleeve/BromiusSleeve",
+      "name": "Bromius Sleeve",
+      "slot": "sleeve",
+      "set_name": "Bromius"
+    },
+    {
+      "path": "/SF/Upgrades/Skins/Sleeve/FennJotarSleeve",
+      "name": "Fenn Jotar Sleeve",
+      "slot": "sleeve",
+      "set_name": "Fenn Jotar"
+    },
+    {
+      "path": "/SF/Upgrades/Skins/Sleeve/GaleneSleeve",
+      "name": "Galene Sleeve",
+      "slot": "sleeve",
+      "set_name": "Galene"
+    },
+    {
+      "path": "/SF/Upgrades/Skins/Sleeve/JosalfarSleeve",
+      "name": "Josalfar Sleeve",
+      "slot": "sleeve",
+      "set_name": "Josalfar"
+    },
+    {
+      "path": "/SF/Upgrades/Skins/Sleeve/OdeSleeve",
+      "name": "Ode Sleeve",
+      "slot": "sleeve",
+      "set_name": "Ode"
+    },
+    {
+      "path": "/SF/Upgrades/Skins/Sleeve/PothiaSleeve",
+      "name": "Pothia Sleeve",
+      "slot": "sleeve",
+      "set_name": "Pothia"
+    },
+    {
+      "path": "/SF/Upgrades/Skins/Sleeve/StagSleeve",
+      "name": "Stag Sleeve",
+      "slot": "sleeve",
+      "set_name": "Stag"
+    },
+    {
+      "path": "/SF/Upgrades/Skins/Sleeve/WetFeySleeve",
+      "name": "Wet Fey Sleeve",
+      "slot": "sleeve",
+      "set_name": "Wet Fey"
+    },
+    {
+      "path": "/SF/Upgrades/Skins/Sleeve/WolfSleeve",
+      "name": "Wolf Sleeve",
+      "slot": "sleeve",
+      "set_name": "Wolf"
+    },
+    {
+      "path": "/SF/Upgrades/Skins/Sleeve/WyldGaleneSleeve",
+      "name": "Wyld Galene Sleeve",
+      "slot": "sleeve",
+      "rarity": "UNCOMMON",
+      "set_name": "Wyld Galene"
+    },
+    {
+      "path": "/SF/Upgrades/Skins/Sleeve/WyldJosalfarSleeve",
+      "name": "Wyld Josalfar Sleeve",
+      "slot": "sleeve",
+      "rarity": "UNCOMMON",
+      "set_name": "Wyld Josalfar"
+    },
+    {
+      "path": "/SF/Upgrades/Skins/Sleeve/WyldPothiaSleeve",
+      "name": "Wyld Pothia Sleeve",
+      "slot": "sleeve",
+      "rarity": "UNCOMMON",
+      "set_name": "Wyld Pothia"
+    },
+    {
+      "path": "/SF/Upgrades/Skins/Totem/CardinalTotem",
+      "name": "Cardinal Totem",
+      "slot": "totem",
+      "localize_tag": "/SF/Language/Totems/ThawtideCardinalTotemName",
+      "localize_desc_tag": "/SF/Language/Totems/ThawtideCardinalTotemDesc",
+      "icon": "/SF/Interface/Graphics/StoreItems/Totems/CardinalTalisman.png",
+      "market_mode": "MM_HIDDEN",
+      "exclude_from_codex": true,
+      "upgrades": [
+        {
+          "type": "AVATAR_ATTRIBUTE_PRIMARY_GRACE",
+          "operation": "ADD_BASE",
+          "value": 1
+        },
+        {
+          "type": "AVATAR_ATTRIBUTE_PRIMARY_SPIRIT",
+          "operation": "ADD_BASE",
+          "value": 2
+        },
+        {
+          "type": "AVATAR_ATTRIBUTE_PRIMARY_COURAGE",
+          "operation": "ADD_BASE",
+          "value": 1
+        }
+      ]
+    },
+    {
+      "path": "/SF/Upgrades/Skins/Totem/ChampionHubTotem",
+      "name": "Champion Hub Totem",
+      "slot": "totem",
+      "localize_tag": "/SF/Language/Totems/ChampionHubTotemName",
+      "localize_desc_tag": "/SF/Language/Totems/ChampionHubTotemDesc",
+      "icon": "/SF/Interface/Graphics/StoreItems/Totems/KithOfKingsTotem.png",
+      "market_mode": "MM_HIDDEN",
+      "upgrades": [
+        {
+          "type": "AVATAR_ATTRIBUTE_PRIMARY_COURAGE",
+          "operation": "ADD_BASE",
+          "value": 1
+        }
+      ]
+    },
+    {
+      "path": "/SF/Upgrades/Skins/Totem/ChampionHubUpgradedTotem",
+      "name": "Champion Hub Upgraded Totem",
+      "slot": "totem",
+      "localize_tag": "/SF/Language/Totems/ChampionHubTotemUpgradedName",
+      "localize_desc_tag": "/SF/Language/Totems/ChampionHubTotemUpgradedDesc",
+      "icon": "/SF/Interface/Graphics/StoreItems/Totems/KithOfKingsTotem.png",
+      "market_mode": "MM_HIDDEN",
+      "exclude_from_codex": true,
+      "upgrades": [
+        {
+          "type": "AVATAR_ATTRIBUTE_PRIMARY_COURAGE",
+          "operation": "ADD_BASE",
+          "value": 6
+        }
+      ]
+    },
+    {
+      "path": "/SF/Upgrades/Skins/Totem/CircadeBlueTotem",
+      "name": "Circade Blue Totem",
+      "slot": "totem",
+      "localize_tag": "/SF/Language/Totems/CircadeBlueTotemName",
+      "localize_desc_tag": "/SF/Language/Totems/CircadeBlueTotemDesc",
+      "icon": "/SF/Interface/Graphics/StoreItems/Totems/GhostofCircadeBlue.png",
+      "market_mode": "MM_HIDDEN",
+      "upgrades": [
+        {
+          "type": "AVATAR_ATTRIBUTE_PRIMARY_GRACE",
+          "operation": "ADD_BASE",
+          "value": 1
+        }
+      ]
+    },
+    {
+      "path": "/SF/Upgrades/Skins/Totem/CircadeCompleteTotem",
+      "name": "Circade Complete Totem",
+      "slot": "totem",
+      "localize_tag": "/SF/Language/Totems/CircadeCompleteTotemName",
+      "localize_desc_tag": "/SF/Language/Totems/CircadeCompleteTotemDesc",
+      "icon": "/SF/Interface/Graphics/StoreItems/Totems/GhostofCircadeCombined.png",
+      "market_mode": "MM_HIDDEN",
+      "upgrades": [
+        {
+          "type": "AVATAR_ATTRIBUTE_PRIMARY_GRACE",
+          "operation": "ADD_BASE",
+          "value": 3
+        },
+        {
+          "type": "AVATAR_ATTRIBUTE_PRIMARY_SPIRIT",
+          "operation": "ADD_BASE",
+          "value": 3
+        },
+        {
+          "type": "AVATAR_ATTRIBUTE_PRIMARY_COURAGE",
+          "operation": "ADD_BASE",
+          "value": 3
+        }
+      ]
+    },
+    {
+      "path": "/SF/Upgrades/Skins/Totem/CircadeGreenTotem",
+      "name": "Circade Green Totem",
+      "slot": "totem",
+      "localize_tag": "/SF/Language/Totems/CircadeGreenTotemName",
+      "localize_desc_tag": "/SF/Language/Totems/CircadeGreenTotemDesc",
+      "icon": "/SF/Interface/Graphics/StoreItems/Totems/GhostofCircadeGreen.png",
+      "market_mode": "MM_HIDDEN",
+      "upgrades": [
+        {
+          "type": "AVATAR_ATTRIBUTE_PRIMARY_SPIRIT",
+          "operation": "ADD_BASE",
+          "value": 1
+        }
+      ]
+    },
+    {
+      "path": "/SF/Upgrades/Skins/Totem/CircadeRedTotem",
+      "name": "Circade Red Totem",
+      "slot": "totem",
+      "localize_tag": "/SF/Language/Totems/CircadeRedTotemName",
+      "localize_desc_tag": "/SF/Language/Totems/CircadeRedTotemDesc",
+      "icon": "/SF/Interface/Graphics/StoreItems/Totems/GhostofCircadeRed.png",
+      "market_mode": "MM_HIDDEN",
+      "upgrades": [
+        {
+          "type": "AVATAR_ATTRIBUTE_PRIMARY_COURAGE",
+          "operation": "ADD_BASE",
+          "value": 1
+        }
+      ]
+    },
+    {
+      "path": "/SF/Upgrades/Skins/Totem/CogahCorruptedTotem",
+      "name": "Cogah Corrupted Totem",
+      "slot": "totem",
+      "localize_tag": "/SF/Language/Totems/CogahTalismanCorruptedName",
+      "localize_desc_tag": "/SF/Language/Totems/CogahTalismanCorruptedDesc",
+      "icon": "/SF/Interface/Graphics/StoreItems/Totems/CorruptedTalisman.png",
+      "market_mode": "MM_HIDDEN",
+      "exclude_from_codex": true,
+      "upgrades": [
+        {
+          "type": "AVATAR_ATTRIBUTE_PRIMARY_SPIRIT",
+          "operation": "ADD_BASE",
+          "value": 2
+        },
+        {
+          "type": "AVATAR_ARMOUR",
+          "operation": "ADD_BASE",
+          "value": 2,
+          "damage_type": "DT_ANY_ELEMENTAL"
+        },
+        {
+          "type": "WEAPON_MELEE_DAMAGE",
+          "operation": "ADD_BASE",
+          "value": 10
+        }
+      ]
+    },
+    {
+      "path": "/SF/Upgrades/Skins/Totem/CogahCreatureTotem",
+      "name": "Cogah Creature Totem",
+      "slot": "totem",
+      "localize_tag": "/SF/Language/Totems/CogahTalismanCreatureName",
+      "localize_desc_tag": "/SF/Language/Totems/CogahTalismanCreatureDesc",
+      "icon": "/SF/Interface/Graphics/StoreItems/Totems/CreatureTalisman.png",
+      "market_mode": "MM_HIDDEN",
+      "exclude_from_codex": true,
+      "upgrades": [
+        {
+          "type": "AVATAR_ATTRIBUTE_PRIMARY_GRACE",
+          "operation": "ADD_BASE",
+          "value": 2
+        },
+        {
+          "type": "AVATAR_STABILITY_ARMOUR",
+          "operation": "ADD_BASE",
+          "value": 2
+        },
+        {
+          "type": "WEAPON_STABILITY_DAMAGE",
+          "operation": "ADD_BASE",
+          "value": 10
+        }
+      ]
+    },
+    {
+      "path": "/SF/Upgrades/Skins/Totem/CogahHumanTotem",
+      "name": "Cogah Human Totem",
+      "slot": "totem",
+      "localize_tag": "/SF/Language/Totems/CogahTalismanHumansName",
+      "localize_desc_tag": "/SF/Language/Totems/CogahTalismanHumanDesc",
+      "icon": "/SF/Interface/Graphics/StoreItems/Totems/HumanoidTalisman.png",
+      "market_mode": "MM_HIDDEN",
+      "exclude_from_codex": true,
+      "upgrades": [
+        {
+          "type": "AVATAR_ATTRIBUTE_PRIMARY_COURAGE",
+          "operation": "ADD_BASE",
+          "value": 2
+        },
+        {
+          "type": "AVATAR_ARMOUR",
+          "operation": "ADD_BASE",
+          "value": 2,
+          "damage_type": "DT_PHYSICAL"
+        },
+        {
+          "type": "WEAPON_MELEE_DAMAGE",
+          "operation": "ADD_BASE",
+          "value": 10
+        }
+      ]
+    },
+    {
+      "path": "/SF/Upgrades/Skins/Totem/FeyHubTotem",
+      "name": "Fey Hub Totem",
+      "slot": "totem",
+      "localize_tag": "/SF/Language/Totems/FeyHubTotemName",
+      "localize_desc_tag": "/SF/Language/Totems/FeyHubTotemDesc",
+      "icon": "/SF/Interface/Graphics/StoreItems/Totems/AlcasChildrenTotem.png",
+      "market_mode": "MM_HIDDEN",
+      "upgrades": [
+        {
+          "type": "AVATAR_ATTRIBUTE_PRIMARY_SPIRIT",
+          "operation": "ADD_BASE",
+          "value": 1
+        }
+      ]
+    },
+    {
+      "path": "/SF/Upgrades/Skins/Totem/FeyHubUpgradedTotem",
+      "name": "Fey Hub Upgraded Totem",
+      "slot": "totem",
+      "localize_tag": "/SF/Language/Totems/FeyHubTotemUpgradedName",
+      "localize_desc_tag": "/SF/Language/Totems/FeyHubTotemUpgradedDesc",
+      "icon": "/SF/Interface/Graphics/StoreItems/Totems/AlcasChildrenTotem.png",
+      "market_mode": "MM_HIDDEN",
+      "exclude_from_codex": true,
+      "upgrades": [
+        {
+          "type": "AVATAR_ATTRIBUTE_PRIMARY_SPIRIT",
+          "operation": "ADD_BASE",
+          "value": 6
+        }
+      ]
+    },
+    {
+      "path": "/SF/Upgrades/Skins/Totem/GaleneTotem",
+      "name": "Galene Totem",
+      "slot": "totem",
+      "rarity": "UNCOMMON",
+      "localize_tag": "/SF/Language/Totems/GaleneTotemName",
+      "localize_desc_tag": "/SF/Language/Totems/GaleneTotemDesc",
+      "icon": "/SF/Interface/Graphics/StoreItems/Totems/GaleneTalisman.png",
+      "market_mode": "MM_HIDDEN",
+      "exclude_from_codex": true,
+      "upgrades": [
+        {
+          "type": "AVATAR_ATTRIBUTE_PRIMARY_SPIRIT",
+          "operation": "ADD_BASE",
+          "value": 3
+        }
+      ]
+    },
+    {
+      "path": "/SF/Upgrades/Skins/Totem/IchorousTotem",
+      "name": "Ichorous Totem",
+      "slot": "totem",
+      "localize_tag": "/SF/Language/Totems/IchorousTotemName",
+      "localize_desc_tag": "/SF/Language/Totems/IchorousTotemDesc",
+      "icon": "/SF/Interface/Graphics/StoreItems/Totems/IchorousTotem.png",
+      "premium_price": 50,
+      "market_mode": "MM_VISIBLE",
+      "upgrades": [
+        {
+          "type": "AVATAR_ATTRIBUTE_PRIMARY_SPIRIT",
+          "operation": "ADD_BASE",
+          "value": 1
+        },
+        {
+          "type": "AVATAR_ARMOUR",
+          "operation": "ADD_BASE",
+          "value": 1,
+          "damage_type": "DT_PHYSICAL"
+        },
+        {
+          "type": "AVATAR_ARMOUR",
+          "operation": "ADD_BASE",
+          "value": 2,
+          "damage_type": "DT_ANY_ELEMENTAL"
+        }
+      ]
+    },
+    {
+      "path": "/SF/Upgrades/Skins/Totem/JosalfarTotem",
+      "name": "Josalfar Totem",
+      "slot": "totem",
+      "rarity": "UNCOMMON",
+      "localize_tag": "/SF/Language/Totems/JosalfarTotemName",
+      "localize_desc_tag": "/SF/Language/Totems/JosalfarTotemDesc",
+      "icon": "/SF/Interface/Graphics/StoreItems/Totems/JosalfarTalisman.png",
+      "market_mode": "MM_HIDDEN",
+      "exclude_from_codex": true,
+      "upgrades": [
+        {
+          "type": "AVATAR_ATTRIBUTE_PRIMARY_GRACE",
+          "operation": "ADD_BASE",
+          "value": 3
+        }
+      ]
+    },
+    {
+      "path": "/SF/Upgrades/Skins/Totem/OdeSoulBoonTotem",
+      "name": "Ode Soul Boon Totem",
+      "slot": "totem",
+      "localize_tag": "/SF/Language/Totems/OdeSoulBoonTotemName",
+      "localize_desc_tag": "/SF/Language/Totems/OdeSoulBoonTotemDesc",
+      "icon": "/SF/Interface/Graphics/StoreItems/Totems/OdeSoulBoonTotem.png",
+      "premium_price": 45,
+      "market_mode": "MM_VISIBLE",
+      "upgrades": [
+        {
+          "type": "AVATAR_ATTRIBUTE_PRIMARY_COURAGE",
+          "operation": "ADD_BASE",
+          "value": 4
+        },
+        {
+          "type": "AVATAR_ATTRIBUTE_PRIMARY_SPIRIT",
+          "operation": "ADD_BASE",
+          "value": 1
+        },
+        {
+          "type": "AVATAR_ATTRIBUTE_PRIMARY_GRACE",
+          "operation": "ADD_BASE",
+          "value": 1
+        }
+      ]
+    },
+    {
+      "path": "/SF/Upgrades/Skins/Totem/OrengalIdolTotem",
+      "name": "Orengal Idol Totem",
+      "slot": "totem",
+      "localize_tag": "/SF/Language/Totems/OrengalIdolTotemName",
+      "localize_desc_tag": "/SF/Language/Totems/OrengalIdolTotemDesc",
+      "icon": "/SF/Interface/Graphics/StoreItems/Totems/OrengallTotem.png",
+      "premium_price": 60,
+      "market_mode": "MM_VISIBLE",
+      "upgrades": [
+        {
+          "type": "AVATAR_ATTRIBUTE_PRIMARY_GRACE",
+          "operation": "ADD_BASE",
+          "value": 4
+        },
+        {
+          "type": "AVATAR_ATTRIBUTE_PRIMARY_SPIRIT",
+          "operation": "ADD_BASE",
+          "value": 1
+        },
+        {
+          "type": "AVATAR_ATTRIBUTE_PRIMARY_COURAGE",
+          "operation": "ADD_BASE",
+          "value": 1
+        }
+      ]
+    },
+    {
+      "path": "/SF/Upgrades/Skins/Totem/OrengalSoulBoonTotem",
+      "name": "Orengal Soul Boon Totem",
+      "slot": "totem",
+      "localize_tag": "/SF/Language/Totems/OrengalSoulBoonTotemName",
+      "localize_desc_tag": "/SF/Language/Totems/OrengalSoulBoonTotemDesc",
+      "icon": "/SF/Interface/Graphics/StoreItems/Totems/OrengallSoulBoon.png",
+      "premium_price": 50,
+      "market_mode": "MM_VISIBLE",
+      "upgrades": [
+        {
+          "type": "AVATAR_ATTRIBUTE_PRIMARY_SPIRIT",
+          "operation": "ADD_BASE",
+          "value": 4
+        },
+        {
+          "type": "AVATAR_ATTRIBUTE_PRIMARY_GRACE",
+          "operation": "ADD_BASE",
+          "value": 1
+        },
+        {
+          "type": "AVATAR_ATTRIBUTE_PRIMARY_COURAGE",
+          "operation": "ADD_BASE",
+          "value": 1
+        }
+      ]
+    },
+    {
+      "path": "/SF/Upgrades/Skins/Totem/PothiaTotem",
+      "name": "Pothia Totem",
+      "slot": "totem",
+      "rarity": "UNCOMMON",
+      "localize_tag": "/SF/Language/Totems/PothiaTotemName",
+      "localize_desc_tag": "/SF/Language/Totems/PothiaTotemDesc",
+      "icon": "/SF/Interface/Graphics/StoreItems/Totems/PothiaTalisman.png",
+      "market_mode": "MM_HIDDEN",
+      "exclude_from_codex": true,
+      "upgrades": [
+        {
+          "type": "AVATAR_ATTRIBUTE_PRIMARY_COURAGE",
+          "operation": "ADD_BASE",
+          "value": 3
+        }
+      ]
+    },
+    {
+      "path": "/SF/Upgrades/Skins/Totem/PreludesHonorMoteTotem",
+      "name": "Preludes Honor Mote Totem",
+      "slot": "totem",
+      "localize_tag": "/SF/Language/Totems/PreludesHonorTotemName",
+      "localize_desc_tag": "/SF/Language/Totems/PreludesHonorTotemDesc",
+      "icon": "/SF/Interface/Graphics/StoreItems/Totems/SparrowTalisman.png",
+      "market_mode": "MM_HIDDEN",
+      "exclude_from_codex": true,
+      "upgrades": [
+        {
+          "type": "AVATAR_ATTRIBUTE_PRIMARY_COURAGE",
+          "operation": "ADD_BASE",
+          "value": 1
+        },
+        {
+          "type": "AVATAR_ATTRIBUTE_PRIMARY_SPIRIT",
+          "operation": "ADD_BASE",
+          "value": 1
+        },
+        {
+          "type": "AVATAR_ATTRIBUTE_PRIMARY_GRACE",
+          "operation": "ADD_BASE",
+          "value": 1
+        }
+      ]
+    },
+    {
+      "path": "/SF/Upgrades/Skins/Totem/PrimordialTotem",
+      "name": "Primordial Totem",
+      "slot": "totem",
+      "localize_tag": "/SF/Language/Totems/PrimordialTotemName",
+      "localize_desc_tag": "/SF/Language/Totems/PrimordialTotemDesc",
+      "icon": "/SF/Interface/Graphics/StoreItems/Totems/PrimordialTalisman.png",
+      "market_mode": "MM_HIDDEN",
+      "exclude_from_codex": true,
+      "upgrades": [
+        {
+          "type": "AVATAR_ATTRIBUTE_PRIMARY_COURAGE",
+          "operation": "ADD_BASE",
+          "value": 3
+        },
+        {
+          "type": "AVATAR_ATTRIBUTE_PRIMARY_SPIRIT",
+          "operation": "ADD_BASE",
+          "value": 3
+        },
+        {
+          "type": "AVATAR_ATTRIBUTE_PRIMARY_GRACE",
+          "operation": "ADD_BASE",
+          "value": 3
+        }
+      ]
+    },
+    {
+      "path": "/SF/Upgrades/Skins/Totem/SilentRoseHubTotem",
+      "name": "Silent Rose Hub Totem",
+      "slot": "totem",
+      "localize_tag": "/SF/Language/Totems/SilentRoseHubTotemName",
+      "localize_desc_tag": "/SF/Language/Totems/SilentRoseHubTotemDesc",
+      "icon": "/SF/Interface/Graphics/StoreItems/Totems/SilentRoseTotem.png",
+      "market_mode": "MM_HIDDEN",
+      "upgrades": [
+        {
+          "type": "AVATAR_ATTRIBUTE_PRIMARY_GRACE",
+          "operation": "ADD_BASE",
+          "value": 1
+        }
+      ]
+    },
+    {
+      "path": "/SF/Upgrades/Skins/Totem/SilentRoseHubUpgradedTotem",
+      "name": "Silent Rose Hub Upgraded Totem",
+      "slot": "totem",
+      "localize_tag": "/SF/Language/Totems/SilentRoseHubTotemUpgradedName",
+      "localize_desc_tag": "/SF/Language/Totems/SilentRoseHubTotemUpgradedDesc",
+      "icon": "/SF/Interface/Graphics/StoreItems/Totems/SilentRoseTotem.png",
+      "market_mode": "MM_HIDDEN",
+      "exclude_from_codex": true,
+      "upgrades": [
+        {
+          "type": "AVATAR_ATTRIBUTE_PRIMARY_GRACE",
+          "operation": "ADD_BASE",
+          "value": 6
+        }
+      ]
+    }
+  ]
+}
