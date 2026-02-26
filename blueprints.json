@@ -1,0 +1,2498 @@
+[
+  {
+    "name": "AvarotMaskHelmBlueprint",
+    "result_item": "/SF/StoreItems/Upgrades/Skins/Helmets/AvarotMaskHelmet",
+    "build_time_seconds": 36000,
+    "build_time_human": "10h 0m"
+  },
+  {
+    "name": "BromiusHelmBlueprint",
+    "result_item": "/SF/StoreItems/Upgrades/Skins/Helmets/BromiusClosedHelmet",
+    "build_time_seconds": 72000,
+    "build_time_human": "20h 0m"
+  },
+  {
+    "name": "BromiusLegsBlueprint",
+    "result_item": "/SF/StoreItems/Upgrades/Skins/Legs/BromiusLegs",
+    "build_time_seconds": 72000,
+    "build_time_human": "20h 0m"
+  },
+  {
+    "name": "BromiusTorsoBlueprint",
+    "result_item": "/SF/StoreItems/Upgrades/Skins/Body/BromiusBody",
+    "build_time_seconds": 72000,
+    "build_time_human": "20h 0m"
+  },
+  {
+    "name": "CircadeHelmBlueprint",
+    "result_item": "/SF/StoreItems/Upgrades/Skins/Helmets/CircadeHelmet",
+    "build_time_seconds": 36000,
+    "build_time_human": "10h 0m"
+  },
+  {
+    "name": "CircadeLegsBlueprint",
+    "result_item": "/SF/StoreItems/Upgrades/Skins/Legs/CircadeLegs",
+    "build_time_seconds": 36000,
+    "build_time_human": "10h 0m"
+  },
+  {
+    "name": "CircadeTorsoBlueprint",
+    "result_item": "/SF/StoreItems/Upgrades/Skins/Body/CircadeBody",
+    "build_time_seconds": 36000,
+    "build_time_human": "10h 0m"
+  },
+  {
+    "name": "DeoraHelmBlueprint",
+    "result_item": "/SF/StoreItems/Upgrades/Skins/Helmets/DeoraHelmet",
+    "build_time_seconds": 36000,
+    "build_time_human": "10h 0m"
+  },
+  {
+    "name": "DeoraLegsBlueprint",
+    "result_item": "/SF/StoreItems/Upgrades/Skins/Legs/DeoraLegs",
+    "build_time_seconds": 36000,
+    "build_time_human": "10h 0m"
+  },
+  {
+    "name": "DeoraTorsoBlueprint",
+    "result_item": "/SF/StoreItems/Upgrades/Skins/Body/DeoraBody",
+    "build_time_seconds": 36000,
+    "build_time_human": "10h 0m"
+  },
+  {
+    "name": "EnvoyArmorTypeAHelmBlueprint",
+    "result_item": "/SF/StoreItems/Upgrades/Skins/Helmets/ForgetFireHelmet",
+    "build_time_seconds": 36000,
+    "build_time_human": "10h 0m"
+  },
+  {
+    "name": "EnvoyArmorTypeALegsBlueprint",
+    "result_item": "/SF/StoreItems/Upgrades/Skins/Legs/ForgetFireLegs",
+    "build_time_seconds": 36000,
+    "build_time_human": "10h 0m"
+  },
+  {
+    "name": "EnvoyArmorTypeATorsoBlueprint",
+    "result_item": "/SF/StoreItems/Upgrades/Skins/Body/ForgetFireBody",
+    "build_time_seconds": 36000,
+    "build_time_human": "10h 0m"
+  },
+  {
+    "name": "EnvoyArmorTypeBHelmBlueprint",
+    "result_item": "/SF/StoreItems/Upgrades/Skins/Helmets/ForgetFireAltHelmet",
+    "build_time_seconds": 36000,
+    "build_time_human": "10h 0m"
+  },
+  {
+    "name": "EnvoyArmorTypeBLegsBlueprint",
+    "result_item": "/SF/StoreItems/Upgrades/Skins/Legs/ForgetFireAltLegs",
+    "build_time_seconds": 36000,
+    "build_time_human": "10h 0m"
+  },
+  {
+    "name": "EnvoyArmorTypeBTorsoBlueprint",
+    "result_item": "/SF/StoreItems/Upgrades/Skins/Body/ForgetFireAltBody",
+    "build_time_seconds": 36000,
+    "build_time_human": "10h 0m"
+  },
+  {
+    "name": "FarmerHelmBlueprint",
+    "result_item": "/SF/StoreItems/Upgrades/Skins/Helmets/FarmerHelmet",
+    "build_time_seconds": 36000,
+    "build_time_human": "10h 0m"
+  },
+  {
+    "name": "FarmerLegsBlueprint",
+    "result_item": "/SF/StoreItems/Upgrades/Skins/Legs/FarmerLegs",
+    "build_time_seconds": 36000,
+    "build_time_human": "10h 0m"
+  },
+  {
+    "name": "FarmerTorsoBlueprint",
+    "result_item": "/SF/StoreItems/Upgrades/Skins/Body/FarmerBody",
+    "build_time_seconds": 36000,
+    "build_time_human": "10h 0m"
+  },
+  {
+    "name": "FennJotarHelmBlueprint",
+    "result_item": "/SF/StoreItems/Upgrades/Skins/Helmets/FennJotarHelmet",
+    "build_time_seconds": 36000,
+    "build_time_human": "10h 0m"
+  },
+  {
+    "name": "FennJotarLegsBlueprint",
+    "result_item": "/SF/StoreItems/Upgrades/Skins/Legs/FennJotarLegs",
+    "build_time_seconds": 36000,
+    "build_time_human": "10h 0m"
+  },
+  {
+    "name": "FennJotarTorsoBlueprint",
+    "result_item": "/SF/StoreItems/Upgrades/Skins/Body/FennJotarBody",
+    "build_time_seconds": 36000,
+    "build_time_human": "10h 0m"
+  },
+  {
+    "name": "GarrenHelmBlueprint",
+    "result_item": "/SF/StoreItems/Upgrades/Skins/Helmets/GarrenHelmet",
+    "build_time_seconds": 26000,
+    "build_time_human": "7h 13m"
+  },
+  {
+    "name": "GarrenLegsBlueprint",
+    "result_item": "/SF/StoreItems/Upgrades/Skins/Legs/GarrenLegs",
+    "build_time_seconds": 36000,
+    "build_time_human": "10h 0m"
+  },
+  {
+    "name": "GarrenTorsoBlueprint",
+    "result_item": "/SF/StoreItems/Upgrades/Skins/Body/GarrenBody",
+    "build_time_seconds": 36000,
+    "build_time_human": "10h 0m"
+  },
+  {
+    "name": "MendicantDrudgeChestBlueprint",
+    "result_item": "/SF/StoreItems/Upgrades/Skins/Body/MendicantDrudgeBody",
+    "build_time_seconds": 72000,
+    "build_time_human": "20h 0m"
+  },
+  {
+    "name": "MendicantDrudgeHelmBlueprint",
+    "result_item": "/SF/StoreItems/Upgrades/Skins/Helmets/MendicantDrudgeHelmet",
+    "build_time_seconds": 72000,
+    "build_time_human": "20h 0m"
+  },
+  {
+    "name": "MendicantDrudgeLegsBlueprint",
+    "result_item": "/SF/StoreItems/Upgrades/Skins/Legs/MendicantDrudgeLegs",
+    "build_time_seconds": 72000,
+    "build_time_human": "20h 0m"
+  },
+  {
+    "name": "MendicantKingHelmBlueprint",
+    "result_item": "/SF/StoreItems/Upgrades/Skins/Helmets/MendicantKingHelmet",
+    "build_time_seconds": 72000,
+    "build_time_human": "20h 0m"
+  },
+  {
+    "name": "MendicantKingLegsBlueprint",
+    "result_item": "/SF/StoreItems/Upgrades/Skins/Legs/MendicantKingLegs",
+    "build_time_seconds": 72000,
+    "build_time_human": "20h 0m"
+  },
+  {
+    "name": "MendicantKingTorsoBlueprint",
+    "result_item": "/SF/StoreItems/Upgrades/Skins/Body/MendicantKingBody",
+    "build_time_seconds": 72000,
+    "build_time_human": "20h 0m"
+  },
+  {
+    "name": "MendicantWazzardHelmBlueprint",
+    "result_item": "/SF/StoreItems/Upgrades/Skins/Helmets/WazzardHelmet",
+    "build_time_seconds": 72000,
+    "build_time_human": "20h 0m"
+  },
+  {
+    "name": "MendicantWazzardLegsBlueprint",
+    "result_item": "/SF/StoreItems/Upgrades/Skins/Legs/WazzardLegs",
+    "build_time_seconds": 72000,
+    "build_time_human": "20h 0m"
+  },
+  {
+    "name": "MendicantWazzardTorsoBlueprint",
+    "result_item": "/SF/StoreItems/Upgrades/Skins/Body/WazzardBody",
+    "build_time_seconds": 72000,
+    "build_time_human": "20h 0m"
+  },
+  {
+    "name": "MockeryHelmBlueprint",
+    "result_item": "/SF/StoreItems/Upgrades/Skins/Helmets/MockeryHelmet",
+    "build_time_seconds": 72000,
+    "build_time_human": "20h 0m"
+  },
+  {
+    "name": "MockeryLegsBlueprint",
+    "result_item": "/SF/StoreItems/Upgrades/Skins/Legs/MockeryLegs",
+    "build_time_seconds": 72000,
+    "build_time_human": "20h 0m"
+  },
+  {
+    "name": "MockeryTorsoBlueprint",
+    "result_item": "/SF/StoreItems/Upgrades/Skins/Body/MockeryBody",
+    "build_time_seconds": 72000,
+    "build_time_human": "20h 0m"
+  },
+  {
+    "name": "OrengalHelmBlueprint",
+    "result_item": "/SF/StoreItems/Upgrades/Skins/Helmets/OrengalClosedHelmet",
+    "build_time_seconds": 72000,
+    "build_time_human": "20h 0m"
+  },
+  {
+    "name": "OrengalLegsBlueprint",
+    "result_item": "/SF/StoreItems/Upgrades/Skins/Legs/OrengalLegs",
+    "build_time_seconds": 72000,
+    "build_time_human": "20h 0m"
+  },
+  {
+    "name": "OrengalTorsoBlueprint",
+    "result_item": "/SF/StoreItems/Upgrades/Skins/Body/OrengalBody",
+    "build_time_seconds": 72000,
+    "build_time_human": "20h 0m"
+  },
+  {
+    "name": "SproutMaskHelmBlueprint",
+    "result_item": "/SF/StoreItems/Upgrades/Skins/Helmets/SproutMaskHelmet",
+    "build_time_seconds": 14400,
+    "build_time_human": "4h 0m"
+  },
+  {
+    "name": "StarterCourageHelmBlueprint",
+    "result_item": "/SF/StoreItems/Upgrades/Skins/Helmets/StarterCourageHelmet",
+    "build_time_seconds": 1800,
+    "build_time_human": "0h 30m"
+  },
+  {
+    "name": "StarterCourageLegsBlueprint",
+    "result_item": "/SF/StoreItems/Upgrades/Skins/Legs/StarterCourageLegs",
+    "build_time_seconds": 1800,
+    "build_time_human": "0h 30m"
+  },
+  {
+    "name": "StarterCourageTorsoBlueprint",
+    "result_item": "/SF/StoreItems/Upgrades/Skins/Body/StarterCourageBody",
+    "build_time_seconds": 1800,
+    "build_time_human": "0h 30m"
+  },
+  {
+    "name": "StarterGraceHelmBlueprint",
+    "result_item": "/SF/StoreItems/Upgrades/Skins/Helmets/StarterGraceHelmet",
+    "build_time_seconds": 1800,
+    "build_time_human": "0h 30m"
+  },
+  {
+    "name": "StarterGraceLegsBlueprint",
+    "result_item": "/SF/StoreItems/Upgrades/Skins/Legs/StarterGraceLegs",
+    "build_time_seconds": 1800,
+    "build_time_human": "0h 30m"
+  },
+  {
+    "name": "StarterGraceTorsoBlueprint",
+    "result_item": "/SF/StoreItems/Upgrades/Skins/Body/StarterGraceBody",
+    "build_time_seconds": 1800,
+    "build_time_human": "0h 30m"
+  },
+  {
+    "name": "StarterSpiritHelmBlueprint",
+    "result_item": "/SF/StoreItems/Upgrades/Skins/Helmets/StarterSpiritHelmet",
+    "build_time_seconds": 1800,
+    "build_time_human": "0h 30m"
+  },
+  {
+    "name": "StarterSpiritLegsBlueprint",
+    "result_item": "/SF/StoreItems/Upgrades/Skins/Legs/StarterSpiritLegs",
+    "build_time_seconds": 1800,
+    "build_time_human": "0h 30m"
+  },
+  {
+    "name": "StarterSpiritTorsoBlueprint",
+    "result_item": "/SF/StoreItems/Upgrades/Skins/Body/StarterSpiritBody",
+    "build_time_seconds": 1800,
+    "build_time_human": "0h 30m"
+  },
+  {
+    "name": "TalMaskHelmBlueprint",
+    "result_item": "/SF/StoreItems/Upgrades/Skins/Helmets/TalMaskHelmet",
+    "build_time_seconds": 36000,
+    "build_time_human": "10h 0m"
+  },
+  {
+    "name": "ThawtideHelmBlueprint",
+    "result_item": "/SF/StoreItems/Upgrades/Skins/Helmets/ThawtideHelmet",
+    "build_time_seconds": 36000,
+    "build_time_human": "10h 0m"
+  },
+  {
+    "name": "TuvalkaneHelmBlueprint",
+    "result_item": "/SF/StoreItems/Upgrades/Skins/Helmets/TuvalkaneHelmet",
+    "build_time_seconds": 36000,
+    "build_time_human": "10h 0m"
+  },
+  {
+    "name": "TuvalkaneLegsBlueprint",
+    "result_item": "/SF/StoreItems/Upgrades/Skins/Legs/TuvalkanelLegs",
+    "build_time_seconds": 36000,
+    "build_time_human": "10h 0m"
+  },
+  {
+    "name": "TuvalkaneTorsoBlueprint",
+    "result_item": "/SF/StoreItems/Upgrades/Skins/Body/TuvalkaneBody",
+    "build_time_seconds": 36000,
+    "build_time_human": "10h 0m"
+  },
+  {
+    "name": "AlcasChildrenPalletteBlueprint",
+    "result_item": "/SF/StoreItems/Types/Items/ColorPalettes/AlcasChildrenFactionPalette",
+    "build_time_seconds": 10,
+    "build_time_human": "0h 0m"
+  },
+  {
+    "name": "KithofKingsPalletteBlueprint",
+    "result_item": "/SF/StoreItems/Types/Items/ColorPalettes/KithOfKingsFactionPalette",
+    "build_time_seconds": 10,
+    "build_time_human": "0h 0m"
+  },
+  {
+    "name": "SilentRosePalletteBlueprint",
+    "result_item": "/SF/StoreItems/Types/Items/ColorPalettes/SilentRoseFactionPalette",
+    "build_time_seconds": 10,
+    "build_time_human": "0h 0m"
+  },
+  {
+    "name": "ReviveTotemRecipe",
+    "result_item": "/SF/StoreItems/Types/Items/Consumables/ReviveTotem",
+    "build_time_seconds": 1200,
+    "build_time_human": "0h 20m"
+  },
+  {
+    "name": "ArmorTokenTierABlueprint",
+    "result_item": "/SF/StoreItems/Types/Items/TransmogTokens/TransmogTokenTierA",
+    "build_time_seconds": 21600,
+    "build_time_human": "6h 0m"
+  },
+  {
+    "name": "ChampionElixirRecipe",
+    "result_item": "/SF/StoreItems/Types/Items/Consumables/Syndicates/ChampionVirtueElixir",
+    "build_time_seconds": 0,
+    "build_time_human": null
+  },
+  {
+    "name": "CloudquellElixerRecipe",
+    "result_item": "/SF/StoreItems/Types/Items/Consumables/VerminiaPotion",
+    "build_time_seconds": 0,
+    "build_time_human": null
+  },
+  {
+    "name": "FeyElixirRecipe",
+    "result_item": "/SF/StoreItems/Types/Items/Consumables/Syndicates/FeyVirtueElixir",
+    "build_time_seconds": 0,
+    "build_time_human": null
+  },
+  {
+    "name": "LesserChampionElixirRecipe",
+    "result_item": "/SF/StoreItems/Types/Items/Consumables/Syndicates/LesserChampionVirtueElixir",
+    "build_time_seconds": 0,
+    "build_time_human": null
+  },
+  {
+    "name": "LesserFeyElixirRecipe",
+    "result_item": "/SF/StoreItems/Types/Items/Consumables/Syndicates/LesserFeyVirtueElixir",
+    "build_time_seconds": 0,
+    "build_time_human": null
+  },
+  {
+    "name": "LesserSilentRoseElixirRecipe",
+    "result_item": "/SF/StoreItems/Types/Items/Consumables/Syndicates/LesserSilentRoseVirtueElixir",
+    "build_time_seconds": 0,
+    "build_time_human": null
+  },
+  {
+    "name": "RednightElixerRecipeItem",
+    "result_item": "/SF/StoreItems/Types/Items/Consumables/RedNightElixir",
+    "build_time_seconds": 7200,
+    "build_time_human": "2h 0m"
+  },
+  {
+    "name": "SilentRoseElixirRecipe",
+    "result_item": "/SF/StoreItems/Types/Items/Consumables/Syndicates/SilentRoseVirtueElixir",
+    "build_time_seconds": 0,
+    "build_time_human": null
+  },
+  {
+    "name": "BirdFeederBlueprint",
+    "result_item": "/SF/StoreItems/Types/PickUps/Resources/Holiday/VerminiaWinterBirdSeed",
+    "build_time_seconds": 0,
+    "build_time_human": null
+  },
+  {
+    "name": "FemaleCardinalBlueprint",
+    "result_item": "/SF/StoreItems/Upgrades/Skins/Sparrow/FemaleCardinalSparrowBody",
+    "build_time_seconds": 36000,
+    "build_time_human": "10h 0m"
+  },
+  {
+    "name": "MaleCardinalBlueprint",
+    "result_item": "/SF/StoreItems/Upgrades/Skins/Sparrow/MaleCardinalSparrowBody",
+    "build_time_seconds": 36000,
+    "build_time_human": "10h 0m"
+  },
+  {
+    "name": "FennJotarIdolBlueprint",
+    "result_item": "/SF/StoreItems/Souls/Common/AbilityCards/FennJotarAbilityMod",
+    "build_time_seconds": 86400,
+    "build_time_human": "24h 0m"
+  },
+  {
+    "name": "BromiusHelmJoineryBlueprint",
+    "result_item": "/SF/StoreItems/Types/Items/Kintsugi/Armor/KintsugiArmourUpgradeBromiusHelm",
+    "build_time_seconds": 72000,
+    "build_time_human": "20h 0m"
+  },
+  {
+    "name": "BromiusLegsJoineryBlueprint",
+    "result_item": "/SF/StoreItems/Types/Items/Kintsugi/Armor/KintsugiArmourUpgradeBromiusLegs",
+    "build_time_seconds": 72000,
+    "build_time_human": "20h 0m"
+  },
+  {
+    "name": "BromiusTorsoJoineryBlueprint",
+    "result_item": "/SF/StoreItems/Types/Items/Kintsugi/Armor/KintsugiArmourUpgradeBromiusTorso",
+    "build_time_seconds": 72000,
+    "build_time_human": "20h 0m"
+  },
+  {
+    "name": "CircadeHelmJoineryBlueprint",
+    "result_item": "/SF/StoreItems/Types/Items/Kintsugi/Armor/KintsugiArmourUpgradeCircadeHelm",
+    "build_time_seconds": 36000,
+    "build_time_human": "10h 0m"
+  },
+  {
+    "name": "CircadeLegsJoineryBlueprint",
+    "result_item": "/SF/StoreItems/Types/Items/Kintsugi/Armor/KintsugiArmourUpgradeCircadeLegs",
+    "build_time_seconds": 36000,
+    "build_time_human": "10h 0m"
+  },
+  {
+    "name": "CircadeTorsoJoineryBlueprint",
+    "result_item": "/SF/StoreItems/Types/Items/Kintsugi/Armor/KintsugiArmourUpgradeCircadeTorso",
+    "build_time_seconds": 36000,
+    "build_time_human": "10h 0m"
+  },
+  {
+    "name": "DeoraHelmJoineryBlueprint",
+    "result_item": "/SF/StoreItems/Types/Items/Kintsugi/Armor/KintsugiArmourUpgradeDeoraHelm",
+    "build_time_seconds": 36000,
+    "build_time_human": "10h 0m"
+  },
+  {
+    "name": "DeoraLegsJoineryBlueprint",
+    "result_item": "/SF/StoreItems/Types/Items/Kintsugi/Armor/KintsugiArmourUpgradeDeoraLegs",
+    "build_time_seconds": 36000,
+    "build_time_human": "10h 0m"
+  },
+  {
+    "name": "DeoraTorsoJoineryBlueprint",
+    "result_item": "/SF/StoreItems/Types/Items/Kintsugi/Armor/KintsugiArmourUpgradeDeoraTorso",
+    "build_time_seconds": 36000,
+    "build_time_human": "10h 0m"
+  },
+  {
+    "name": "EnvoyArmorTypeAHelmJoineryBlueprint",
+    "result_item": "/SF/StoreItems/Types/Items/Kintsugi/Armor/KintsugiUpgradeArmourEnvoyArmorTypeAHelm",
+    "build_time_seconds": 36000,
+    "build_time_human": "10h 0m"
+  },
+  {
+    "name": "EnvoyArmorTypeALegsJoineryBlueprint",
+    "result_item": "/SF/StoreItems/Types/Items/Kintsugi/Armor/KintsugiUpgradeArmourEnvoyArmorTypeALegs",
+    "build_time_seconds": 36000,
+    "build_time_human": "10h 0m"
+  },
+  {
+    "name": "EnvoyArmorTypeATorsoJoineryBlueprint",
+    "result_item": "/SF/StoreItems/Types/Items/Kintsugi/Armor/KintsugiUpgradeArmourEnvoyArmorTypeATorso",
+    "build_time_seconds": 36000,
+    "build_time_human": "10h 0m"
+  },
+  {
+    "name": "EnvoyArmorTypeBHelmJoineryBlueprint",
+    "result_item": "/SF/StoreItems/Types/Items/Kintsugi/Armor/KintsugiUpgradeArmourEnvoyArmorTypeBHelm",
+    "build_time_seconds": 36000,
+    "build_time_human": "10h 0m"
+  },
+  {
+    "name": "EnvoyArmorTypeBLegsJoineryBlueprint",
+    "result_item": "/SF/StoreItems/Types/Items/Kintsugi/Armor/KintsugiUpgradeArmourEnvoyArmorTypeBLegs",
+    "build_time_seconds": 36000,
+    "build_time_human": "10h 0m"
+  },
+  {
+    "name": "EnvoyArmorTypeBTorsoJoineryBlueprint",
+    "result_item": "/SF/StoreItems/Types/Items/Kintsugi/Armor/KintsugiUpgradeArmourEnvoyArmorTypeBTorso",
+    "build_time_seconds": 36000,
+    "build_time_human": "10h 0m"
+  },
+  {
+    "name": "FennJotarHelmJoineryBlueprint",
+    "result_item": "/SF/StoreItems/Types/Items/Kintsugi/Armor/KintsugiArmourUpgradeFennJotarHelm",
+    "build_time_seconds": 0,
+    "build_time_human": null
+  },
+  {
+    "name": "FennJotarLegsJoineryBlueprint",
+    "result_item": "/SF/StoreItems/Types/Items/Kintsugi/Armor/KintsugiArmourUpgradeFennJotarLegs",
+    "build_time_seconds": 0,
+    "build_time_human": null
+  },
+  {
+    "name": "FennJotarTorsoJoineryBlueprint",
+    "result_item": "/SF/StoreItems/Types/Items/Kintsugi/Armor/KintsugiArmourUpgradeFennJotarTorso",
+    "build_time_seconds": 0,
+    "build_time_human": null
+  },
+  {
+    "name": "GarrenHelmetJoineryBlueprint",
+    "result_item": "/SF/StoreItems/Types/Items/Kintsugi/Armor/KintsugiArmourUpgradeGarrenHelm",
+    "build_time_seconds": 72000,
+    "build_time_human": "20h 0m"
+  },
+  {
+    "name": "GarrenLegsJoineryBlueprint",
+    "result_item": "/SF/StoreItems/Types/Items/Kintsugi/Armor/KintsugiArmourUpgradeGarrenLegs",
+    "build_time_seconds": 72000,
+    "build_time_human": "20h 0m"
+  },
+  {
+    "name": "GarrenTorsoJoineryBlueprint",
+    "result_item": "/SF/StoreItems/Types/Items/Kintsugi/Armor/KintsugiArmourUpgradeGarrenTorso",
+    "build_time_seconds": 72000,
+    "build_time_human": "20h 0m"
+  },
+  {
+    "name": "MendicantKingHelmJoineryBlueprint",
+    "result_item": "/SF/StoreItems/Types/Items/Kintsugi/Armor/KintsugiArmourUpgradeMendicantKingHelm",
+    "build_time_seconds": 72000,
+    "build_time_human": "20h 0m"
+  },
+  {
+    "name": "MendicantKingLegsJoineryBlueprint",
+    "result_item": "/SF/StoreItems/Types/Items/Kintsugi/Armor/KintsugiArmourUpgradeMendicantKingLegs",
+    "build_time_seconds": 72000,
+    "build_time_human": "20h 0m"
+  },
+  {
+    "name": "MendicantKingTorsoJoineryBlueprint",
+    "result_item": "/SF/StoreItems/Types/Items/Kintsugi/Armor/KintsugiArmourUpgradeMendicantKingTorso",
+    "build_time_seconds": 72000,
+    "build_time_human": "20h 0m"
+  },
+  {
+    "name": "MockeryHelmJoineryBlueprint",
+    "result_item": "/SF/StoreItems/Types/Items/Kintsugi/Armor/KintsugiArmourUpgradeMockeryHelm",
+    "build_time_seconds": 72000,
+    "build_time_human": "20h 0m"
+  },
+  {
+    "name": "MockeryLegsJoineryBlueprint",
+    "result_item": "/SF/StoreItems/Types/Items/Kintsugi/Armor/KintsugiArmourUpgradeMockeryLegs",
+    "build_time_seconds": 72000,
+    "build_time_human": "20h 0m"
+  },
+  {
+    "name": "MockeryTorsoJoineryBlueprint",
+    "result_item": "/SF/StoreItems/Types/Items/Kintsugi/Armor/KintsugiArmourUpgradeMockeryTorso",
+    "build_time_seconds": 72000,
+    "build_time_human": "20h 0m"
+  },
+  {
+    "name": "OrengalHelmJoineryBlueprint",
+    "result_item": "/SF/StoreItems/Types/Items/Kintsugi/Armor/KintsugiArmourUpgradeOrengalHelm",
+    "build_time_seconds": 72000,
+    "build_time_human": "20h 0m"
+  },
+  {
+    "name": "OrengalLegsJoineryBlueprint",
+    "result_item": "/SF/StoreItems/Types/Items/Kintsugi/Armor/KintsugiArmourUpgradeOrengalLegs",
+    "build_time_seconds": 72000,
+    "build_time_human": "20h 0m"
+  },
+  {
+    "name": "OrengalTorsoJoineryBlueprint",
+    "result_item": "/SF/StoreItems/Types/Items/Kintsugi/Armor/KintsugiArmourUpgradeOrengalTorso",
+    "build_time_seconds": 72000,
+    "build_time_human": "20h 0m"
+  },
+  {
+    "name": "StarterCourageHelmJoineryBlueprint",
+    "result_item": "/SF/StoreItems/Types/Items/Kintsugi/Armor/KintsugiArmourUpgradeStarterCourageHelm",
+    "build_time_seconds": null,
+    "build_time_human": null
+  },
+  {
+    "name": "StarterCourageLegsJoineryBlueprint",
+    "result_item": "/SF/StoreItems/Types/Items/Kintsugi/Armor/KintsugiArmourUpgradeStarterCourageLegs",
+    "build_time_seconds": null,
+    "build_time_human": null
+  },
+  {
+    "name": "StarterCourageTorsoJoineryBlueprint",
+    "result_item": "/SF/StoreItems/Types/Items/Kintsugi/Armor/KintsugiArmourUpgradeStarterCourageTorso",
+    "build_time_seconds": null,
+    "build_time_human": null
+  },
+  {
+    "name": "StarterGraceHelmJoineryBlueprint",
+    "result_item": "/SF/StoreItems/Types/Items/Kintsugi/Armor/KintsugiArmourUpgradeStarterGraceHelm",
+    "build_time_seconds": null,
+    "build_time_human": null
+  },
+  {
+    "name": "StarterGraceLegsJoineryBlueprint",
+    "result_item": "/SF/StoreItems/Types/Items/Kintsugi/Armor/KintsugiArmourUpgradeStarterGraceLegs",
+    "build_time_seconds": null,
+    "build_time_human": null
+  },
+  {
+    "name": "StarterGraceTorsoJoineryBlueprint",
+    "result_item": "/SF/StoreItems/Types/Items/Kintsugi/Armor/KintsugiArmourUpgradeStarterGraceTorso",
+    "build_time_seconds": null,
+    "build_time_human": null
+  },
+  {
+    "name": "StarterSpiritHelmJoineryBlueprint",
+    "result_item": "/SF/StoreItems/Types/Items/Kintsugi/Armor/KintsugiArmourUpgradeStarterSpiritHelm",
+    "build_time_seconds": null,
+    "build_time_human": null
+  },
+  {
+    "name": "StarterSpiritLegsJoineryBlueprint",
+    "result_item": "/SF/StoreItems/Types/Items/Kintsugi/Armor/KintsugiArmourUpgradeStarterSpiritLegs",
+    "build_time_seconds": null,
+    "build_time_human": null
+  },
+  {
+    "name": "StarterSpiritTorsoJoineryBlueprint",
+    "result_item": "/SF/StoreItems/Types/Items/Kintsugi/Armor/KintsugiArmourUpgradeStarterSpiritTorso",
+    "build_time_seconds": null,
+    "build_time_human": null
+  },
+  {
+    "name": "TuvalkaneHelmJoineryBlueprint",
+    "result_item": "/SF/StoreItems/Types/Items/Kintsugi/Armor/KintsugiArmourUpgradeTuvalkaneHelm",
+    "build_time_seconds": 36000,
+    "build_time_human": "10h 0m"
+  },
+  {
+    "name": "TuvalkaneLegsJoineryBlueprint",
+    "result_item": "/SF/StoreItems/Types/Items/Kintsugi/Armor/KintsugiArmourUpgradeTuvalkaneLegs",
+    "build_time_seconds": 36000,
+    "build_time_human": "10h 0m"
+  },
+  {
+    "name": "TuvalkaneTorsoJoineryBlueprint",
+    "result_item": "/SF/StoreItems/Types/Items/Kintsugi/Armor/KintsugiArmourUpgradeTuvalkaneTorso",
+    "build_time_seconds": 36000,
+    "build_time_human": "10h 0m"
+  },
+  {
+    "name": "BromiusPactBlueprint",
+    "result_item": "/SF/StoreItems/Souls/Bromius/BromiusSoul",
+    "build_time_seconds": 97200,
+    "build_time_human": "27h 0m"
+  },
+  {
+    "name": "ChampionPactBlueprint",
+    "result_item": "/SF/StoreItems/Souls/Default/ChampionSoul",
+    "build_time_seconds": 97200,
+    "build_time_human": "27h 0m"
+  },
+  {
+    "name": "FennJotarPactBlueprint",
+    "result_item": "/SF/StoreItems/Souls/Fenn/FennSoul",
+    "build_time_seconds": 97200,
+    "build_time_human": "27h 0m"
+  },
+  {
+    "name": "FeyPactBlueprint",
+    "result_item": "/SF/StoreItems/Souls/Default/BaseSoul",
+    "build_time_seconds": 97200,
+    "build_time_human": "27h 0m"
+  },
+  {
+    "name": "GarrenPactBlueprint",
+    "result_item": "/SF/StoreItems/Souls/Stag/StagSoul",
+    "build_time_seconds": 97200,
+    "build_time_human": "27h 0m"
+  },
+  {
+    "name": "OrengalPactBlueprint",
+    "result_item": "/SF/StoreItems/Souls/Wolf/WolfSoul",
+    "build_time_seconds": 97200,
+    "build_time_human": "27h 0m"
+  },
+  {
+    "name": "SaboteurPactBlueprint",
+    "result_item": "/SF/StoreItems/Souls/Default/SaboteurSoul",
+    "build_time_seconds": 97200,
+    "build_time_human": "27h 0m"
+  },
+  {
+    "name": "TempestPactBlueprint",
+    "result_item": "/SF/StoreItems/Souls/Ode/OdeSoul",
+    "build_time_seconds": 97200,
+    "build_time_human": "27h 0m"
+  },
+  {
+    "name": "WardPactBlueprint",
+    "result_item": "/SF/StoreItems/Souls/Default/WardSoul",
+    "build_time_seconds": 97200,
+    "build_time_human": "27h 0m"
+  },
+  {
+    "name": "AlcasChildrenTotemBlueprint",
+    "result_item": "/SF/StoreItems/Upgrades/Skins/Totem/FeyHubTotem",
+    "build_time_seconds": 86400,
+    "build_time_human": "24h 0m"
+  },
+  {
+    "name": "AlcasChildrenTotemUpgradedBlueprint",
+    "result_item": "/SF/StoreItems/Upgrades/Skins/Totem/FeyHubUpgradedTotem",
+    "build_time_seconds": 86400,
+    "build_time_human": "24h 0m"
+  },
+  {
+    "name": "CardinalTotemBlueprint",
+    "result_item": "/SF/StoreItems/Upgrades/Skins/Totem/CardinalTotem",
+    "build_time_seconds": 86400,
+    "build_time_human": "24h 0m"
+  },
+  {
+    "name": "CircadeTotemBlueprint",
+    "result_item": "/SF/StoreItems/Upgrades/Skins/Totem/CircadeCompleteTotem",
+    "build_time_seconds": 86400,
+    "build_time_human": "24h 0m"
+  },
+  {
+    "name": "CogahCorruptedTalismanBlueprint",
+    "result_item": "/SF/StoreItems/Upgrades/Skins/Totem/CogahCorruptedTotem",
+    "build_time_seconds": 86400,
+    "build_time_human": "24h 0m"
+  },
+  {
+    "name": "CogahCreatureTalismanBlueprint",
+    "result_item": "/SF/StoreItems/Upgrades/Skins/Totem/CogahCreatureTotem",
+    "build_time_seconds": 86400,
+    "build_time_human": "24h 0m"
+  },
+  {
+    "name": "CogahHumanTalismanBlueprint",
+    "result_item": "/SF/StoreItems/Upgrades/Skins/Totem/CogahHumanTotem",
+    "build_time_seconds": 86400,
+    "build_time_human": "24h 0m"
+  },
+  {
+    "name": "IchorousTotemBlueprint",
+    "result_item": "/SF/StoreItems/Upgrades/Skins/Totem/IchorousTotem",
+    "build_time_seconds": 86400,
+    "build_time_human": "24h 0m"
+  },
+  {
+    "name": "KithOfKingsTotemBlueprint",
+    "result_item": "/SF/StoreItems/Upgrades/Skins/Totem/ChampionHubTotem",
+    "build_time_seconds": 86400,
+    "build_time_human": "24h 0m"
+  },
+  {
+    "name": "KithOfKingsTotemUpgradedBlueprint",
+    "result_item": "/SF/StoreItems/Upgrades/Skins/Totem/ChampionHubUpgradedTotem",
+    "build_time_seconds": 86400,
+    "build_time_human": "24h 0m"
+  },
+  {
+    "name": "OdeSoulBoonTotemBlueprint",
+    "result_item": "/SF/StoreItems/Upgrades/Skins/Totem/OdeSoulBoonTotem",
+    "build_time_seconds": 86400,
+    "build_time_human": "24h 0m"
+  },
+  {
+    "name": "OrengalIdolTotemBlueprint",
+    "result_item": "/SF/StoreItems/Upgrades/Skins/Totem/OrengalIdolTotem",
+    "build_time_seconds": 86400,
+    "build_time_human": "24h 0m"
+  },
+  {
+    "name": "OrengalSoulBoonTotemBlueprint",
+    "result_item": "/SF/StoreItems/Upgrades/Skins/Totem/OrengalSoulBoonTotem",
+    "build_time_seconds": 86400,
+    "build_time_human": "24h 0m"
+  },
+  {
+    "name": "SilentRoseTotemBlueprint",
+    "result_item": "/SF/StoreItems/Upgrades/Skins/Totem/SilentRoseHubTotem",
+    "build_time_seconds": 86400,
+    "build_time_human": "24h 0m"
+  },
+  {
+    "name": "SilentRoseTotemUpgradedBlueprint",
+    "result_item": "/SF/StoreItems/Upgrades/Skins/Totem/SilentRoseHubUpgradedTotem",
+    "build_time_seconds": 86400,
+    "build_time_human": "24h 0m"
+  },
+  {
+    "name": "BromiusCleaverMeleeWeaponBlueprint",
+    "result_item": "/SF/StoreItems/Weapons/Melee/OneHand/BromiusCleaver/BromiusCleaverMeleeWeapon",
+    "build_time_seconds": 36000,
+    "build_time_human": "10h 0m"
+  },
+  {
+    "name": "BromiusCleaverMeleeWeaponReforgeBlueprint",
+    "result_item": "/SF/StoreItems/Weapons/Melee/OneHand/BromiusCleaver/BromiusCleaverMeleeWeapon",
+    "build_time_seconds": 0,
+    "build_time_human": null
+  },
+  {
+    "name": "CleansedSpearMeleeWeaponBlueprint",
+    "result_item": "/SF/StoreItems/Weapons/Melee/TwoHand/CleansedSpear/CleansedSpearMeleeWeapon",
+    "build_time_seconds": 36000,
+    "build_time_human": "10h 0m"
+  },
+  {
+    "name": "CleansedSpearMeleeWeaponReforgeBlueprint",
+    "result_item": "/SF/StoreItems/Weapons/Melee/TwoHand/CleansedSpear/CleansedSpearMeleeWeapon",
+    "build_time_seconds": 0,
+    "build_time_human": null
+  },
+  {
+    "name": "DendritAraGreatSwordMeleeWeaponBlueprint",
+    "result_item": "/SF/StoreItems/Weapons/Melee/TwoHand/DendritAraGreatSword/DendritAraGreatSwordMeleeWeapon",
+    "build_time_seconds": 36000,
+    "build_time_human": "10h 0m"
+  },
+  {
+    "name": "DendritAraGreatSwordMeleeWeaponReforgeBlueprint",
+    "result_item": "/SF/StoreItems/Weapons/Melee/TwoHand/DendritAraGreatSword/DendritAraGreatSwordMeleeWeapon",
+    "build_time_seconds": 0,
+    "build_time_human": null
+  },
+  {
+    "name": "DendritBowRangedMeleeWeaponBlueprint",
+    "result_item": "/SF/StoreItems/Weapons/Ranged/TwoHand/DendritBow/DendritBowRangedMeleeWeapon",
+    "build_time_seconds": 36000,
+    "build_time_human": "10h 0m"
+  },
+  {
+    "name": "DendritBowRangedMeleeWeaponReforgeBlueprint",
+    "result_item": "/SF/StoreItems/Weapons/Ranged/TwoHand/DendritBow/DendritBowRangedMeleeWeapon",
+    "build_time_seconds": 0,
+    "build_time_human": null
+  },
+  {
+    "name": "DendritStaffCasterRangedMeleeWeaponBlueprint",
+    "result_item": "/SF/StoreItems/Weapons/Ranged/OneHand/DendritStaffCaster/DendritStaffCasterRangedMeleeWeapon",
+    "build_time_seconds": 72000,
+    "build_time_human": "20h 0m"
+  },
+  {
+    "name": "DendritStaffCasterRangedMeleeWeaponReforgeBlueprint",
+    "result_item": "/SF/StoreItems/Weapons/Ranged/OneHand/DendritStaffCaster/DendritStaffCasterRangedMeleeWeapon",
+    "build_time_seconds": 0,
+    "build_time_human": null
+  },
+  {
+    "name": "DendritSwordAndBoardMeleeWeaponBlueprint",
+    "result_item": "/SF/StoreItems/Weapons/Melee/OneHand/DendritSwordAndBoard/DendritSwordAndBoardMeleeWeapon",
+    "build_time_seconds": 36000,
+    "build_time_human": "10h 0m"
+  },
+  {
+    "name": "DendritSwordAndBoardMeleeWeaponReforgeBlueprint",
+    "result_item": "/SF/StoreItems/Weapons/Melee/OneHand/DendritSwordAndBoard/DendritSwordAndBoardMeleeWeapon",
+    "build_time_seconds": 0,
+    "build_time_human": null
+  },
+  {
+    "name": "DendritSwordMeleeWeaponBlueprint",
+    "result_item": "/SF/StoreItems/Weapons/Melee/OneHand/DendritSword/DendritSwordMeleeWeapon",
+    "build_time_seconds": 36000,
+    "build_time_human": "10h 0m"
+  },
+  {
+    "name": "DendritSwordMeleeWeaponReforgeBlueprint",
+    "result_item": "/SF/StoreItems/Weapons/Melee/OneHand/DendritSword/DendritSwordMeleeWeapon",
+    "build_time_seconds": 0,
+    "build_time_human": null
+  },
+  {
+    "name": "DeoraSpearBlueprint",
+    "result_item": "/SF/StoreItems/Weapons/Melee/TwoHand/DeoraPolearm/DeoraPolearmMeleeWeapon",
+    "build_time_seconds": 36000,
+    "build_time_human": "10h 0m"
+  },
+  {
+    "name": "DeoraSpearReforgeBlueprint",
+    "result_item": "/SF/StoreItems/Weapons/Melee/TwoHand/DeoraPolearm/DeoraPolearmMeleeWeapon",
+    "build_time_seconds": 0,
+    "build_time_human": null
+  },
+  {
+    "name": "FennCastingDeviceRangedMeleeWeaponBlueprint",
+    "result_item": "/SF/StoreItems/Weapons/Ranged/OneHand/FennCastingDevice/FennCastingDeviceRangedMeleeWeapon",
+    "build_time_seconds": 36000,
+    "build_time_human": "10h 0m"
+  },
+  {
+    "name": "FennCastingDeviceRangedMeleeWeaponReforgeBlueprint",
+    "result_item": "/SF/StoreItems/Weapons/Ranged/OneHand/FennCastingDevice/FennCastingDeviceRangedMeleeWeapon",
+    "build_time_seconds": 0,
+    "build_time_human": null
+  },
+  {
+    "name": "FennJotarSwordBlueprint",
+    "result_item": "/SF/StoreItems/Weapons/Melee/OneHand/FennJotarSword/FennJotarSwordMeleeWeapon",
+    "build_time_seconds": 36000,
+    "build_time_human": "10h 0m"
+  },
+  {
+    "name": "FennJotarSwordReforgeBlueprint",
+    "result_item": "/SF/StoreItems/Weapons/Melee/OneHand/FennJotarSword/FennJotarSwordMeleeWeapon",
+    "build_time_seconds": 0,
+    "build_time_human": null
+  },
+  {
+    "name": "FeySwordMeleeWeaponBlueprint",
+    "result_item": "/SF/StoreItems/Weapons/Melee/OneHand/FeySword/FeySwordMeleeWeapon",
+    "build_time_seconds": 72000,
+    "build_time_human": "20h 0m"
+  },
+  {
+    "name": "FeySwordMeleeWeaponReforgeBlueprint",
+    "result_item": "/SF/StoreItems/Weapons/Melee/OneHand/FeySword/FeySwordMeleeWeapon",
+    "build_time_seconds": 0,
+    "build_time_human": null
+  },
+  {
+    "name": "GaleneCastingDeviceMeleeWeaponReforgeBlueprint",
+    "result_item": "/SF/StoreItems/Weapons/Ranged/OneHand/GaleneCastingDevice/GaleneCastingDeviceRangedMeleeWeapon",
+    "build_time_seconds": 0,
+    "build_time_human": null
+  },
+  {
+    "name": "GaleneStaffCasterRangedMeleeWeaponReforgeBlueprint",
+    "result_item": "/SF/StoreItems/Weapons/Ranged/OneHand/GaleneStaffCaster/GaleneStaffCasterRangedMeleeWeapon",
+    "build_time_seconds": 0,
+    "build_time_human": null
+  },
+  {
+    "name": "GarrenPolearmMeleeWeaponBlueprint",
+    "result_item": "/SF/StoreItems/Weapons/Melee/TwoHand/GarrenPolearm/GarrenPolearmMeleeWeapon",
+    "build_time_seconds": 36000,
+    "build_time_human": "10h 0m"
+  },
+  {
+    "name": "GarrenPolearmMeleeWeaponReforgeBlueprint",
+    "result_item": "/SF/StoreItems/Weapons/Melee/TwoHand/GarrenPolearm/GarrenPolearmMeleeWeapon",
+    "build_time_seconds": 0,
+    "build_time_human": null
+  },
+  {
+    "name": "GarrenSwordBlueprint",
+    "result_item": "/SF/StoreItems/Weapons/Melee/OneHand/GarrenSword/GarrenSwordMeleeWeapon",
+    "build_time_seconds": 36000,
+    "build_time_human": "10h 0m"
+  },
+  {
+    "name": "GarrenSwordReforgeBlueprint",
+    "result_item": "/SF/StoreItems/Weapons/Melee/OneHand/GarrenSword/GarrenSwordMeleeWeapon",
+    "build_time_seconds": 0,
+    "build_time_human": null
+  },
+  {
+    "name": "GrandFatherBowRangedMeleeWeaponBlueprint",
+    "result_item": "/SF/StoreItems/Weapons/Ranged/TwoHand/GrandFatherBow/GrandFatherBowRangedMeleeWeapon",
+    "build_time_seconds": 14400,
+    "build_time_human": "4h 0m"
+  },
+  {
+    "name": "GrandFatherBowRangedMeleeWeaponReforgeBlueprint",
+    "result_item": "/SF/StoreItems/Weapons/Ranged/TwoHand/GrandFatherBow/GrandFatherBowRangedMeleeWeapon",
+    "build_time_seconds": 0,
+    "build_time_human": null
+  },
+  {
+    "name": "JosalfarBowMeleeWeaponReforgeBlueprint",
+    "result_item": "/SF/StoreItems/Weapons/Ranged/TwoHand/JosalfarBow/JosalfarBowRangedMeleeWeapon",
+    "build_time_seconds": 0,
+    "build_time_human": null
+  },
+  {
+    "name": "MendicantGreatSwordMeleeWeaponBlueprint",
+    "result_item": "/SF/StoreItems/Weapons/Melee/TwoHand/MendicantGreatSword/MendicantGreatSwordMeleeWeapon",
+    "build_time_seconds": 36000,
+    "build_time_human": "10h 0m"
+  },
+  {
+    "name": "MendicantGreatSwordMeleeWeaponReforgeBlueprint",
+    "result_item": "/SF/StoreItems/Weapons/Melee/TwoHand/MendicantGreatSword/MendicantGreatSwordMeleeWeapon",
+    "build_time_seconds": 0,
+    "build_time_human": null
+  },
+  {
+    "name": "MockeryBrazardMeleeWeaponBlueprint",
+    "result_item": "/SF/StoreItems/Weapons/Melee/OneHand/MockeryBrazard/MockeryBrazardMeleeWeapon",
+    "build_time_seconds": 36000,
+    "build_time_human": "10h 0m"
+  },
+  {
+    "name": "MockeryBrazardMeleeWeaponReforgeBlueprint",
+    "result_item": "/SF/StoreItems/Weapons/Melee/OneHand/MockeryBrazard/MockeryBrazardMeleeWeapon",
+    "build_time_seconds": 0,
+    "build_time_human": null
+  },
+  {
+    "name": "MockeryStultionMeleeWeaponBlueprint",
+    "result_item": "/SF/StoreItems/Weapons/Melee/OneHand/MockeryStultion/MockeryStultionMeleeWeapon",
+    "build_time_seconds": 36000,
+    "build_time_human": "10h 0m"
+  },
+  {
+    "name": "MockeryStultionMeleeWeaponReforgeBlueprint",
+    "result_item": "/SF/StoreItems/Weapons/Melee/OneHand/MockeryStultion/MockeryStultionMeleeWeapon",
+    "build_time_seconds": 0,
+    "build_time_human": null
+  },
+  {
+    "name": "MockeryTurashMeleeWeaponBlueprint",
+    "result_item": "/SF/StoreItems/Weapons/Melee/OneHand/MockeryTurash/MockeryTurashMeleeWeapon",
+    "build_time_seconds": 36000,
+    "build_time_human": "10h 0m"
+  },
+  {
+    "name": "MockeryTurashMeleeWeaponReforgeBlueprint",
+    "result_item": "/SF/StoreItems/Weapons/Melee/OneHand/MockeryTurash/MockeryTurashMeleeWeapon",
+    "build_time_seconds": 0,
+    "build_time_human": null
+  },
+  {
+    "name": "OdeCastingDeviceRangedMeleeWeaponBlueprint",
+    "result_item": "/SF/StoreItems/Weapons/Ranged/OneHand/OdeCastingDevice/OdeCastingDeviceRangedMeleeWeapon",
+    "build_time_seconds": 14400,
+    "build_time_human": "4h 0m"
+  },
+  {
+    "name": "OdeCastingDeviceRangedMeleeWeaponReforgeBlueprint",
+    "result_item": "/SF/StoreItems/Weapons/Ranged/OneHand/OdeCastingDevice/OdeCastingDeviceRangedMeleeWeapon",
+    "build_time_seconds": 0,
+    "build_time_human": null
+  },
+  {
+    "name": "OdeHunterBowBlueprint",
+    "result_item": "/SF/StoreItems/Weapons/Ranged/TwoHand/OdeBow/OdeBowRangedMeleeWeapon",
+    "build_time_seconds": 36000,
+    "build_time_human": "10h 0m"
+  },
+  {
+    "name": "OdeHunterBowReforgeBlueprint",
+    "result_item": "/SF/StoreItems/Weapons/Ranged/TwoHand/OdeBow/OdeBowRangedMeleeWeapon",
+    "build_time_seconds": 0,
+    "build_time_human": null
+  },
+  {
+    "name": "ParagonGreatSwordMeleeWeaponReforgeBlueprint",
+    "result_item": "/SF/StoreItems/Weapons/Melee/TwoHand/FoundersGreatSword/FoundersGreatSwordMeleeWeapon",
+    "build_time_seconds": 0,
+    "build_time_human": null
+  },
+  {
+    "name": "PothiaSwordMeleeWeaponReforgeBlueprint",
+    "result_item": "/SF/StoreItems/Weapons/Melee/OneHand/PothiaLongSword/PothiaLongSwordMeleeWeapon",
+    "build_time_seconds": 0,
+    "build_time_human": null
+  },
+  {
+    "name": "PothiaThrowingKnivesRangedMeleeWeaponReforgeBlueprint",
+    "result_item": "/SF/StoreItems/Weapons/Ranged/Thrown/PothiaThrowingKnives/PothiaThrowingKnivesRangedMeleeWeapon",
+    "build_time_seconds": 0,
+    "build_time_human": null
+  },
+  {
+    "name": "SecondaryDaggerMeleeWeaponBlueprint",
+    "result_item": "/SF/StoreItems/Weapons/Melee/OneHand/SecondaryDagger/SecondaryDaggerMeleeWeapon",
+    "build_time_seconds": 14400,
+    "build_time_human": "4h 0m"
+  },
+  {
+    "name": "SecondaryDaggerMeleeWeaponReforgeBlueprint",
+    "result_item": "/SF/StoreItems/Weapons/Melee/OneHand/SecondaryDagger/SecondaryDaggerMeleeWeapon",
+    "build_time_seconds": 0,
+    "build_time_human": null
+  },
+  {
+    "name": "SecondaryDendritDaggerMeleeWeaponBlueprint",
+    "result_item": "/SF/StoreItems/Weapons/Melee/OneHand/SecondaryDendritDagger/SecondaryDendritDaggerMeleeWeapon",
+    "build_time_seconds": 36000,
+    "build_time_human": "10h 0m"
+  },
+  {
+    "name": "SecondaryDendritDaggerMeleeWeaponReforgeBlueprint",
+    "result_item": "/SF/StoreItems/Weapons/Melee/OneHand/SecondaryDendritDagger/SecondaryDendritDaggerMeleeWeapon",
+    "build_time_seconds": 0,
+    "build_time_human": null
+  },
+  {
+    "name": "SecondaryFeyDaggerMeleeWeaponBlueprint",
+    "result_item": "/SF/StoreItems/Weapons/Melee/OneHand/SecondaryFeyDagger/SecondaryFeyDaggerMeleeWeapon",
+    "build_time_seconds": 36000,
+    "build_time_human": "10h 0m"
+  },
+  {
+    "name": "SecondaryFeyDaggerMeleeWeaponReforgeBlueprint",
+    "result_item": "/SF/StoreItems/Weapons/Melee/OneHand/SecondaryFeyDagger/SecondaryFeyDaggerMeleeWeapon",
+    "build_time_seconds": 0,
+    "build_time_human": null
+  },
+  {
+    "name": "SecondaryJosalfarDaggerReforgeBlueprint",
+    "result_item": "/SF/StoreItems/Weapons/Melee/OneHand/SecondaryJosalfarDagger/SecondaryJosalfarDaggerMeleeWeapon",
+    "build_time_seconds": 0,
+    "build_time_human": null
+  },
+  {
+    "name": "SecondaryOdeSawDaggerMeleeWeaponBlueprint",
+    "result_item": "/SF/StoreItems/Weapons/Melee/OneHand/SecondaryOdeSawDagger/SecondaryOdeSawDaggerMeleeWeapon",
+    "build_time_seconds": 36000,
+    "build_time_human": "10h 0m"
+  },
+  {
+    "name": "SecondaryOdeSawDaggerMeleeWeaponReforgeBlueprint",
+    "result_item": "/SF/StoreItems/Weapons/Melee/OneHand/SecondaryOdeSawDagger/SecondaryOdeSawDaggerMeleeWeapon",
+    "build_time_seconds": 0,
+    "build_time_human": null
+  },
+  {
+    "name": "SecondaryStarterThrowingKnivesRangedMeleeWPNReforgeBlueprint",
+    "result_item": "/SF/StoreItems/Weapons/Ranged/Thrown/SecondaryStarterThrowingKnives/SecondaryStarterThrowingKnivesRangedMeleeWeapon",
+    "build_time_seconds": 0,
+    "build_time_human": null
+  },
+  {
+    "name": "SecondaryStarterThrowingKnivesRangedMeleeWeaponBlueprint",
+    "result_item": "/SF/StoreItems/Weapons/Ranged/Thrown/SecondaryStarterThrowingKnives/SecondaryStarterThrowingKnivesRangedMeleeWeapon",
+    "build_time_seconds": 14400,
+    "build_time_human": "4h 0m"
+  },
+  {
+    "name": "SecondaryThrowingKnivesRangedMeleeWeaponBlueprint",
+    "result_item": "/SF/StoreItems/Weapons/Ranged/Thrown/SecondaryThrowingKnives/SecondaryThrowingKnivesRangedMeleeWeapon",
+    "build_time_seconds": 36000,
+    "build_time_human": "10h 0m"
+  },
+  {
+    "name": "SecondaryThrowingKnivesRangedMeleeWeaponReforgeBlueprint",
+    "result_item": "/SF/StoreItems/Weapons/Ranged/Thrown/SecondaryThrowingKnives/SecondaryThrowingKnivesRangedMeleeWeapon",
+    "build_time_seconds": 0,
+    "build_time_human": null
+  },
+  {
+    "name": "SecondaryVineDaggerMeleeWeaponBlueprint",
+    "result_item": "/SF/StoreItems/Weapons/Melee/OneHand/SecondaryVineDagger/SecondaryVineDaggerMeleeWeapon",
+    "build_time_seconds": 36000,
+    "build_time_human": "10h 0m"
+  },
+  {
+    "name": "SecondaryVineDaggerMeleeWeaponReforgeBlueprint",
+    "result_item": "/SF/StoreItems/Weapons/Melee/OneHand/SecondaryVineDagger/SecondaryVineDaggerMeleeWeapon",
+    "build_time_seconds": 0,
+    "build_time_human": null
+  },
+  {
+    "name": "SinecureDualDaggersMeleeWeaponBlueprint",
+    "result_item": "/SF/StoreItems/Weapons/Melee/OneHand/SinecureDagger/SinecureDualDaggersMeleeWeapon",
+    "build_time_seconds": 36000,
+    "build_time_human": "10h 0m"
+  },
+  {
+    "name": "SinecureDualDaggersMeleeWeaponReforgeBlueprint",
+    "result_item": "/SF/StoreItems/Weapons/Melee/OneHand/SinecureDagger/SinecureDualDaggersMeleeWeapon",
+    "build_time_seconds": 0,
+    "build_time_human": null
+  },
+  {
+    "name": "SphereDualSwordBlueprint",
+    "result_item": "/SF/StoreItems/Weapons/Melee/OneHand/SphereDualSwords/SphereDualSwordsMeleeWeapon",
+    "build_time_seconds": 14400,
+    "build_time_human": "4h 0m"
+  },
+  {
+    "name": "SphereDualSwordReforgeBlueprint",
+    "result_item": "/SF/StoreItems/Weapons/Melee/OneHand/SphereDualSwords/SphereDualSwordsMeleeWeapon",
+    "build_time_seconds": 0,
+    "build_time_human": null
+  },
+  {
+    "name": "SpherePolearmBlueprint",
+    "result_item": "/SF/StoreItems/Weapons/Melee/TwoHand/SpherePolearm/SpherePolearmMeleeWeapon",
+    "build_time_seconds": 14400,
+    "build_time_human": "4h 0m"
+  },
+  {
+    "name": "SpherePolearmReforgeBlueprint",
+    "result_item": "/SF/StoreItems/Weapons/Melee/TwoHand/SpherePolearm/SpherePolearmMeleeWeapon",
+    "build_time_seconds": 0,
+    "build_time_human": null
+  },
+  {
+    "name": "SphereSwordAndBoardBlueprint",
+    "result_item": "/SF/StoreItems/Weapons/Melee/OneHand/SwordandBoard/SphereSwordAndBoardMeleeWeapon",
+    "build_time_seconds": 36000,
+    "build_time_human": "10h 0m"
+  },
+  {
+    "name": "SphereSwordAndBoardReforgeBlueprint",
+    "result_item": "/SF/StoreItems/Weapons/Melee/OneHand/SwordandBoard/SphereSwordAndBoardMeleeWeapon",
+    "build_time_seconds": 0,
+    "build_time_human": null
+  },
+  {
+    "name": "SphereSwordBlueprint",
+    "result_item": "/SF/StoreItems/Weapons/Melee/OneHand/SphereSword/SphereSwordMeleeWeapon",
+    "build_time_seconds": 14400,
+    "build_time_human": "4h 0m"
+  },
+  {
+    "name": "SphereSwordReforgeBlueprint",
+    "result_item": "/SF/StoreItems/Weapons/Melee/OneHand/SphereSword/SphereSwordMeleeWeapon",
+    "build_time_seconds": 0,
+    "build_time_human": null
+  },
+  {
+    "name": "StarterBowRangedMeleeWeaponBlueprint",
+    "result_item": "/SF/StoreItems/Weapons/Ranged/TwoHand/StarterBow/StarterBowRangedMeleeWeapon",
+    "build_time_seconds": 14400,
+    "build_time_human": "4h 0m"
+  },
+  {
+    "name": "StarterBowRangedMeleeWeaponReforgeBlueprint",
+    "result_item": "/SF/StoreItems/Weapons/Ranged/TwoHand/StarterBow/StarterBowRangedMeleeWeapon",
+    "build_time_seconds": 0,
+    "build_time_human": null
+  },
+  {
+    "name": "StarterSplitSwordsMeleeWeaponBlueprint",
+    "result_item": "/SF/StoreItems/Weapons/Melee/OneHand/StarterSplitSwords/StarterSplitSwordsMeleeWeapon",
+    "build_time_seconds": 36000,
+    "build_time_human": "10h 0m"
+  },
+  {
+    "name": "StarterSplitSwordsMeleeWeaponReforgeBlueprint",
+    "result_item": "/SF/StoreItems/Weapons/Melee/OneHand/StarterSplitSwords/StarterSplitSwordsMeleeWeapon",
+    "build_time_seconds": 0,
+    "build_time_human": null
+  },
+  {
+    "name": "StarterStaffCasterRangedMeleeWeaponBlueprint",
+    "result_item": "/SF/StoreItems/Weapons/Ranged/OneHand/StarterStaffCaster/StarterStaffCasterRangedMeleeWeapon",
+    "build_time_seconds": 14400,
+    "build_time_human": "4h 0m"
+  },
+  {
+    "name": "StarterStaffCasterRangedMeleeWeaponReforgeBlueprint",
+    "result_item": "/SF/StoreItems/Weapons/Ranged/OneHand/StarterStaffCaster/StarterStaffCasterRangedMeleeWeapon",
+    "build_time_seconds": 0,
+    "build_time_human": null
+  },
+  {
+    "name": "StarterSwordMeleeWeaponBlueprint",
+    "result_item": "/SF/StoreItems/Weapons/Melee/OneHand/StarterSword/StarterSwordMeleeWeapon",
+    "build_time_seconds": 14400,
+    "build_time_human": "4h 0m"
+  },
+  {
+    "name": "StarterSwordMeleeWeaponReforgeBlueprint",
+    "result_item": "/SF/StoreItems/Weapons/Melee/OneHand/StarterSword/StarterSwordMeleeWeapon",
+    "build_time_seconds": 0,
+    "build_time_human": null
+  },
+  {
+    "name": "WazzardStaffCasterRangedMeleeWeaponBlueprint",
+    "result_item": "/SF/StoreItems/Weapons/Ranged/OneHand/WazzardStaff/WazzardStaffCasterRangedMeleeWeapon",
+    "build_time_seconds": 36000,
+    "build_time_human": "10h 0m"
+  },
+  {
+    "name": "WazzardStaffCasterRangedMeleeWeaponReforgeBlueprint",
+    "result_item": "/SF/StoreItems/Weapons/Ranged/OneHand/WazzardStaff/WazzardStaffCasterRangedMeleeWeapon",
+    "build_time_seconds": 0,
+    "build_time_human": null
+  },
+  {
+    "name": "AvarotMaskHelmBlueprint",
+    "result_item": "/SF/StoreItems/Upgrades/Skins/Helmets/AvarotMaskHelmet",
+    "build_time_seconds": 36000,
+    "build_time_human": "10h 0m"
+  },
+  {
+    "name": "CircadeHelmBlueprint",
+    "result_item": "/SF/StoreItems/Upgrades/Skins/Helmets/CircadeHelmet",
+    "build_time_seconds": 36000,
+    "build_time_human": "10h 0m"
+  },
+  {
+    "name": "CircadeLegsBlueprint",
+    "result_item": "/SF/StoreItems/Upgrades/Skins/Legs/CircadeLegs",
+    "build_time_seconds": 36000,
+    "build_time_human": "10h 0m"
+  },
+  {
+    "name": "CircadeTorsoBlueprint",
+    "result_item": "/SF/StoreItems/Upgrades/Skins/Body/CircadeBody",
+    "build_time_seconds": 36000,
+    "build_time_human": "10h 0m"
+  },
+  {
+    "name": "DeoraHelmBlueprint",
+    "result_item": "/SF/StoreItems/Upgrades/Skins/Helmets/DeoraHelmet",
+    "build_time_seconds": 36000,
+    "build_time_human": "10h 0m"
+  },
+  {
+    "name": "DeoraLegsBlueprint",
+    "result_item": "/SF/StoreItems/Upgrades/Skins/Legs/DeoraLegs",
+    "build_time_seconds": 36000,
+    "build_time_human": "10h 0m"
+  },
+  {
+    "name": "DeoraTorsoBlueprint",
+    "result_item": "/SF/StoreItems/Upgrades/Skins/Body/DeoraBody",
+    "build_time_seconds": 36000,
+    "build_time_human": "10h 0m"
+  },
+  {
+    "name": "EnvoyArmorTypeAHelmBlueprint",
+    "result_item": "/SF/StoreItems/Upgrades/Skins/Helmets/ForgetFireHelmet",
+    "build_time_seconds": 36000,
+    "build_time_human": "10h 0m"
+  },
+  {
+    "name": "EnvoyArmorTypeALegsBlueprint",
+    "result_item": "/SF/StoreItems/Upgrades/Skins/Legs/ForgetFireLegs",
+    "build_time_seconds": 36000,
+    "build_time_human": "10h 0m"
+  },
+  {
+    "name": "EnvoyArmorTypeATorsoBlueprint",
+    "result_item": "/SF/StoreItems/Upgrades/Skins/Body/ForgetFireBody",
+    "build_time_seconds": 36000,
+    "build_time_human": "10h 0m"
+  },
+  {
+    "name": "EnvoyArmorTypeBHelmBlueprint",
+    "result_item": "/SF/StoreItems/Upgrades/Skins/Helmets/ForgetFireAltHelmet",
+    "build_time_seconds": 36000,
+    "build_time_human": "10h 0m"
+  },
+  {
+    "name": "EnvoyArmorTypeBLegsBlueprint",
+    "result_item": "/SF/StoreItems/Upgrades/Skins/Legs/ForgetFireAltLegs",
+    "build_time_seconds": 36000,
+    "build_time_human": "10h 0m"
+  },
+  {
+    "name": "EnvoyArmorTypeBTorsoBlueprint",
+    "result_item": "/SF/StoreItems/Upgrades/Skins/Body/ForgetFireAltBody",
+    "build_time_seconds": 36000,
+    "build_time_human": "10h 0m"
+  },
+  {
+    "name": "FarmerHelmBlueprint",
+    "result_item": "/SF/StoreItems/Upgrades/Skins/Helmets/FarmerHelmet",
+    "build_time_seconds": 36000,
+    "build_time_human": "10h 0m"
+  },
+  {
+    "name": "FarmerLegsBlueprint",
+    "result_item": "/SF/StoreItems/Upgrades/Skins/Legs/FarmerLegs",
+    "build_time_seconds": 36000,
+    "build_time_human": "10h 0m"
+  },
+  {
+    "name": "FarmerTorsoBlueprint",
+    "result_item": "/SF/StoreItems/Upgrades/Skins/Body/FarmerBody",
+    "build_time_seconds": 36000,
+    "build_time_human": "10h 0m"
+  },
+  {
+    "name": "FennJotarHelmBlueprint",
+    "result_item": "/SF/StoreItems/Upgrades/Skins/Helmets/FennJotarHelmet",
+    "build_time_seconds": 36000,
+    "build_time_human": "10h 0m"
+  },
+  {
+    "name": "FennJotarLegsBlueprint",
+    "result_item": "/SF/StoreItems/Upgrades/Skins/Legs/FennJotarLegs",
+    "build_time_seconds": 36000,
+    "build_time_human": "10h 0m"
+  },
+  {
+    "name": "FennJotarTorsoBlueprint",
+    "result_item": "/SF/StoreItems/Upgrades/Skins/Body/FennJotarBody",
+    "build_time_seconds": 36000,
+    "build_time_human": "10h 0m"
+  },
+  {
+    "name": "GarrenHelmBlueprint",
+    "result_item": "/SF/StoreItems/Upgrades/Skins/Helmets/GarrenHelmet",
+    "build_time_seconds": 26000,
+    "build_time_human": "7h 13m"
+  },
+  {
+    "name": "GarrenLegsBlueprint",
+    "result_item": "/SF/StoreItems/Upgrades/Skins/Legs/GarrenLegs",
+    "build_time_seconds": 36000,
+    "build_time_human": "10h 0m"
+  },
+  {
+    "name": "GarrenTorsoBlueprint",
+    "result_item": "/SF/StoreItems/Upgrades/Skins/Body/GarrenBody",
+    "build_time_seconds": 36000,
+    "build_time_human": "10h 0m"
+  },
+  {
+    "name": "MendicantDrudgeChestBlueprint",
+    "result_item": "/SF/StoreItems/Upgrades/Skins/Body/MendicantDrudgeBody",
+    "build_time_seconds": 72000,
+    "build_time_human": "20h 0m"
+  },
+  {
+    "name": "MendicantDrudgeHelmBlueprint",
+    "result_item": "/SF/StoreItems/Upgrades/Skins/Helmets/MendicantDrudgeHelmet",
+    "build_time_seconds": 72000,
+    "build_time_human": "20h 0m"
+  },
+  {
+    "name": "MendicantDrudgeLegsBlueprint",
+    "result_item": "/SF/StoreItems/Upgrades/Skins/Legs/MendicantDrudgeLegs",
+    "build_time_seconds": 72000,
+    "build_time_human": "20h 0m"
+  },
+  {
+    "name": "SproutMaskHelmBlueprint",
+    "result_item": "/SF/StoreItems/Upgrades/Skins/Helmets/SproutMaskHelmet",
+    "build_time_seconds": 14400,
+    "build_time_human": "4h 0m"
+  },
+  {
+    "name": "StarterCourageHelmBlueprint",
+    "result_item": "/SF/StoreItems/Upgrades/Skins/Helmets/StarterCourageHelmet",
+    "build_time_seconds": 1800,
+    "build_time_human": "0h 30m"
+  },
+  {
+    "name": "StarterCourageLegsBlueprint",
+    "result_item": "/SF/StoreItems/Upgrades/Skins/Legs/StarterCourageLegs",
+    "build_time_seconds": 1800,
+    "build_time_human": "0h 30m"
+  },
+  {
+    "name": "StarterCourageTorsoBlueprint",
+    "result_item": "/SF/StoreItems/Upgrades/Skins/Body/StarterCourageBody",
+    "build_time_seconds": 1800,
+    "build_time_human": "0h 30m"
+  },
+  {
+    "name": "StarterGraceHelmBlueprint",
+    "result_item": "/SF/StoreItems/Upgrades/Skins/Helmets/StarterGraceHelmet",
+    "build_time_seconds": 1800,
+    "build_time_human": "0h 30m"
+  },
+  {
+    "name": "StarterGraceLegsBlueprint",
+    "result_item": "/SF/StoreItems/Upgrades/Skins/Legs/StarterGraceLegs",
+    "build_time_seconds": 1800,
+    "build_time_human": "0h 30m"
+  },
+  {
+    "name": "StarterGraceTorsoBlueprint",
+    "result_item": "/SF/StoreItems/Upgrades/Skins/Body/StarterGraceBody",
+    "build_time_seconds": 1800,
+    "build_time_human": "0h 30m"
+  },
+  {
+    "name": "StarterSpiritHelmBlueprint",
+    "result_item": "/SF/StoreItems/Upgrades/Skins/Helmets/StarterSpiritHelmet",
+    "build_time_seconds": 1800,
+    "build_time_human": "0h 30m"
+  },
+  {
+    "name": "StarterSpiritLegsBlueprint",
+    "result_item": "/SF/StoreItems/Upgrades/Skins/Legs/StarterSpiritLegs",
+    "build_time_seconds": 1800,
+    "build_time_human": "0h 30m"
+  },
+  {
+    "name": "StarterSpiritTorsoBlueprint",
+    "result_item": "/SF/StoreItems/Upgrades/Skins/Body/StarterSpiritBody",
+    "build_time_seconds": 1800,
+    "build_time_human": "0h 30m"
+  },
+  {
+    "name": "TalMaskHelmBlueprint",
+    "result_item": "/SF/StoreItems/Upgrades/Skins/Helmets/TalMaskHelmet",
+    "build_time_seconds": 36000,
+    "build_time_human": "10h 0m"
+  },
+  {
+    "name": "ThawtideHelmBlueprint",
+    "result_item": "/SF/StoreItems/Upgrades/Skins/Helmets/ThawtideHelmet",
+    "build_time_seconds": 36000,
+    "build_time_human": "10h 0m"
+  },
+  {
+    "name": "TuvalkaneHelmBlueprint",
+    "result_item": "/SF/StoreItems/Upgrades/Skins/Helmets/TuvalkaneHelmet",
+    "build_time_seconds": 36000,
+    "build_time_human": "10h 0m"
+  },
+  {
+    "name": "TuvalkaneLegsBlueprint",
+    "result_item": "/SF/StoreItems/Upgrades/Skins/Legs/TuvalkanelLegs",
+    "build_time_seconds": 36000,
+    "build_time_human": "10h 0m"
+  },
+  {
+    "name": "TuvalkaneTorsoBlueprint",
+    "result_item": "/SF/StoreItems/Upgrades/Skins/Body/TuvalkaneBody",
+    "build_time_seconds": 36000,
+    "build_time_human": "10h 0m"
+  },
+  {
+    "name": "AlcasChildrenPalletteBlueprint",
+    "result_item": "/SF/StoreItems/Types/Items/ColorPalettes/AlcasChildrenFactionPalette",
+    "build_time_seconds": 10,
+    "build_time_human": "0h 0m"
+  },
+  {
+    "name": "KithofKingsPalletteBlueprint",
+    "result_item": "/SF/StoreItems/Types/Items/ColorPalettes/KithOfKingsFactionPalette",
+    "build_time_seconds": 10,
+    "build_time_human": "0h 0m"
+  },
+  {
+    "name": "SilentRosePalletteBlueprint",
+    "result_item": "/SF/StoreItems/Types/Items/ColorPalettes/SilentRoseFactionPalette",
+    "build_time_seconds": 10,
+    "build_time_human": "0h 0m"
+  },
+  {
+    "name": "ReviveTotemRecipe",
+    "result_item": "/SF/StoreItems/Types/Items/Consumables/ReviveTotem",
+    "build_time_seconds": 1200,
+    "build_time_human": "0h 20m"
+  },
+  {
+    "name": "ArmorTokenTierABlueprint",
+    "result_item": "/SF/StoreItems/Types/Items/TransmogTokens/TransmogTokenTierA",
+    "build_time_seconds": 21600,
+    "build_time_human": "6h 0m"
+  },
+  {
+    "name": "ChampionElixirRecipe",
+    "result_item": "/SF/StoreItems/Types/Items/Consumables/Syndicates/ChampionVirtueElixir",
+    "build_time_seconds": 0,
+    "build_time_human": null
+  },
+  {
+    "name": "CloudquellElixerRecipe",
+    "result_item": "/SF/StoreItems/Types/Items/Consumables/VerminiaPotion",
+    "build_time_seconds": 0,
+    "build_time_human": null
+  },
+  {
+    "name": "FeyElixirRecipe",
+    "result_item": "/SF/StoreItems/Types/Items/Consumables/Syndicates/FeyVirtueElixir",
+    "build_time_seconds": 0,
+    "build_time_human": null
+  },
+  {
+    "name": "HolidayBirdSeedRecipeItem",
+    "result_item": "/SF/StoreItems/Types/PickUps/Resources/Holiday/VerminiaWinterBirdSeed",
+    "build_time_seconds": 0,
+    "build_time_human": null
+  },
+  {
+    "name": "LesserChampionElixirRecipe",
+    "result_item": "/SF/StoreItems/Types/Items/Consumables/Syndicates/LesserChampionVirtueElixir",
+    "build_time_seconds": 0,
+    "build_time_human": null
+  },
+  {
+    "name": "LesserFeyElixirRecipe",
+    "result_item": "/SF/StoreItems/Types/Items/Consumables/Syndicates/LesserFeyVirtueElixir",
+    "build_time_seconds": 0,
+    "build_time_human": null
+  },
+  {
+    "name": "LesserSilentRoseElixirRecipe",
+    "result_item": "/SF/StoreItems/Types/Items/Consumables/Syndicates/LesserSilentRoseVirtueElixir",
+    "build_time_seconds": 0,
+    "build_time_human": null
+  },
+  {
+    "name": "RednightElixerRecipeItem",
+    "result_item": "/SF/StoreItems/Types/Items/Consumables/RedNightElixir",
+    "build_time_seconds": 7200,
+    "build_time_human": "2h 0m"
+  },
+  {
+    "name": "SilentRoseElixirRecipe",
+    "result_item": "/SF/StoreItems/Types/Items/Consumables/Syndicates/SilentRoseVirtueElixir",
+    "build_time_seconds": 0,
+    "build_time_human": null
+  },
+  {
+    "name": "BirdFeederBlueprint",
+    "result_item": "/SF/StoreItems/Types/PickUps/Resources/Holiday/VerminiaWinterBirdSeed",
+    "build_time_seconds": 0,
+    "build_time_human": null
+  },
+  {
+    "name": "FemaleCardinalBlueprint",
+    "result_item": "/SF/StoreItems/Upgrades/Skins/Sparrow/FemaleCardinalSparrowBody",
+    "build_time_seconds": 36000,
+    "build_time_human": "10h 0m"
+  },
+  {
+    "name": "MaleCardinalBlueprint",
+    "result_item": "/SF/StoreItems/Upgrades/Skins/Sparrow/MaleCardinalSparrowBody",
+    "build_time_seconds": 36000,
+    "build_time_human": "10h 0m"
+  },
+  {
+    "name": "FennJotarIdolBlueprint",
+    "result_item": "/SF/StoreItems/Souls/Common/AbilityCards/FennJotarAbilityMod",
+    "build_time_seconds": 86400,
+    "build_time_human": "24h 0m"
+  },
+  {
+    "name": "BromiusHelmJoineryBlueprint",
+    "result_item": "/SF/StoreItems/Types/Items/Kintsugi/Armor/KintsugiArmourUpgradeBromiusHelm",
+    "build_time_seconds": 72000,
+    "build_time_human": "20h 0m"
+  },
+  {
+    "name": "BromiusLegsJoineryBlueprint",
+    "result_item": "/SF/StoreItems/Types/Items/Kintsugi/Armor/KintsugiArmourUpgradeBromiusLegs",
+    "build_time_seconds": 72000,
+    "build_time_human": "20h 0m"
+  },
+  {
+    "name": "BromiusTorsoJoineryBlueprint",
+    "result_item": "/SF/StoreItems/Types/Items/Kintsugi/Armor/KintsugiArmourUpgradeBromiusTorso",
+    "build_time_seconds": 72000,
+    "build_time_human": "20h 0m"
+  },
+  {
+    "name": "CircadeHelmJoineryBlueprint",
+    "result_item": "/SF/StoreItems/Types/Items/Kintsugi/Armor/KintsugiArmourUpgradeCircadeHelm",
+    "build_time_seconds": 36000,
+    "build_time_human": "10h 0m"
+  },
+  {
+    "name": "CircadeLegsJoineryBlueprint",
+    "result_item": "/SF/StoreItems/Types/Items/Kintsugi/Armor/KintsugiArmourUpgradeCircadeLegs",
+    "build_time_seconds": 36000,
+    "build_time_human": "10h 0m"
+  },
+  {
+    "name": "CircadeTorsoJoineryBlueprint",
+    "result_item": "/SF/StoreItems/Types/Items/Kintsugi/Armor/KintsugiArmourUpgradeCircadeTorso",
+    "build_time_seconds": 36000,
+    "build_time_human": "10h 0m"
+  },
+  {
+    "name": "DeoraHelmJoineryBlueprint",
+    "result_item": "/SF/StoreItems/Types/Items/Kintsugi/Armor/KintsugiArmourUpgradeDeoraHelm",
+    "build_time_seconds": 36000,
+    "build_time_human": "10h 0m"
+  },
+  {
+    "name": "DeoraLegsJoineryBlueprint",
+    "result_item": "/SF/StoreItems/Types/Items/Kintsugi/Armor/KintsugiArmourUpgradeDeoraLegs",
+    "build_time_seconds": 36000,
+    "build_time_human": "10h 0m"
+  },
+  {
+    "name": "DeoraTorsoJoineryBlueprint",
+    "result_item": "/SF/StoreItems/Types/Items/Kintsugi/Armor/KintsugiArmourUpgradeDeoraTorso",
+    "build_time_seconds": 36000,
+    "build_time_human": "10h 0m"
+  },
+  {
+    "name": "EnvoyArmorTypeAHelmJoineryBlueprint",
+    "result_item": "/SF/StoreItems/Types/Items/Kintsugi/Armor/KintsugiUpgradeArmourEnvoyArmorTypeAHelm",
+    "build_time_seconds": 36000,
+    "build_time_human": "10h 0m"
+  },
+  {
+    "name": "EnvoyArmorTypeALegsJoineryBlueprint",
+    "result_item": "/SF/StoreItems/Types/Items/Kintsugi/Armor/KintsugiUpgradeArmourEnvoyArmorTypeALegs",
+    "build_time_seconds": 36000,
+    "build_time_human": "10h 0m"
+  },
+  {
+    "name": "EnvoyArmorTypeATorsoJoineryBlueprint",
+    "result_item": "/SF/StoreItems/Types/Items/Kintsugi/Armor/KintsugiUpgradeArmourEnvoyArmorTypeATorso",
+    "build_time_seconds": 36000,
+    "build_time_human": "10h 0m"
+  },
+  {
+    "name": "EnvoyArmorTypeBHelmJoineryBlueprint",
+    "result_item": "/SF/StoreItems/Types/Items/Kintsugi/Armor/KintsugiUpgradeArmourEnvoyArmorTypeBHelm",
+    "build_time_seconds": 36000,
+    "build_time_human": "10h 0m"
+  },
+  {
+    "name": "EnvoyArmorTypeBLegsJoineryBlueprint",
+    "result_item": "/SF/StoreItems/Types/Items/Kintsugi/Armor/KintsugiUpgradeArmourEnvoyArmorTypeBLegs",
+    "build_time_seconds": 36000,
+    "build_time_human": "10h 0m"
+  },
+  {
+    "name": "EnvoyArmorTypeBTorsoJoineryBlueprint",
+    "result_item": "/SF/StoreItems/Types/Items/Kintsugi/Armor/KintsugiUpgradeArmourEnvoyArmorTypeBTorso",
+    "build_time_seconds": 36000,
+    "build_time_human": "10h 0m"
+  },
+  {
+    "name": "GarrenHelmetJoineryBlueprint",
+    "result_item": "/SF/StoreItems/Types/Items/Kintsugi/Armor/KintsugiArmourUpgradeGarrenHelm",
+    "build_time_seconds": 72000,
+    "build_time_human": "20h 0m"
+  },
+  {
+    "name": "GarrenLegsJoineryBlueprint",
+    "result_item": "/SF/StoreItems/Types/Items/Kintsugi/Armor/KintsugiArmourUpgradeGarrenLegs",
+    "build_time_seconds": 72000,
+    "build_time_human": "20h 0m"
+  },
+  {
+    "name": "GarrenTorsoJoineryBlueprint",
+    "result_item": "/SF/StoreItems/Types/Items/Kintsugi/Armor/KintsugiArmourUpgradeGarrenTorso",
+    "build_time_seconds": 72000,
+    "build_time_human": "20h 0m"
+  },
+  {
+    "name": "MendicantKingHelmJoineryBlueprint",
+    "result_item": "/SF/StoreItems/Types/Items/Kintsugi/Armor/KintsugiArmourUpgradeMendicantKingHelm",
+    "build_time_seconds": 72000,
+    "build_time_human": "20h 0m"
+  },
+  {
+    "name": "MendicantKingLegsJoineryBlueprint",
+    "result_item": "/SF/StoreItems/Types/Items/Kintsugi/Armor/KintsugiArmourUpgradeMendicantKingLegs",
+    "build_time_seconds": 72000,
+    "build_time_human": "20h 0m"
+  },
+  {
+    "name": "MendicantKingTorsoJoineryBlueprint",
+    "result_item": "/SF/StoreItems/Types/Items/Kintsugi/Armor/KintsugiArmourUpgradeMendicantKingTorso",
+    "build_time_seconds": 72000,
+    "build_time_human": "20h 0m"
+  },
+  {
+    "name": "MockeryHelmJoineryBlueprint",
+    "result_item": "/SF/StoreItems/Types/Items/Kintsugi/Armor/KintsugiArmourUpgradeMockeryHelm",
+    "build_time_seconds": 72000,
+    "build_time_human": "20h 0m"
+  },
+  {
+    "name": "MockeryLegsJoineryBlueprint",
+    "result_item": "/SF/StoreItems/Types/Items/Kintsugi/Armor/KintsugiArmourUpgradeMockeryLegs",
+    "build_time_seconds": 72000,
+    "build_time_human": "20h 0m"
+  },
+  {
+    "name": "MockeryTorsoJoineryBlueprint",
+    "result_item": "/SF/StoreItems/Types/Items/Kintsugi/Armor/KintsugiArmourUpgradeMockeryTorso",
+    "build_time_seconds": 72000,
+    "build_time_human": "20h 0m"
+  },
+  {
+    "name": "OrengalHelmJoineryBlueprint",
+    "result_item": "/SF/StoreItems/Types/Items/Kintsugi/Armor/KintsugiArmourUpgradeOrengalHelm",
+    "build_time_seconds": 72000,
+    "build_time_human": "20h 0m"
+  },
+  {
+    "name": "OrengalLegsJoineryBlueprint",
+    "result_item": "/SF/StoreItems/Types/Items/Kintsugi/Armor/KintsugiArmourUpgradeOrengalLegs",
+    "build_time_seconds": 72000,
+    "build_time_human": "20h 0m"
+  },
+  {
+    "name": "OrengalTorsoJoineryBlueprint",
+    "result_item": "/SF/StoreItems/Types/Items/Kintsugi/Armor/KintsugiArmourUpgradeOrengalTorso",
+    "build_time_seconds": 72000,
+    "build_time_human": "20h 0m"
+  },
+  {
+    "name": "StarterCourageHelmJoineryBlueprint",
+    "result_item": "/SF/StoreItems/Types/Items/Kintsugi/Armor/KintsugiArmourUpgradeStarterCourageHelm",
+    "build_time_seconds": 3600,
+    "build_time_human": "1h 0m"
+  },
+  {
+    "name": "StarterCourageLegsJoineryBlueprint",
+    "result_item": "/SF/StoreItems/Types/Items/Kintsugi/Armor/KintsugiArmourUpgradeStarterCourageLegs",
+    "build_time_seconds": 3600,
+    "build_time_human": "1h 0m"
+  },
+  {
+    "name": "StarterCourageTorsoJoineryBlueprint",
+    "result_item": "/SF/StoreItems/Types/Items/Kintsugi/Armor/KintsugiArmourUpgradeStarterCourageTorso",
+    "build_time_seconds": 3600,
+    "build_time_human": "1h 0m"
+  },
+  {
+    "name": "StarterGraceHelmJoineryBlueprint",
+    "result_item": "/SF/StoreItems/Types/Items/Kintsugi/Armor/KintsugiArmourUpgradeStarterGraceHelm",
+    "build_time_seconds": 3600,
+    "build_time_human": "1h 0m"
+  },
+  {
+    "name": "StarterGraceLegsJoineryBlueprint",
+    "result_item": "/SF/StoreItems/Types/Items/Kintsugi/Armor/KintsugiArmourUpgradeStarterGraceLegs",
+    "build_time_seconds": 3600,
+    "build_time_human": "1h 0m"
+  },
+  {
+    "name": "StarterGraceTorsoJoineryBlueprint",
+    "result_item": "/SF/StoreItems/Types/Items/Kintsugi/Armor/KintsugiArmourUpgradeStarterGraceTorso",
+    "build_time_seconds": 3600,
+    "build_time_human": "1h 0m"
+  },
+  {
+    "name": "StarterSpiritHelmJoineryBlueprint",
+    "result_item": "/SF/StoreItems/Types/Items/Kintsugi/Armor/KintsugiArmourUpgradeStarterSpiritHelm",
+    "build_time_seconds": 3600,
+    "build_time_human": "1h 0m"
+  },
+  {
+    "name": "StarterSpiritLegsJoineryBlueprint",
+    "result_item": "/SF/StoreItems/Types/Items/Kintsugi/Armor/KintsugiArmourUpgradeStarterSpiritLegs",
+    "build_time_seconds": 3600,
+    "build_time_human": "1h 0m"
+  },
+  {
+    "name": "StarterSpiritTorsoJoineryBlueprint",
+    "result_item": "/SF/StoreItems/Types/Items/Kintsugi/Armor/KintsugiArmourUpgradeStarterSpiritTorso",
+    "build_time_seconds": 3600,
+    "build_time_human": "1h 0m"
+  },
+  {
+    "name": "TuvalkaneHelmJoineryBlueprint",
+    "result_item": "/SF/StoreItems/Types/Items/Kintsugi/Armor/KintsugiArmourUpgradeTuvalkaneHelm",
+    "build_time_seconds": 36000,
+    "build_time_human": "10h 0m"
+  },
+  {
+    "name": "TuvalkaneLegsJoineryBlueprint",
+    "result_item": "/SF/StoreItems/Types/Items/Kintsugi/Armor/KintsugiArmourUpgradeTuvalkaneLegs",
+    "build_time_seconds": 36000,
+    "build_time_human": "10h 0m"
+  },
+  {
+    "name": "TuvalkaneTorsoJoineryBlueprint",
+    "result_item": "/SF/StoreItems/Types/Items/Kintsugi/Armor/KintsugiArmourUpgradeTuvalkaneTorso",
+    "build_time_seconds": 36000,
+    "build_time_human": "10h 0m"
+  },
+  {
+    "name": "ChampionPactBlueprint",
+    "result_item": "/SF/StoreItems/Souls/Default/ChampionSoul",
+    "build_time_seconds": 97200,
+    "build_time_human": "27h 0m"
+  },
+  {
+    "name": "FeyPactBlueprint",
+    "result_item": "/SF/StoreItems/Souls/Default/BaseSoul",
+    "build_time_seconds": 97200,
+    "build_time_human": "27h 0m"
+  },
+  {
+    "name": "SaboteurPactBlueprint",
+    "result_item": "/SF/StoreItems/Souls/Default/SaboteurSoul",
+    "build_time_seconds": 97200,
+    "build_time_human": "27h 0m"
+  },
+  {
+    "name": "WardPactBlueprint",
+    "result_item": "/SF/StoreItems/Souls/Default/WardSoul",
+    "build_time_seconds": 97200,
+    "build_time_human": "27h 0m"
+  },
+  {
+    "name": "AlcasChildrenTotemBlueprint",
+    "result_item": "/SF/StoreItems/Upgrades/Skins/Totem/FeyHubTotem",
+    "build_time_seconds": 86400,
+    "build_time_human": "24h 0m"
+  },
+  {
+    "name": "AlcasChildrenTotemUpgradedBlueprint",
+    "result_item": "/SF/StoreItems/Upgrades/Skins/Totem/FeyHubUpgradedTotem",
+    "build_time_seconds": 86400,
+    "build_time_human": "24h 0m"
+  },
+  {
+    "name": "CardinalTotemBlueprint",
+    "result_item": "/SF/StoreItems/Upgrades/Skins/Totem/CardinalTotem",
+    "build_time_seconds": 86400,
+    "build_time_human": "24h 0m"
+  },
+  {
+    "name": "CircadeTotemBlueprint",
+    "result_item": "/SF/StoreItems/Upgrades/Skins/Totem/CircadeCompleteTotem",
+    "build_time_seconds": 86400,
+    "build_time_human": "24h 0m"
+  },
+  {
+    "name": "CogahCorruptedTalismanBlueprint",
+    "result_item": "/SF/StoreItems/Upgrades/Skins/Totem/CogahCorruptedTotem",
+    "build_time_seconds": 86400,
+    "build_time_human": "24h 0m"
+  },
+  {
+    "name": "CogahCreatureTalismanBlueprint",
+    "result_item": "/SF/StoreItems/Upgrades/Skins/Totem/CogahCreatureTotem",
+    "build_time_seconds": 86400,
+    "build_time_human": "24h 0m"
+  },
+  {
+    "name": "CogahHumanTalismanBlueprint",
+    "result_item": "/SF/StoreItems/Upgrades/Skins/Totem/CogahHumanTotem",
+    "build_time_seconds": 86400,
+    "build_time_human": "24h 0m"
+  },
+  {
+    "name": "IchorousTotemBlueprint",
+    "result_item": "/SF/StoreItems/Upgrades/Skins/Totem/IchorousTotem",
+    "build_time_seconds": 86400,
+    "build_time_human": "24h 0m"
+  },
+  {
+    "name": "KithOfKingsTotemBlueprint",
+    "result_item": "/SF/StoreItems/Upgrades/Skins/Totem/ChampionHubTotem",
+    "build_time_seconds": 86400,
+    "build_time_human": "24h 0m"
+  },
+  {
+    "name": "KithOfKingsTotemUpgradedBlueprint",
+    "result_item": "/SF/StoreItems/Upgrades/Skins/Totem/ChampionHubUpgradedTotem",
+    "build_time_seconds": 86400,
+    "build_time_human": "24h 0m"
+  },
+  {
+    "name": "OdeSoulBoonTotemBlueprint",
+    "result_item": "/SF/StoreItems/Upgrades/Skins/Totem/OdeSoulBoonTotem",
+    "build_time_seconds": 86400,
+    "build_time_human": "24h 0m"
+  },
+  {
+    "name": "OrengalIdolTotemBlueprint",
+    "result_item": "/SF/StoreItems/Upgrades/Skins/Totem/OrengalIdolTotem",
+    "build_time_seconds": 86400,
+    "build_time_human": "24h 0m"
+  },
+  {
+    "name": "OrengalSoulBoonTotemBlueprint",
+    "result_item": "/SF/StoreItems/Upgrades/Skins/Totem/OrengalSoulBoonTotem",
+    "build_time_seconds": 86400,
+    "build_time_human": "24h 0m"
+  },
+  {
+    "name": "SilentRoseTotemBlueprint",
+    "result_item": "/SF/StoreItems/Upgrades/Skins/Totem/SilentRoseHubTotem",
+    "build_time_seconds": 86400,
+    "build_time_human": "24h 0m"
+  },
+  {
+    "name": "SilentRoseTotemUpgradedBlueprint",
+    "result_item": "/SF/StoreItems/Upgrades/Skins/Totem/SilentRoseHubUpgradedTotem",
+    "build_time_seconds": 86400,
+    "build_time_human": "24h 0m"
+  },
+  {
+    "name": "BromiusCleaverMeleeWeaponBlueprint",
+    "result_item": "/SF/StoreItems/Weapons/Melee/OneHand/BromiusCleaver/BromiusCleaverMeleeWeapon",
+    "build_time_seconds": 36000,
+    "build_time_human": "10h 0m"
+  },
+  {
+    "name": "BromiusCleaverMeleeWeaponReforgeBlueprint",
+    "result_item": "/SF/StoreItems/Weapons/Melee/OneHand/BromiusCleaver/BromiusCleaverMeleeWeapon",
+    "build_time_seconds": 0,
+    "build_time_human": null
+  },
+  {
+    "name": "CleansedSpearMeleeWeaponBlueprint",
+    "result_item": "/SF/StoreItems/Weapons/Melee/TwoHand/CleansedSpear/CleansedSpearMeleeWeapon",
+    "build_time_seconds": 36000,
+    "build_time_human": "10h 0m"
+  },
+  {
+    "name": "CleansedSpearMeleeWeaponReforgeBlueprint",
+    "result_item": "/SF/StoreItems/Weapons/Melee/TwoHand/CleansedSpear/CleansedSpearMeleeWeapon",
+    "build_time_seconds": 0,
+    "build_time_human": null
+  },
+  {
+    "name": "DendritAraGreatSwordMeleeWeaponBlueprint",
+    "result_item": "/SF/StoreItems/Weapons/Melee/TwoHand/DendritAraGreatSword/DendritAraGreatSwordMeleeWeapon",
+    "build_time_seconds": 36000,
+    "build_time_human": "10h 0m"
+  },
+  {
+    "name": "DendritAraGreatSwordMeleeWeaponReforgeBlueprint",
+    "result_item": "/SF/StoreItems/Weapons/Melee/TwoHand/DendritAraGreatSword/DendritAraGreatSwordMeleeWeapon",
+    "build_time_seconds": 0,
+    "build_time_human": null
+  },
+  {
+    "name": "DendritBowRangedMeleeWeaponBlueprint",
+    "result_item": "/SF/StoreItems/Weapons/Ranged/TwoHand/DendritBow/DendritBowRangedMeleeWeapon",
+    "build_time_seconds": 36000,
+    "build_time_human": "10h 0m"
+  },
+  {
+    "name": "DendritBowRangedMeleeWeaponReforgeBlueprint",
+    "result_item": "/SF/StoreItems/Weapons/Ranged/TwoHand/DendritBow/DendritBowRangedMeleeWeapon",
+    "build_time_seconds": 0,
+    "build_time_human": null
+  },
+  {
+    "name": "DendritStaffCasterRangedMeleeWeaponBlueprint",
+    "result_item": "/SF/StoreItems/Weapons/Ranged/OneHand/DendritStaffCaster/DendritStaffCasterRangedMeleeWeapon",
+    "build_time_seconds": 72000,
+    "build_time_human": "20h 0m"
+  },
+  {
+    "name": "DendritStaffCasterRangedMeleeWeaponReforgeBlueprint",
+    "result_item": "/SF/StoreItems/Weapons/Ranged/OneHand/DendritStaffCaster/DendritStaffCasterRangedMeleeWeapon",
+    "build_time_seconds": 0,
+    "build_time_human": null
+  },
+  {
+    "name": "DendritSwordAndBoardMeleeWeaponBlueprint",
+    "result_item": "/SF/StoreItems/Weapons/Melee/OneHand/DendritSwordAndBoard/DendritSwordAndBoardMeleeWeapon",
+    "build_time_seconds": 36000,
+    "build_time_human": "10h 0m"
+  },
+  {
+    "name": "DendritSwordAndBoardMeleeWeaponReforgeBlueprint",
+    "result_item": "/SF/StoreItems/Weapons/Melee/OneHand/DendritSwordAndBoard/DendritSwordAndBoardMeleeWeapon",
+    "build_time_seconds": 0,
+    "build_time_human": null
+  },
+  {
+    "name": "DendritSwordMeleeWeaponBlueprint",
+    "result_item": "/SF/StoreItems/Weapons/Melee/OneHand/DendritSword/DendritSwordMeleeWeapon",
+    "build_time_seconds": 36000,
+    "build_time_human": "10h 0m"
+  },
+  {
+    "name": "DendritSwordMeleeWeaponReforgeBlueprint",
+    "result_item": "/SF/StoreItems/Weapons/Melee/OneHand/DendritSword/DendritSwordMeleeWeapon",
+    "build_time_seconds": 0,
+    "build_time_human": null
+  },
+  {
+    "name": "DeoraSpearBlueprint",
+    "result_item": "/SF/StoreItems/Weapons/Melee/TwoHand/DeoraPolearm/DeoraPolearmMeleeWeapon",
+    "build_time_seconds": 36000,
+    "build_time_human": "10h 0m"
+  },
+  {
+    "name": "DeoraSpearReforgeBlueprint",
+    "result_item": "/SF/StoreItems/Weapons/Melee/TwoHand/DeoraPolearm/DeoraPolearmMeleeWeapon",
+    "build_time_seconds": 0,
+    "build_time_human": null
+  },
+  {
+    "name": "FennCastingDeviceRangedMeleeWeaponBlueprint",
+    "result_item": "/SF/StoreItems/Weapons/Ranged/OneHand/FennCastingDevice/FennCastingDeviceRangedMeleeWeapon",
+    "build_time_seconds": 36000,
+    "build_time_human": "10h 0m"
+  },
+  {
+    "name": "FennCastingDeviceRangedMeleeWeaponReforgeBlueprint",
+    "result_item": "/SF/StoreItems/Weapons/Ranged/OneHand/FennCastingDevice/FennCastingDeviceRangedMeleeWeapon",
+    "build_time_seconds": 0,
+    "build_time_human": null
+  },
+  {
+    "name": "FennJotarSwordBlueprint",
+    "result_item": "/SF/StoreItems/Weapons/Melee/OneHand/FennJotarSword/FennJotarSwordMeleeWeapon",
+    "build_time_seconds": 36000,
+    "build_time_human": "10h 0m"
+  },
+  {
+    "name": "FennJotarSwordReforgeBlueprint",
+    "result_item": "/SF/StoreItems/Weapons/Melee/OneHand/FennJotarSword/FennJotarSwordMeleeWeapon",
+    "build_time_seconds": 0,
+    "build_time_human": null
+  },
+  {
+    "name": "FeySwordMeleeWeaponBlueprint",
+    "result_item": "/SF/StoreItems/Weapons/Melee/OneHand/FeySword/FeySwordMeleeWeapon",
+    "build_time_seconds": 72000,
+    "build_time_human": "20h 0m"
+  },
+  {
+    "name": "FeySwordMeleeWeaponReforgeBlueprint",
+    "result_item": "/SF/StoreItems/Weapons/Melee/OneHand/FeySword/FeySwordMeleeWeapon",
+    "build_time_seconds": 0,
+    "build_time_human": null
+  },
+  {
+    "name": "GaleneCastingDeviceMeleeWeaponReforgeBlueprint",
+    "result_item": "/SF/StoreItems/Weapons/Ranged/OneHand/GaleneCastingDevice/GaleneCastingDeviceRangedMeleeWeapon",
+    "build_time_seconds": 0,
+    "build_time_human": null
+  },
+  {
+    "name": "GaleneStaffCasterRangedMeleeWeaponReforgeBlueprint",
+    "result_item": "/SF/StoreItems/Weapons/Ranged/OneHand/GaleneStaffCaster/GaleneStaffCasterRangedMeleeWeapon",
+    "build_time_seconds": 0,
+    "build_time_human": null
+  },
+  {
+    "name": "GarrenPolearmMeleeWeaponBlueprint",
+    "result_item": "/SF/StoreItems/Weapons/Melee/TwoHand/GarrenPolearm/GarrenPolearmMeleeWeapon",
+    "build_time_seconds": 36000,
+    "build_time_human": "10h 0m"
+  },
+  {
+    "name": "GarrenPolearmMeleeWeaponReforgeBlueprint",
+    "result_item": "/SF/StoreItems/Weapons/Melee/TwoHand/GarrenPolearm/GarrenPolearmMeleeWeapon",
+    "build_time_seconds": 0,
+    "build_time_human": null
+  },
+  {
+    "name": "GarrenSwordBlueprint",
+    "result_item": "/SF/StoreItems/Weapons/Melee/OneHand/GarrenSword/GarrenSwordMeleeWeapon",
+    "build_time_seconds": 36000,
+    "build_time_human": "10h 0m"
+  },
+  {
+    "name": "GarrenSwordReforgeBlueprint",
+    "result_item": "/SF/StoreItems/Weapons/Melee/OneHand/GarrenSword/GarrenSwordMeleeWeapon",
+    "build_time_seconds": 0,
+    "build_time_human": null
+  },
+  {
+    "name": "GrandFatherBowRangedMeleeWeaponBlueprint",
+    "result_item": "/SF/StoreItems/Weapons/Ranged/TwoHand/GrandFatherBow/GrandFatherBowRangedMeleeWeapon",
+    "build_time_seconds": 14400,
+    "build_time_human": "4h 0m"
+  },
+  {
+    "name": "GrandFatherBowRangedMeleeWeaponReforgeBlueprint",
+    "result_item": "/SF/StoreItems/Weapons/Ranged/TwoHand/GrandFatherBow/GrandFatherBowRangedMeleeWeapon",
+    "build_time_seconds": 0,
+    "build_time_human": null
+  },
+  {
+    "name": "JosalfarBowMeleeWeaponReforgeBlueprint",
+    "result_item": "/SF/StoreItems/Weapons/Ranged/TwoHand/JosalfarBow/JosalfarBowRangedMeleeWeapon",
+    "build_time_seconds": 0,
+    "build_time_human": null
+  },
+  {
+    "name": "MendicantGreatSwordMeleeWeaponBlueprint",
+    "result_item": "/SF/StoreItems/Weapons/Melee/TwoHand/MendicantGreatSword/MendicantGreatSwordMeleeWeapon",
+    "build_time_seconds": 36000,
+    "build_time_human": "10h 0m"
+  },
+  {
+    "name": "MendicantGreatSwordMeleeWeaponReforgeBlueprint",
+    "result_item": "/SF/StoreItems/Weapons/Melee/TwoHand/MendicantGreatSword/MendicantGreatSwordMeleeWeapon",
+    "build_time_seconds": 0,
+    "build_time_human": null
+  },
+  {
+    "name": "MockeryBrazardMeleeWeaponBlueprint",
+    "result_item": "/SF/StoreItems/Weapons/Melee/OneHand/MockeryBrazard/MockeryBrazardMeleeWeapon",
+    "build_time_seconds": 36000,
+    "build_time_human": "10h 0m"
+  },
+  {
+    "name": "MockeryBrazardMeleeWeaponReforgeBlueprint",
+    "result_item": "/SF/StoreItems/Weapons/Melee/OneHand/MockeryBrazard/MockeryBrazardMeleeWeapon",
+    "build_time_seconds": 0,
+    "build_time_human": null
+  },
+  {
+    "name": "MockeryStultionMeleeWeaponBlueprint",
+    "result_item": "/SF/StoreItems/Weapons/Melee/OneHand/MockeryStultion/MockeryStultionMeleeWeapon",
+    "build_time_seconds": 36000,
+    "build_time_human": "10h 0m"
+  },
+  {
+    "name": "MockeryStultionMeleeWeaponReforgeBlueprint",
+    "result_item": "/SF/StoreItems/Weapons/Melee/OneHand/MockeryStultion/MockeryStultionMeleeWeapon",
+    "build_time_seconds": 0,
+    "build_time_human": null
+  },
+  {
+    "name": "MockeryTurashMeleeWeaponBlueprint",
+    "result_item": "/SF/StoreItems/Weapons/Melee/OneHand/MockeryTurash/MockeryTurashMeleeWeapon",
+    "build_time_seconds": 36000,
+    "build_time_human": "10h 0m"
+  },
+  {
+    "name": "MockeryTurashMeleeWeaponReforgeBlueprint",
+    "result_item": "/SF/StoreItems/Weapons/Melee/OneHand/MockeryTurash/MockeryTurashMeleeWeapon",
+    "build_time_seconds": 0,
+    "build_time_human": null
+  },
+  {
+    "name": "OdeCastingDeviceRangedMeleeWeaponBlueprint",
+    "result_item": "/SF/StoreItems/Weapons/Ranged/OneHand/OdeCastingDevice/OdeCastingDeviceRangedMeleeWeapon",
+    "build_time_seconds": 14400,
+    "build_time_human": "4h 0m"
+  },
+  {
+    "name": "OdeCastingDeviceRangedMeleeWeaponReforgeBlueprint",
+    "result_item": "/SF/StoreItems/Weapons/Ranged/OneHand/OdeCastingDevice/OdeCastingDeviceRangedMeleeWeapon",
+    "build_time_seconds": 0,
+    "build_time_human": null
+  },
+  {
+    "name": "OdeHunterBowBlueprint",
+    "result_item": "/SF/StoreItems/Weapons/Ranged/TwoHand/OdeBow/OdeBowRangedMeleeWeapon",
+    "build_time_seconds": 36000,
+    "build_time_human": "10h 0m"
+  },
+  {
+    "name": "OdeHunterBowReforgeBlueprint",
+    "result_item": "/SF/StoreItems/Weapons/Ranged/TwoHand/OdeBow/OdeBowRangedMeleeWeapon",
+    "build_time_seconds": 0,
+    "build_time_human": null
+  },
+  {
+    "name": "ParagonGreatSwordMeleeWeaponReforgeBlueprint",
+    "result_item": "/SF/StoreItems/Weapons/Melee/TwoHand/FoundersGreatSword/FoundersGreatSwordMeleeWeapon",
+    "build_time_seconds": 0,
+    "build_time_human": null
+  },
+  {
+    "name": "PothiaSwordMeleeWeaponReforgeBlueprint",
+    "result_item": "/SF/StoreItems/Weapons/Melee/OneHand/PothiaLongSword/PothiaLongSwordMeleeWeapon",
+    "build_time_seconds": 0,
+    "build_time_human": null
+  },
+  {
+    "name": "PothiaThrowingKnivesRangedMeleeWeaponReforgeBlueprint",
+    "result_item": "/SF/StoreItems/Weapons/Ranged/Thrown/PothiaThrowingKnives/PothiaThrowingKnivesRangedMeleeWeapon",
+    "build_time_seconds": 0,
+    "build_time_human": null
+  },
+  {
+    "name": "SecondaryDaggerMeleeWeaponBlueprint",
+    "result_item": "/SF/StoreItems/Weapons/Melee/OneHand/SecondaryDagger/SecondaryDaggerMeleeWeapon",
+    "build_time_seconds": 14400,
+    "build_time_human": "4h 0m"
+  },
+  {
+    "name": "SecondaryDaggerMeleeWeaponReforgeBlueprint",
+    "result_item": "/SF/StoreItems/Weapons/Melee/OneHand/SecondaryDagger/SecondaryDaggerMeleeWeapon",
+    "build_time_seconds": 0,
+    "build_time_human": null
+  },
+  {
+    "name": "SecondaryDendritDaggerMeleeWeaponBlueprint",
+    "result_item": "/SF/StoreItems/Weapons/Melee/OneHand/SecondaryDendritDagger/SecondaryDendritDaggerMeleeWeapon",
+    "build_time_seconds": 36000,
+    "build_time_human": "10h 0m"
+  },
+  {
+    "name": "SecondaryDendritDaggerMeleeWeaponReforgeBlueprint",
+    "result_item": "/SF/StoreItems/Weapons/Melee/OneHand/SecondaryDendritDagger/SecondaryDendritDaggerMeleeWeapon",
+    "build_time_seconds": 0,
+    "build_time_human": null
+  },
+  {
+    "name": "SecondaryFeyDaggerMeleeWeaponBlueprint",
+    "result_item": "/SF/StoreItems/Weapons/Melee/OneHand/SecondaryFeyDagger/SecondaryFeyDaggerMeleeWeapon",
+    "build_time_seconds": 36000,
+    "build_time_human": "10h 0m"
+  },
+  {
+    "name": "SecondaryFeyDaggerMeleeWeaponReforgeBlueprint",
+    "result_item": "/SF/StoreItems/Weapons/Melee/OneHand/SecondaryFeyDagger/SecondaryFeyDaggerMeleeWeapon",
+    "build_time_seconds": 0,
+    "build_time_human": null
+  },
+  {
+    "name": "SecondaryJosalfarDaggerReforgeBlueprint",
+    "result_item": "/SF/StoreItems/Weapons/Melee/OneHand/SecondaryJosalfarDagger/SecondaryJosalfarDaggerMeleeWeapon",
+    "build_time_seconds": 0,
+    "build_time_human": null
+  },
+  {
+    "name": "SecondaryOdeSawDaggerMeleeWeaponBlueprint",
+    "result_item": "/SF/StoreItems/Weapons/Melee/OneHand/SecondaryOdeSawDagger/SecondaryOdeSawDaggerMeleeWeapon",
+    "build_time_seconds": 36000,
+    "build_time_human": "10h 0m"
+  },
+  {
+    "name": "SecondaryOdeSawDaggerMeleeWeaponReforgeBlueprint",
+    "result_item": "/SF/StoreItems/Weapons/Melee/OneHand/SecondaryOdeSawDagger/SecondaryOdeSawDaggerMeleeWeapon",
+    "build_time_seconds": 0,
+    "build_time_human": null
+  },
+  {
+    "name": "SecondaryStarterThrowingKnivesRangedMeleeWPNReforgeBlueprint",
+    "result_item": "/SF/StoreItems/Weapons/Ranged/Thrown/SecondaryStarterThrowingKnives/SecondaryStarterThrowingKnivesRangedMeleeWeapon",
+    "build_time_seconds": 0,
+    "build_time_human": null
+  },
+  {
+    "name": "SecondaryStarterThrowingKnivesRangedMeleeWeaponBlueprint",
+    "result_item": "/SF/StoreItems/Weapons/Ranged/Thrown/SecondaryStarterThrowingKnives/SecondaryStarterThrowingKnivesRangedMeleeWeapon",
+    "build_time_seconds": 14400,
+    "build_time_human": "4h 0m"
+  },
+  {
+    "name": "SecondaryThrowingKnivesRangedMeleeWeaponBlueprint",
+    "result_item": "/SF/StoreItems/Weapons/Ranged/Thrown/SecondaryThrowingKnives/SecondaryThrowingKnivesRangedMeleeWeapon",
+    "build_time_seconds": 36000,
+    "build_time_human": "10h 0m"
+  },
+  {
+    "name": "SecondaryThrowingKnivesRangedMeleeWeaponReforgeBlueprint",
+    "result_item": "/SF/StoreItems/Weapons/Ranged/Thrown/SecondaryThrowingKnives/SecondaryThrowingKnivesRangedMeleeWeapon",
+    "build_time_seconds": 0,
+    "build_time_human": null
+  },
+  {
+    "name": "SecondaryVineDaggerMeleeWeaponBlueprint",
+    "result_item": "/SF/StoreItems/Weapons/Melee/OneHand/SecondaryVineDagger/SecondaryVineDaggerMeleeWeapon",
+    "build_time_seconds": 36000,
+    "build_time_human": "10h 0m"
+  },
+  {
+    "name": "SecondaryVineDaggerMeleeWeaponReforgeBlueprint",
+    "result_item": "/SF/StoreItems/Weapons/Melee/OneHand/SecondaryVineDagger/SecondaryVineDaggerMeleeWeapon",
+    "build_time_seconds": 0,
+    "build_time_human": null
+  },
+  {
+    "name": "SinecureDualDaggersMeleeWeaponBlueprint",
+    "result_item": "/SF/StoreItems/Weapons/Melee/OneHand/SinecureDagger/SinecureDualDaggersMeleeWeapon",
+    "build_time_seconds": 36000,
+    "build_time_human": "10h 0m"
+  },
+  {
+    "name": "SinecureDualDaggersMeleeWeaponReforgeBlueprint",
+    "result_item": "/SF/StoreItems/Weapons/Melee/OneHand/SinecureDagger/SinecureDualDaggersMeleeWeapon",
+    "build_time_seconds": 0,
+    "build_time_human": null
+  },
+  {
+    "name": "SphereDualSwordBlueprint",
+    "result_item": "/SF/StoreItems/Weapons/Melee/OneHand/SphereDualSwords/SphereDualSwordsMeleeWeapon",
+    "build_time_seconds": 14400,
+    "build_time_human": "4h 0m"
+  },
+  {
+    "name": "SphereDualSwordReforgeBlueprint",
+    "result_item": "/SF/StoreItems/Weapons/Melee/OneHand/SphereDualSwords/SphereDualSwordsMeleeWeapon",
+    "build_time_seconds": 0,
+    "build_time_human": null
+  },
+  {
+    "name": "SpherePolearmBlueprint",
+    "result_item": "/SF/StoreItems/Weapons/Melee/TwoHand/SpherePolearm/SpherePolearmMeleeWeapon",
+    "build_time_seconds": 14400,
+    "build_time_human": "4h 0m"
+  },
+  {
+    "name": "SpherePolearmReforgeBlueprint",
+    "result_item": "/SF/StoreItems/Weapons/Melee/TwoHand/SpherePolearm/SpherePolearmMeleeWeapon",
+    "build_time_seconds": 0,
+    "build_time_human": null
+  },
+  {
+    "name": "SphereSwordAndBoardBlueprint",
+    "result_item": "/SF/StoreItems/Weapons/Melee/OneHand/SwordandBoard/SphereSwordAndBoardMeleeWeapon",
+    "build_time_seconds": 36000,
+    "build_time_human": "10h 0m"
+  },
+  {
+    "name": "SphereSwordAndBoardReforgeBlueprint",
+    "result_item": "/SF/StoreItems/Weapons/Melee/OneHand/SwordandBoard/SphereSwordAndBoardMeleeWeapon",
+    "build_time_seconds": 0,
+    "build_time_human": null
+  },
+  {
+    "name": "SphereSwordBlueprint",
+    "result_item": "/SF/StoreItems/Weapons/Melee/OneHand/SphereSword/SphereSwordMeleeWeapon",
+    "build_time_seconds": 14400,
+    "build_time_human": "4h 0m"
+  },
+  {
+    "name": "SphereSwordReforgeBlueprint",
+    "result_item": "/SF/StoreItems/Weapons/Melee/OneHand/SphereSword/SphereSwordMeleeWeapon",
+    "build_time_seconds": 0,
+    "build_time_human": null
+  },
+  {
+    "name": "StarterBowRangedMeleeWeaponBlueprint",
+    "result_item": "/SF/StoreItems/Weapons/Ranged/TwoHand/StarterBow/StarterBowRangedMeleeWeapon",
+    "build_time_seconds": 14400,
+    "build_time_human": "4h 0m"
+  },
+  {
+    "name": "StarterBowRangedMeleeWeaponReforgeBlueprint",
+    "result_item": "/SF/StoreItems/Weapons/Ranged/TwoHand/StarterBow/StarterBowRangedMeleeWeapon",
+    "build_time_seconds": 0,
+    "build_time_human": null
+  },
+  {
+    "name": "StarterSplitSwordsMeleeWeaponBlueprint",
+    "result_item": "/SF/StoreItems/Weapons/Melee/OneHand/StarterSplitSwords/StarterSplitSwordsMeleeWeapon",
+    "build_time_seconds": 36000,
+    "build_time_human": "10h 0m"
+  },
+  {
+    "name": "StarterSplitSwordsMeleeWeaponReforgeBlueprint",
+    "result_item": "/SF/StoreItems/Weapons/Melee/OneHand/StarterSplitSwords/StarterSplitSwordsMeleeWeapon",
+    "build_time_seconds": 0,
+    "build_time_human": null
+  },
+  {
+    "name": "StarterStaffCasterRangedMeleeWeaponBlueprint",
+    "result_item": "/SF/StoreItems/Weapons/Ranged/OneHand/StarterStaffCaster/StarterStaffCasterRangedMeleeWeapon",
+    "build_time_seconds": 14400,
+    "build_time_human": "4h 0m"
+  },
+  {
+    "name": "StarterStaffCasterRangedMeleeWeaponReforgeBlueprint",
+    "result_item": "/SF/StoreItems/Weapons/Ranged/OneHand/StarterStaffCaster/StarterStaffCasterRangedMeleeWeapon",
+    "build_time_seconds": 0,
+    "build_time_human": null
+  },
+  {
+    "name": "StarterSwordMeleeWeaponBlueprint",
+    "result_item": "/SF/StoreItems/Weapons/Melee/OneHand/StarterSword/StarterSwordMeleeWeapon",
+    "build_time_seconds": 14400,
+    "build_time_human": "4h 0m"
+  },
+  {
+    "name": "StarterSwordMeleeWeaponReforgeBlueprint",
+    "result_item": "/SF/StoreItems/Weapons/Melee/OneHand/StarterSword/StarterSwordMeleeWeapon",
+    "build_time_seconds": 0,
+    "build_time_human": null
+  },
+  {
+    "name": "WazzardStaffCasterRangedMeleeWeaponBlueprint",
+    "result_item": "/SF/StoreItems/Weapons/Ranged/OneHand/WazzardStaff/WazzardStaffCasterRangedMeleeWeapon",
+    "build_time_seconds": 36000,
+    "build_time_human": "10h 0m"
+  },
+  {
+    "name": "WazzardStaffCasterRangedMeleeWeaponReforgeBlueprint",
+    "result_item": "/SF/StoreItems/Weapons/Ranged/OneHand/WazzardStaff/WazzardStaffCasterRangedMeleeWeapon",
+    "build_time_seconds": 0,
+    "build_time_human": null
+  }
+]

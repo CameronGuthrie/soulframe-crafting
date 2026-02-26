@@ -5903,7 +5903,7 @@
     "path": "/SF/StoreItems/Types/Recipes/Weapons/DendritStaffCasterRangedMeleeWeaponBlueprint",
     "parent": "/SF/Types/Game/StoreItemSpecializations/RecipeStoreItem",
     "category": "Weapons",
-    "rarity": "UNCOMMON",
+    "rarity": "RARE",
     "result_item": "/SF/StoreItems/Weapons/Ranged/OneHand/DendritStaffCaster/DendritStaffCasterRangedMeleeWeapon",
     "result_item_name": "DendritStaffCasterRangedMeleeWeapon",
     "ingredients": [
@@ -5942,7 +5942,7 @@
     "path": "/SF/StoreItems/Types/Recipes/Weapons/DendritStaffCasterRangedMeleeWeaponReforgeBlueprint",
     "parent": "/SF/Types/Game/StoreItemSpecializations/RecipeStoreItem",
     "category": "Weapons",
-    "rarity": "UNCOMMON",
+    "rarity": "RARE",
     "result_item": "/SF/StoreItems/Weapons/Ranged/OneHand/DendritStaffCaster/DendritStaffCasterRangedMeleeWeapon",
     "result_item_name": "DendritStaffCasterRangedMeleeWeapon",
     "ingredients": [
@@ -7389,7 +7389,7 @@
     "path": "/SF/StoreItems/Types/Recipes/Weapons/OdeCastingDeviceRangedMeleeWeaponReforgeBlueprint",
     "parent": "/SF/Types/Game/StoreItemSpecializations/RecipeStoreItem",
     "category": "Weapons",
-    "rarity": "RARE",
+    "rarity": "UNCOMMON",
     "result_item": "/SF/StoreItems/Weapons/Ranged/OneHand/OdeCastingDevice/OdeCastingDeviceRangedMeleeWeapon",
     "result_item_name": "OdeCastingDeviceRangedMeleeWeapon",
     "ingredients": [
@@ -7530,6 +7530,98 @@
     "localize_tag": "/SF/Language/Weapons/OdeBowRangedMeleeWeaponName"
   },
   {
+    "name": "OdeSoldierSwordMeleeWeaponBlueprint",
+    "path": "/SF/StoreItems/Types/Recipes/Weapons/OdeSoldierSwordMeleeWeaponBlueprint",
+    "parent": "/SF/Types/Game/StoreItemSpecializations/RecipeStoreItem",
+    "category": "Weapons",
+    "rarity": "UNCOMMON",
+    "result_item": "/SF/StoreItems/Weapons/Melee/OneHand/OdeSoldierSword/OdeSoldierSwordMeleeWeapon",
+    "result_item_name": "OdeSoldierSwordMeleeWeapon",
+    "ingredients": [
+      {
+        "item": "OdeGraphiteResource",
+        "item_path": "/SF/Types/PickUps/Resources/Inorganics/OdeGraphiteResource",
+        "count": 20,
+        "alternatives": null
+      },
+      {
+        "item": "ScrapBrassResource",
+        "item_path": "/SF/Types/PickUps/Resources/ScrapMetals/ScrapBrassResource",
+        "count": 25,
+        "alternatives": null
+      },
+      {
+        "item": "IchorResource",
+        "item_path": "/SF/Types/PickUps/Resources/Inorganics/IchorResource",
+        "count": 20,
+        "alternatives": null
+      }
+    ],
+    "build_time_seconds": 36000,
+    "build_time_human": "10h 0m",
+    "build_cost": 2500,
+    "rush_cost_premium": 10,
+    "blueprint_price": 20000,
+    "selling_price": 100,
+    "num_required": 2,
+    "consume_on_use": null,
+    "icon": "/SF/Interface/Graphics/StoreItems/Weapons/SinecureSword.png",
+    "localize_tag": "/SF/Language/Weapons/OdeSoldierSwordMeleeWeaponName"
+  },
+  {
+    "name": "OdeSoldierSwordMeleeWeaponReforgeBlueprint",
+    "path": "/SF/StoreItems/Types/Recipes/Weapons/OdeSoldierSwordMeleeWeaponReforgeBlueprint",
+    "parent": "/SF/Types/Game/StoreItemSpecializations/RecipeStoreItem",
+    "category": "Weapons",
+    "rarity": "UNCOMMON",
+    "result_item": "/SF/StoreItems/Weapons/Melee/OneHand/OdeSoldierSword/OdeSoldierSwordMeleeWeapon",
+    "result_item_name": "OdeSoldierSwordMeleeWeapon",
+    "ingredients": [
+      {
+        "item": "OdeSoldierSwordMeleeWeapon",
+        "item_path": "/SF/Weapons/Melee/OneHand/OdeSoldierSword/OdeSoldierSwordMeleeWeapon",
+        "count": 1,
+        "alternatives": null
+      },
+      {
+        "item": "OdeGraphiteResource",
+        "item_path": "/SF/Types/PickUps/Resources/Inorganics/OdeGraphiteResource",
+        "count": 25,
+        "alternatives": null
+      },
+      {
+        "item": "ScrapBrassResource",
+        "item_path": "/SF/Types/PickUps/Resources/ScrapMetals/ScrapBrassResource",
+        "count": 25,
+        "alternatives": null
+      },
+      {
+        "item": "IchorResource",
+        "item_path": "/SF/Types/PickUps/Resources/Inorganics/IchorResource",
+        "count": 20,
+        "alternatives": null
+      },
+      {
+        "item": "BaseKintsugiWeaponUpgrade",
+        "item_path": "/SF/Types/Items/Kintsugi/BaseKintsugiWeaponUpgrade",
+        "count": 1,
+        "alternatives": [
+          "/SF/Types/Items/Kintsugi/BaseKintsugiUniversalUpgrade"
+        ]
+      }
+    ],
+    "build_time_seconds": 0,
+    "build_time_human": null,
+    "build_cost": 2500,
+    "rush_cost_premium": 0,
+    "blueprint_price": 20000,
+    "selling_price": 2500,
+    "num_required": null,
+    "consume_on_use": false,
+    "icon": "/SF/Interface/Graphics/StoreItems/Weapons/SinecureSword.png",
+    "localize_tag": "/SF/Language/Weapons/OdeSoldierSwordMeleeWeaponName"
+  },
+  {
     "name": "ParagonGreatSwordMeleeWeaponReforgeBlueprint",
     "path": "/SF/StoreItems/Types/Recipes/Weapons/ParagonGreatSwordMeleeWeaponReforgeBlueprint",
     "parent": "/SF/Types/Game/StoreItemSpecializations/RecipeStoreItem",
@@ -7592,9 +7684,9 @@
     "result_item_name": "PothiaLongSwordMeleeWeapon",
     "ingredients": [
       {
-        "item": "ScrapSteelResource",
-        "item_path": "/SF/Types/PickUps/Resources/ScrapMetals/ScrapSteelResource",
-        "count": 20,
+        "item": "OdeGraphiteResource",
+        "item_path": "/SF/Types/PickUps/Resources/Inorganics/OdeGraphiteResource",
+        "count": 25,
         "alternatives": null
       },
       {
@@ -8384,6 +8476,98 @@
     "consume_on_use": false,
     "icon": "/SF/Interface/Graphics/StoreItems/Weapons/VineDagger.png",
     "localize_tag": "/SF/Language/Weapons/SecondaryVineDaggerMeleeWeaponName"
+  },
+  {
+    "name": "SinecureBowRangedMeleeWeaponBlueprint",
+    "path": "/SF/StoreItems/Types/Recipes/Weapons/SinecureBowRangedMeleeWeaponBlueprint",
+    "parent": "/SF/Types/Game/StoreItemSpecializations/RecipeStoreItem",
+    "category": "Weapons",
+    "rarity": "RARE",
+    "result_item": "/SF/StoreItems/Weapons/Ranged/TwoHand/SinecureBow/SinecureBowRangedMeleeWeapon",
+    "result_item_name": "SinecureBowRangedMeleeWeapon",
+    "ingredients": [
+      {
+        "item": "ScrapBrassResource",
+        "item_path": "/SF/Types/PickUps/Resources/ScrapMetals/ScrapBrassResource",
+        "count": 15,
+        "alternatives": null
+      },
+      {
+        "item": "CorruptOnyxResource",
+        "item_path": "/SF/Types/PickUps/Resources/Inorganics/CorruptOnyxResource",
+        "count": 15,
+        "alternatives": null
+      },
+      {
+        "item": "PetrifiedIchorResource",
+        "item_path": "/SF/Types/PickUps/Resources/Inorganics/PetrifiedIchorResource",
+        "count": 6,
+        "alternatives": null
+      }
+    ],
+    "build_time_seconds": 72000,
+    "build_time_human": "20h 0m",
+    "build_cost": 3500,
+    "rush_cost_premium": 15,
+    "blueprint_price": 20000,
+    "selling_price": 75,
+    "num_required": 3,
+    "consume_on_use": null,
+    "icon": "/SF/Interface/Graphics/StoreItems/Weapons/SinecureBow.png",
+    "localize_tag": "/SF/Language/Weapons/SinecureBowRangedMeleeWeaponName"
+  },
+  {
+    "name": "SinecureBowRangedMeleeWeaponReforgeBlueprint",
+    "path": "/SF/StoreItems/Types/Recipes/Weapons/SinecureBowRangedMeleeWeaponReforgeBlueprint",
+    "parent": "/SF/Types/Game/StoreItemSpecializations/RecipeStoreItem",
+    "category": "Weapons",
+    "rarity": "RARE",
+    "result_item": "/SF/StoreItems/Weapons/Ranged/TwoHand/SinecureBow/SinecureBowRangedMeleeWeapon",
+    "result_item_name": "SinecureBowRangedMeleeWeapon",
+    "ingredients": [
+      {
+        "item": "SinecureBowRangedMeleeWeapon",
+        "item_path": "/SF/Weapons/Ranged/TwoHand/SinecureBow/SinecureBowRangedMeleeWeapon",
+        "count": 1,
+        "alternatives": null
+      },
+      {
+        "item": "ScrapBrassResource",
+        "item_path": "/SF/Types/PickUps/Resources/ScrapMetals/ScrapBrassResource",
+        "count": 15,
+        "alternatives": null
+      },
+      {
+        "item": "CorruptOnyxResource",
+        "item_path": "/SF/Types/PickUps/Resources/Inorganics/CorruptOnyxResource",
+        "count": 15,
+        "alternatives": null
+      },
+      {
+        "item": "PetrifiedIchorResource",
+        "item_path": "/SF/Types/PickUps/Resources/Inorganics/PetrifiedIchorResource",
+        "count": 6,
+        "alternatives": null
+      },
+      {
+        "item": "BaseKintsugiWeaponUpgradeRanged",
+        "item_path": "/SF/Types/Items/Kintsugi/BaseKintsugiWeaponUpgradeRanged",
+        "count": 1,
+        "alternatives": [
+          "/SF/Types/Items/Kintsugi/BaseKintsugiUniversalUpgrade"
+        ]
+      }
+    ],
+    "build_time_seconds": 0,
+    "build_time_human": null,
+    "build_cost": 3500,
+    "rush_cost_premium": 0,
+    "blueprint_price": 20000,
+    "selling_price": 2500,
+    "num_required": null,
+    "consume_on_use": false,
+    "icon": "/SF/Interface/Graphics/StoreItems/Weapons/SinecureBow.png",
+    "localize_tag": "/SF/Language/Weapons/SinecureBowRangedMeleeWeaponName"
   },
   {
     "name": "SinecureDualDaggersMeleeWeaponBlueprint",
@@ -14308,7 +14492,7 @@
     "path": "/SF/Types/Recipes/Weapons/DendritStaffCasterRangedMeleeWeaponBlueprint",
     "parent": "/SF/Types/Recipes/Weapons/TierBBaseBlueprint",
     "category": "Weapons",
-    "rarity": null,
+    "rarity": "RARE",
     "result_item": "/SF/StoreItems/Weapons/Ranged/OneHand/DendritStaffCaster/DendritStaffCasterRangedMeleeWeapon",
     "result_item_name": "DendritStaffCasterRangedMeleeWeapon",
     "ingredients": [
@@ -14347,7 +14531,7 @@
     "path": "/SF/Types/Recipes/Weapons/DendritStaffCasterRangedMeleeWeaponReforgeBlueprint",
     "parent": "/SF/Types/Game/RecipeItem",
     "category": "Weapons",
-    "rarity": "UNCOMMON",
+    "rarity": "RARE",
     "result_item": "/SF/StoreItems/Weapons/Ranged/OneHand/DendritStaffCaster/DendritStaffCasterRangedMeleeWeapon",
     "result_item_name": "DendritStaffCasterRangedMeleeWeapon",
     "ingredients": [
@@ -15794,7 +15978,7 @@
     "path": "/SF/Types/Recipes/Weapons/OdeCastingDeviceRangedMeleeWeaponReforgeBlueprint",
     "parent": "/SF/Types/Game/RecipeItem",
     "category": "Weapons",
-    "rarity": "RARE",
+    "rarity": "UNCOMMON",
     "result_item": "/SF/StoreItems/Weapons/Ranged/OneHand/OdeCastingDevice/OdeCastingDeviceRangedMeleeWeapon",
     "result_item_name": "OdeCastingDeviceRangedMeleeWeapon",
     "ingredients": [
@@ -15935,6 +16119,98 @@
     "localize_tag": null
   },
   {
+    "name": "OdeSoldierSwordMeleeWeaponBlueprint",
+    "path": "/SF/Types/Recipes/Weapons/OdeSoldierSwordMeleeWeaponBlueprint",
+    "parent": "/SF/Types/Recipes/Weapons/TierCBaseBlueprint",
+    "category": "Weapons",
+    "rarity": "UNCOMMON",
+    "result_item": "/SF/StoreItems/Weapons/Melee/OneHand/OdeSoldierSword/OdeSoldierSwordMeleeWeapon",
+    "result_item_name": "OdeSoldierSwordMeleeWeapon",
+    "ingredients": [
+      {
+        "item": "OdeGraphiteResource",
+        "item_path": "/SF/Types/PickUps/Resources/Inorganics/OdeGraphiteResource",
+        "count": 20,
+        "alternatives": null
+      },
+      {
+        "item": "ScrapBrassResource",
+        "item_path": "/SF/Types/PickUps/Resources/ScrapMetals/ScrapBrassResource",
+        "count": 25,
+        "alternatives": null
+      },
+      {
+        "item": "IchorResource",
+        "item_path": "/SF/Types/PickUps/Resources/Inorganics/IchorResource",
+        "count": 20,
+        "alternatives": null
+      }
+    ],
+    "build_time_seconds": 36000,
+    "build_time_human": "10h 0m",
+    "build_cost": 2500,
+    "rush_cost_premium": 10,
+    "blueprint_price": null,
+    "selling_price": null,
+    "num_required": 2,
+    "consume_on_use": null,
+    "icon": null,
+    "localize_tag": null
+  },
+  {
+    "name": "OdeSoldierSwordMeleeWeaponReforgeBlueprint",
+    "path": "/SF/Types/Recipes/Weapons/OdeSoldierSwordMeleeWeaponReforgeBlueprint",
+    "parent": "/SF/Types/Game/RecipeItem",
+    "category": "Weapons",
+    "rarity": "UNCOMMON",
+    "result_item": "/SF/StoreItems/Weapons/Melee/OneHand/OdeSoldierSword/OdeSoldierSwordMeleeWeapon",
+    "result_item_name": "OdeSoldierSwordMeleeWeapon",
+    "ingredients": [
+      {
+        "item": "OdeSoldierSwordMeleeWeapon",
+        "item_path": "/SF/Weapons/Melee/OneHand/OdeSoldierSword/OdeSoldierSwordMeleeWeapon",
+        "count": 1,
+        "alternatives": null
+      },
+      {
+        "item": "OdeGraphiteResource",
+        "item_path": "/SF/Types/PickUps/Resources/Inorganics/OdeGraphiteResource",
+        "count": 25,
+        "alternatives": null
+      },
+      {
+        "item": "ScrapBrassResource",
+        "item_path": "/SF/Types/PickUps/Resources/ScrapMetals/ScrapBrassResource",
+        "count": 25,
+        "alternatives": null
+      },
+      {
+        "item": "IchorResource",
+        "item_path": "/SF/Types/PickUps/Resources/Inorganics/IchorResource",
+        "count": 20,
+        "alternatives": null
+      },
+      {
+        "item": "BaseKintsugiWeaponUpgrade",
+        "item_path": "/SF/Types/Items/Kintsugi/BaseKintsugiWeaponUpgrade",
+        "count": 1,
+        "alternatives": [
+          "/SF/Types/Items/Kintsugi/BaseKintsugiUniversalUpgrade"
+        ]
+      }
+    ],
+    "build_time_seconds": 0,
+    "build_time_human": null,
+    "build_cost": 2500,
+    "rush_cost_premium": 0,
+    "blueprint_price": 20000,
+    "selling_price": null,
+    "num_required": null,
+    "consume_on_use": false,
+    "icon": null,
+    "localize_tag": null
+  },
+  {
     "name": "ParagonGreatSwordMeleeWeaponReforgeBlueprint",
     "path": "/SF/Types/Recipes/Weapons/ParagonGreatSwordMeleeWeaponReforgeBlueprint",
     "parent": "/SF/Types/Game/RecipeItem",
@@ -15997,9 +16273,9 @@
     "result_item_name": "PothiaLongSwordMeleeWeapon",
     "ingredients": [
       {
-        "item": "ScrapSteelResource",
-        "item_path": "/SF/Types/PickUps/Resources/ScrapMetals/ScrapSteelResource",
-        "count": 20,
+        "item": "OdeGraphiteResource",
+        "item_path": "/SF/Types/PickUps/Resources/Inorganics/OdeGraphiteResource",
+        "count": 25,
         "alternatives": null
       },
       {
@@ -16789,6 +17065,98 @@
     "consume_on_use": false,
     "icon": null,
     "localize_tag": null
+  },
+  {
+    "name": "SinecureBowRangedMeleeWeaponBlueprint",
+    "path": "/SF/Types/Recipes/Weapons/SinecureBowRangedMeleeWeaponBlueprint",
+    "parent": "/SF/Types/Recipes/Weapons/TierBBaseBlueprint",
+    "category": "Weapons",
+    "rarity": "RARE",
+    "result_item": "/SF/StoreItems/Weapons/Ranged/TwoHand/SinecureBow/SinecureBowRangedMeleeWeapon",
+    "result_item_name": "SinecureBowRangedMeleeWeapon",
+    "ingredients": [
+      {
+        "item": "ScrapBrassResource",
+        "item_path": "/SF/Types/PickUps/Resources/ScrapMetals/ScrapBrassResource",
+        "count": 15,
+        "alternatives": null
+      },
+      {
+        "item": "CorruptOnyxResource",
+        "item_path": "/SF/Types/PickUps/Resources/Inorganics/CorruptOnyxResource",
+        "count": 15,
+        "alternatives": null
+      },
+      {
+        "item": "PetrifiedIchorResource",
+        "item_path": "/SF/Types/PickUps/Resources/Inorganics/PetrifiedIchorResource",
+        "count": 6,
+        "alternatives": null
+      }
+    ],
+    "build_time_seconds": 72000,
+    "build_time_human": "20h 0m",
+    "build_cost": 3500,
+    "rush_cost_premium": 15,
+    "blueprint_price": null,
+    "selling_price": null,
+    "num_required": 3,
+    "consume_on_use": null,
+    "icon": null,
+    "localize_tag": "/SF/Language/Weapons/SinecureBowRangedMeleeWeaponName"
+  },
+  {
+    "name": "SinecureBowRangedMeleeWeaponReforgeBlueprint",
+    "path": "/SF/Types/Recipes/Weapons/SinecureBowRangedMeleeWeaponReforgeBlueprint",
+    "parent": "/SF/Types/Game/RecipeItem",
+    "category": "Weapons",
+    "rarity": "RARE",
+    "result_item": "/SF/StoreItems/Weapons/Ranged/TwoHand/SinecureBow/SinecureBowRangedMeleeWeapon",
+    "result_item_name": "SinecureBowRangedMeleeWeapon",
+    "ingredients": [
+      {
+        "item": "SinecureBowRangedMeleeWeapon",
+        "item_path": "/SF/Weapons/Ranged/TwoHand/SinecureBow/SinecureBowRangedMeleeWeapon",
+        "count": 1,
+        "alternatives": null
+      },
+      {
+        "item": "ScrapBrassResource",
+        "item_path": "/SF/Types/PickUps/Resources/ScrapMetals/ScrapBrassResource",
+        "count": 15,
+        "alternatives": null
+      },
+      {
+        "item": "CorruptOnyxResource",
+        "item_path": "/SF/Types/PickUps/Resources/Inorganics/CorruptOnyxResource",
+        "count": 15,
+        "alternatives": null
+      },
+      {
+        "item": "PetrifiedIchorResource",
+        "item_path": "/SF/Types/PickUps/Resources/Inorganics/PetrifiedIchorResource",
+        "count": 6,
+        "alternatives": null
+      },
+      {
+        "item": "BaseKintsugiWeaponUpgradeRanged",
+        "item_path": "/SF/Types/Items/Kintsugi/BaseKintsugiWeaponUpgradeRanged",
+        "count": 1,
+        "alternatives": [
+          "/SF/Types/Items/Kintsugi/BaseKintsugiUniversalUpgrade"
+        ]
+      }
+    ],
+    "build_time_seconds": 0,
+    "build_time_human": null,
+    "build_cost": 3500,
+    "rush_cost_premium": 0,
+    "blueprint_price": 20000,
+    "selling_price": null,
+    "num_required": null,
+    "consume_on_use": false,
+    "icon": null,
+    "localize_tag": "/SF/Language/Weapons/SinecureBowRangedMeleeWeaponName"
   },
   {
     "name": "SinecureDualDaggersMeleeWeaponBlueprint",

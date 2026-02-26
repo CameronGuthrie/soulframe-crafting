@@ -1,17 +1,17 @@
 {
   "metadata": {
-    "generated_at": "2026-02-14T00:15:35Z",
+    "generated_at": "2026-02-18T22:47:39Z",
     "source": "Packages.bin (H.Misc cache)",
-    "total_weapons": 43,
+    "total_weapons": 44,
     "melee_weapons": 26,
-    "ranged_weapons": 15,
+    "ranged_weapons": 16,
     "categories": {
       "soul_weapon": 2,
       "melee_one_hand": 20,
       "melee_two_hand": 6,
       "ranged_one_hand": 7,
       "ranged_thrown": 3,
-      "ranged_two_hand": 5
+      "ranged_two_hand": 6
     },
     "stat_fields": {
       "attunements": "Stat scaling weights (AT_COURAGE, AT_SPIRIT, AT_GRACE). Higher value = more damage scaling from that attribute.",
@@ -606,10 +606,10 @@
         "AT_GRACE": 13
       },
       "requirements": {
-        "AT_COURAGE": 15
+        "AT_COURAGE": 14
       },
       "skill_tree": "SwordSkillTree",
-      "melee_tree": "SwordMeleeTree",
+      "melee_tree": "DendritSwordMeleeTree",
       "behaviors": [
         {
           "attack_data": {
@@ -962,7 +962,7 @@
         "AT_GRACE": 13
       },
       "requirements": {
-        "AT_COURAGE": 15
+        "AT_COURAGE": 12
       },
       "skill_tree": "SwordSkillTree",
       "melee_tree": "SwordMeleeTree",
@@ -1337,7 +1337,7 @@
         "AT_GRACE": 13
       },
       "requirements": {
-        "AT_GRACE": 14
+        "AT_GRACE": 12
       },
       "skill_tree": "DaggerSkillTree",
       "melee_tree": "DualSwordsMeleeTree",
@@ -4510,7 +4510,7 @@
         "AT_SPIRIT": 10
       },
       "requirements": {
-        "AT_COURAGE": 15
+        "AT_COURAGE": 14
       },
       "melee_tree": "TwoHandWideThrustMeleeTree",
       "behaviors": [
@@ -8432,6 +8432,199 @@
             "procchance": 0
           },
           "criticalHitChance": 0.02,
+          "reference": "chargedProjectileType"
+        }
+      ],
+      "combo": {
+        "BaseHitCount": 20.0,
+        "BaseHitMultipler": 1.0,
+        "HitCounterCap": 220.0,
+        "HitReqNextTierOperator": 20.0,
+        "TimeBetweenHits": 5.0
+      },
+      "slam_attack": {
+        "usenewformat": 0,
+        "type": "DT_EXPLOSION",
+        "amount": 10,
+        "stabilitydamage": 0,
+        "procchance": 0,
+        "hittype": "DHT_NONE",
+        "procextratime": 0,
+        "ignoreiframes": 0,
+        "doesteamdamage": 0
+      }
+    },
+    {
+      "path": "/SF/Weapons/Ranged/TwoHand/SinecureBow/SinecureBowRangedMeleeWeapon",
+      "name": "Sinecure Bow",
+      "category": "ranged_two_hand",
+      "subcategory": "dual_daggers",
+      "rarity": "RARE",
+      "inventory_slot": "SLOT_6",
+      "pvp": true,
+      "melee_style": "MS_BOW",
+      "localize_tag": "/SF/Language/Weapons/SinecureBowRangedMeleeWeaponName",
+      "localize_desc_tag": "/SF/Language/Weapons/SinecureBowRangedMeleeWeaponDesc",
+      "icon": "/SF/Interface/Graphics/StoreItems/Weapons/SinecureBow.png",
+      "attunements": {
+        "AT_COURAGE": 15,
+        "AT_GRACE": 13
+      },
+      "requirements": {
+        "AT_COURAGE": 15,
+        "AT_GRACE": 12
+      },
+      "melee_tree": "HeavyBowMeleeTree",
+      "behaviors": [
+        {
+          "attack_data": {
+            "usenewformat": 0,
+            "type": "DT_SLASH",
+            "amount": 45,
+            "stabilitydamage": 32,
+            "procchance": 0,
+            "hittype": "DHT_MELEE",
+            "procextratime": 0,
+            "ignoreiframes": 0,
+            "doesteamdamage": 0
+          },
+          "criticalHitChance": 0.039999999,
+          "criticalHitDamageMultiplier": 1.0,
+          "pvp_damage_multiplier": 1.52,
+          "ChargeDamageMultiplier": {
+            "min": 1.0,
+            "max": 2.0
+          },
+          "ChargeStabilityDamageMulti": {
+            "min": 1.25,
+            "max": 3.0
+          },
+          "ChargeArmourBypassPct": {
+            "min": 0.050000001,
+            "max": 0.2
+          },
+          "alternate_attack_data": {
+            "usenewformat": 0,
+            "type": "DT_IMPACT",
+            "amount": 45,
+            "stabilitydamage": 36,
+            "procchance": 0,
+            "hittype": "DHT_NONE",
+            "procextratime": 0,
+            "ignoreiframes": 0,
+            "doesteamdamage": 0
+          }
+        },
+        {
+          "attack_data": {
+            "usenewformat": 0,
+            "type": "DT_SLASH",
+            "amount": 25,
+            "stabilitydamage": 0,
+            "procchance": 0,
+            "hittype": "DHT_MELEE",
+            "procextratime": 0,
+            "ignoreiframes": 0,
+            "doesteamdamage": 0
+          },
+          "criticalHitChance": 0.050000001,
+          "criticalHitDamageMultiplier": 1.0,
+          "pvp_damage_multiplier": 1.52,
+          "alternate_attack_data": {
+            "usenewformat": 0,
+            "type": "DT_PHYSICAL",
+            "amount": 0,
+            "stabilitydamage": 0,
+            "procchance": 0.1,
+            "hittype": "DHT_NONE",
+            "procextratime": 0,
+            "ignoreiframes": 0,
+            "doesteamdamage": 0,
+            "damage_weights": {
+              "DT_IMPACT": 0.33333299,
+              "DT_PUNCTURE": 0.33333299,
+              "DT_SLASH": 0.33333403
+            },
+            "forced_procs": [
+              "PT_STAGGERED"
+            ]
+          }
+        },
+        {
+          "attack_data": {
+            "usenewformat": 0,
+            "type": "DT_SLASH",
+            "amount": 25,
+            "stabilitydamage": 40,
+            "procchance": 0,
+            "hittype": "DHT_MELEE",
+            "procextratime": 0,
+            "ignoreiframes": 0,
+            "doesteamdamage": 0
+          },
+          "criticalHitChance": 0.050000001,
+          "criticalHitDamageMultiplier": 1.0,
+          "pvp_damage_multiplier": 1.52,
+          "ChargeDamageMultiplier": {
+            "min": 1.0,
+            "max": 2.0
+          },
+          "ChargeStabilityDamageMulti": {
+            "min": 1.25,
+            "max": 3.0
+          },
+          "ChargeArmourBypassPct": {
+            "min": 0.050000001,
+            "max": 0.2
+          },
+          "alternate_attack_data": {
+            "usenewformat": 0,
+            "type": "DT_PHYSICAL",
+            "amount": 0,
+            "stabilitydamage": 0,
+            "procchance": 0.1,
+            "hittype": "DHT_NONE",
+            "procextratime": 0,
+            "ignoreiframes": 0,
+            "doesteamdamage": 0,
+            "damage_weights": {
+              "DT_IMPACT": 0.33333299,
+              "DT_PUNCTURE": 0.33333299,
+              "DT_SLASH": 0.33333403
+            },
+            "forced_procs": [
+              "PT_STAGGERED"
+            ]
+          }
+        }
+      ],
+      "parry": {
+        "ParryDamagePercentBlocked": 1.0,
+        "ParryCounterStabilityDamage": 100.0,
+        "ParryCooldownTime": 0.2,
+        "ParryStabilityDamagePercentBlocked": -0.75
+      },
+      "projectiles": [
+        {
+          "path": "/SF/Weapons/Ranged/TwoHand/SinecureBow/SinecureBowArrowProjectile",
+          "name": "SinecureBowArrowProjectile",
+          "attack_data": {
+            "amount": 45,
+            "stabilitydamage": 32
+          },
+          "criticalHitChance": 0.039999999,
+          "reference": "projectileType"
+        },
+        {
+          "path": "/SF/Weapons/Ranged/TwoHand/SinecureBow/SinecureBowArrowSuperProjectile",
+          "name": "SinecureBowArrowSuperProjectile",
+          "attack_data": {
+            "type": "DT_SLASH",
+            "amount": 113,
+            "stabilitydamage": 80,
+            "procchance": 0
+          },
+          "criticalHitChance": 0.039999999,
           "reference": "chargedProjectileType"
         }
       ],
